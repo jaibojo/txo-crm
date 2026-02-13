@@ -221,6 +221,23 @@ tbody tr:hover { background: #f8f9fa; }
                             <div class="number" id="verifiedCompanies">0</div>
                         </div>
                     </div>
+
+                    <!-- Funnel & Role Stats -->
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px;">
+                        <div class="data-table">
+                            <h3 style="padding: 20px 20px 0; color: #2c3e50;">Companies by Funnel Stage</h3>
+                            <div id="funnelStatsContainer" style="padding: 20px;">
+                                <div class="loading">Loading...</div>
+                            </div>
+                        </div>
+                        <div class="data-table">
+                            <h3 style="padding: 20px 20px 0; color: #2c3e50;">Roles by Status</h3>
+                            <div id="roleStatsContainer" style="padding: 20px;">
+                                <div class="loading">Loading...</div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="data-table">
                         <h3 style="padding: 20px 20px 0; color: #2c3e50;">Recent Activity</h3>
                         <table>
@@ -265,14 +282,15 @@ tbody tr:hover { background: #f8f9fa; }
                                 <tr>
                                     <th>Company Name</th>
                                     <th>Status</th>
-                                    <th>Onboarding Date</th>
+                                    <th>Funnel Stage</th>
+                                    <th>First Engagement</th>
                                     <th>Roles</th>
                                     <th>SPOCs</th>
                                     <th>Revenue</th>
                                 </tr>
                             </thead>
                             <tbody id="companiesTable">
-                                <tr><td colspan="6" class="loading">Loading companies...</td></tr>
+                                <tr><td colspan="7" class="loading">Loading companies...</td></tr>
                             </tbody>
                         </table>
                     </div>
@@ -506,21 +524,83 @@ function showPage(pageName) {
 // Dashboard
 function initializeDashboard() {
     const stats = crmData.stats || {};
+    const companies = crmData.companies || [];
+    const emails = crmData.email_conversations || [];
+
+    // Calculate funnel stats from emails
+    const funnelStats = {};
+    emails.forEach(e => {
+        const funnel = e.funnel || 'Unknown';
+        funnelStats[funnel] = (funnelStats[funnel] || 0) + 1;
+    });
+
+    // Calculate role stats by status
+    const roleStats = {};
+    companies.forEach(c => {
+        (c.roles || []).forEach(r => {
+            const status = r.status || 'Unknown';
+            roleStats[status] = (roleStats[status] || 0) + 1;
+        });
+    });
+
+    // Add funnel stage to companies from emails
+    companies.forEach(c => {
+        const companyEmails = emails.filter(e => e.company === c.company_name);
+        if (companyEmails.length > 0) {
+            // Get the most recent funnel stage
+            const sortedEmails = companyEmails.sort((a, b) => {
+                return new Date(b.last_date || 0) - new Date(a.last_date || 0);
+            });
+            c.funnel_stage = sortedEmails[0].funnel || 'Unknown';
+        } else {
+            c.funnel_stage = 'No Contact';
+        }
+    });
+
     document.getElementById('totalCompanies').textContent = (stats.total_companies || 0).toLocaleString();
     document.getElementById('activeCompanies').textContent = (stats.active_companies || 0).toLocaleString();
     document.getElementById('totalRoles').textContent = (stats.total_roles || 0).toLocaleString();
     document.getElementById('totalSPOCs').textContent = (stats.total_spocs || 0).toLocaleString();
-    document.getElementById('totalEmails').textContent = (stats.total_email_threads || 0).toLocaleString();
+    document.getElementById('totalEmails').textContent = (emails.length || 0).toLocaleString();
     document.getElementById('verifiedCompanies').textContent = (stats.verified_companies || 0).toLocaleString();
 
+    // Funnel breakdown by company count
+    const companyFunnelStats = {};
+    companies.forEach(c => {
+        const funnel = c.funnel_stage || 'Unknown';
+        companyFunnelStats[funnel] = (companyFunnelStats[funnel] || 0) + 1;
+    });
+
+    // Display funnel stats
+    const funnelContainer = document.getElementById('funnelStatsContainer');
+    const funnelEntries = Object.entries(companyFunnelStats).sort((a, b) => b[1] - a[1]);
+    funnelContainer.innerHTML = funnelEntries.length > 0 ?
+        funnelEntries.map(([funnel, count]) => `
+            <div style="display: flex; justify-content: space-between; align-items: center; padding: 12px; background: #f8f9fa; margin-bottom: 10px; border-radius: 6px; border-left: 3px solid #667eea;">
+                <span style="font-weight: 600; color: #2c3e50;">${funnel}</span>
+                <span class="badge badge-${getStatusColor(funnel)}">${count} companies</span>
+            </div>
+        `).join('') : '<p style="color: #7f8c8d;">No funnel data available</p>';
+
+    // Display role stats
+    const roleContainer = document.getElementById('roleStatsContainer');
+    const roleEntries = Object.entries(roleStats).sort((a, b) => b[1] - a[1]);
+    roleContainer.innerHTML = roleEntries.length > 0 ?
+        roleEntries.map(([status, count]) => `
+            <div style="display: flex; justify-content: space-between; align-items: center; padding: 12px; background: #f8f9fa; margin-bottom: 10px; border-radius: 6px; border-left: 3px solid #667eea;">
+                <span style="font-weight: 600; color: #2c3e50;">${status}</span>
+                <span class="badge badge-${getStatusColor(status)}">${count} roles</span>
+            </div>
+        `).join('') : '<p style="color: #7f8c8d;">No role data available</p>';
+
     // Recent activity (top 10 companies by engagement)
-    const companies = (crmData.companies || []).slice(0, 10);
+    const recentCompanies = companies.slice(0, 10);
     const tbody = document.getElementById('recentActivityTable');
-    tbody.innerHTML = companies.map(c => `
+    tbody.innerHTML = recentCompanies.map(c => `
         <tr onclick="showCompanyDetail('${c.company_name.replace(/'/g, "\\'")}')">
             <td><strong>${c.company_name}</strong></td>
             <td><span class="badge badge-${getStatusColor(c.status)}">${c.status || 'N/A'}</span></td>
-            <td>${c.last_engagement_date || 'N/A'}</td>
+            <td>${c.last_engagement || 'N/A'}</td>
             <td>${c.roles_count || 0}</td>
             <td>${c.revenue || 'N/A'}</td>
         </tr>
@@ -568,12 +648,13 @@ function renderCompanies(companies, page) {
         <tr onclick="showCompanyDetail('${c.company_name.replace(/'/g, "\\'")}')">
             <td><strong>${c.company_name}</strong></td>
             <td><span class="badge badge-${getStatusColor(c.status)}">${c.status || 'N/A'}</span></td>
-            <td>${c.onboarding_date || 'N/A'}</td>
+            <td><span class="badge badge-${getStatusColor(c.funnel_stage)}">${c.funnel_stage || 'Unknown'}</span></td>
+            <td>${c.first_engagement || 'N/A'}</td>
             <td>${c.roles_count || 0}</td>
             <td>${c.spocs_count || 0}</td>
             <td>${c.revenue || 'N/A'}</td>
         </tr>
-    `).join('') : '<tr><td colspan="6" class="empty-state">No companies found</td></tr>';
+    `).join('') : '<tr><td colspan="7" class="empty-state">No companies found</td></tr>';
 
     renderPagination('companies', companies.length, page);
 }
@@ -642,17 +723,20 @@ function renderEmails(emails, page) {
     const pageEmails = emails.slice(start, end);
 
     const container = document.getElementById('emailThreadsList');
-    container.innerHTML = pageEmails.length > 0 ? pageEmails.map(e => `
-        <div class="email-thread" onclick="showEmailThread('${e.thread_id}')">
+    container.innerHTML = pageEmails.length > 0 ? pageEmails.map((e, idx) => {
+        const dateRange = e.first_date && e.last_date ? `${e.first_date} to ${e.last_date}` : 'N/A';
+        const threadId = `${e.company}_${idx}`;
+        return `
+        <div class="email-thread" onclick="showEmailThread('${threadId}', ${JSON.stringify(e).replace(/'/g, "&#39;")})">
             <div class="email-thread-header">
                 <div class="email-thread-subject">${e.subject || 'No Subject'}</div>
-                <div class="email-thread-date">${e.date_range || 'N/A'}</div>
+                <div class="email-thread-date">${dateRange}</div>
             </div>
             <div class="email-thread-info">
-                <strong>${e.company}</strong> • ${e.message_count || 0} messages • ${e.participants || 'N/A'}
+                <strong>${e.company}</strong> • ${e.emails_count || 0} messages • Funnel: ${e.funnel || 'Unknown'}
             </div>
         </div>
-    `).join('') : '<div class="empty-state"><h3>No email communications found</h3></div>';
+    `}).join('') : '<div class="empty-state"><h3>No email communications found</h3></div>';
 
     renderPagination('emails', emails.length, page);
 }
@@ -675,9 +759,9 @@ function renderRoles(roles, page) {
     const tbody = document.getElementById('rolesTable');
     tbody.innerHTML = pageRoles.length > 0 ? pageRoles.map(r => `
         <tr>
-            <td><strong>${r.title || 'N/A'}</strong></td>
+            <td><strong>${r.job_title || r.title || 'N/A'}</strong></td>
             <td>${r.company || 'N/A'}</td>
-            <td>${r.start_date || 'N/A'}</td>
+            <td>${r.posted_date || r.start_date || 'N/A'}</td>
             <td><span class="badge badge-${getStatusColor(r.status)}">${r.status || 'N/A'}</span></td>
             <td>${r.location || 'N/A'}</td>
         </tr>
@@ -843,6 +927,7 @@ function showCompanyDetail(companyName) {
     document.getElementById('overviewTab').classList.add('active');
 
     // Overview
+    const companyEmailCount = (crmData.email_conversations || []).filter(e => e.company === companyName).length;
     document.getElementById('companyOverview').innerHTML = `
         <div class="info-item">
             <label>Client ID</label>
@@ -853,12 +938,24 @@ function showCompanyDetail(companyName) {
             <value><span class="badge badge-${getStatusColor(company.status)}">${company.status || 'N/A'}</span></value>
         </div>
         <div class="info-item">
-            <label>Onboarding Date</label>
-            <value>${company.onboarding_date || 'N/A'}</value>
+            <label>Funnel Stage</label>
+            <value><span class="badge badge-${getStatusColor(company.funnel_stage)}">${company.funnel_stage || 'Unknown'}</span></value>
+        </div>
+        <div class="info-item">
+            <label>First Engagement</label>
+            <value>${company.first_engagement || 'N/A'}</value>
         </div>
         <div class="info-item">
             <label>Last Engagement</label>
-            <value>${company.last_engagement_date || 'N/A'}</value>
+            <value>${company.last_engagement || 'N/A'}</value>
+        </div>
+        <div class="info-item">
+            <label>Industry</label>
+            <value>${company.industry || 'N/A'}</value>
+        </div>
+        <div class="info-item">
+            <label>Company Size</label>
+            <value>${company.company_size || 'N/A'}</value>
         </div>
         <div class="info-item">
             <label>Revenue</label>
@@ -873,8 +970,12 @@ function showCompanyDetail(companyName) {
             <value>${company.spocs_count || 0}</value>
         </div>
         <div class="info-item">
-            <label>Email Threads</label>
-            <value>${company.email_threads_count || 0}</value>
+            <label>Email Conversations</label>
+            <value>${companyEmailCount}</value>
+        </div>
+        <div class="info-item">
+            <label>Days Since Last Contact</label>
+            <value>${company.days_since_last_contact || 'N/A'}</value>
         </div>
     `;
 
@@ -885,18 +986,18 @@ function showCompanyDetail(companyName) {
             <thead>
                 <tr>
                     <th>Role Title</th>
-                    <th>Start Date</th>
+                    <th>Posted Date</th>
+                    <th>Updated Date</th>
                     <th>Status</th>
-                    <th>Location</th>
                 </tr>
             </thead>
             <tbody>
                 ${roles.map(r => `
                     <tr>
-                        <td><strong>${r.title || 'N/A'}</strong></td>
-                        <td>${r.start_date || 'N/A'}</td>
+                        <td><strong>${r.job_title || r.title || 'N/A'}</strong></td>
+                        <td>${r.posted_date || r.start_date || 'N/A'}</td>
+                        <td>${r.updated_date || 'N/A'}</td>
                         <td><span class="badge badge-${getStatusColor(r.status)}">${r.status || 'N/A'}</span></td>
-                        <td>${r.location || 'N/A'}</td>
                     </tr>
                 `).join('')}
             </tbody>
@@ -933,17 +1034,20 @@ function showCompanyDetail(companyName) {
     // Emails
     const companyEmails = (crmData.email_conversations || []).filter(e => e.company === companyName);
     document.getElementById('companyEmails').innerHTML = companyEmails.length > 0 ?
-        companyEmails.map(e => `
-            <div class="email-thread" onclick="event.stopPropagation(); showEmailThread('${e.thread_id}')">
+        companyEmails.map((e, idx) => {
+            const dateRange = e.first_date && e.last_date ? `${e.first_date} to ${e.last_date}` : 'N/A';
+            const threadId = `${e.company}_${idx}`;
+            return `
+            <div class="email-thread" onclick="event.stopPropagation(); showEmailThread('${threadId}', ${JSON.stringify(e).replace(/'/g, "&#39;")})">
                 <div class="email-thread-header">
                     <div class="email-thread-subject">${e.subject || 'No Subject'}</div>
-                    <div class="email-thread-date">${e.date_range || 'N/A'}</div>
+                    <div class="email-thread-date">${dateRange}</div>
                 </div>
                 <div class="email-thread-info">
-                    ${e.message_count || 0} messages • ${e.participants || 'N/A'}
+                    ${e.emails_count || 0} messages • Funnel: ${e.funnel || 'Unknown'}
                 </div>
             </div>
-        `).join('') : '<div class="empty-state"><h3>No email communications found</h3></div>';
+        `}).join('') : '<div class="empty-state"><h3>No email communications found</h3></div>';
 
     document.getElementById('companyModal').classList.add('active');
 }
@@ -961,57 +1065,49 @@ function closeModal() {
 }
 
 // Email Thread Modal
-function showEmailThread(threadId) {
-    const thread = (crmData.email_threads || []).find(t => t.thread_id === threadId);
+function showEmailThread(threadId, emailData) {
+    const conversation = emailData;
 
-    if (!thread) {
-        // If not in email_threads, check email_conversations
-        const conversation = (crmData.email_conversations || []).find(e => e.thread_id === threadId);
-        if (conversation) {
-            document.getElementById('modalThreadSubject').textContent = conversation.subject || 'No Subject';
-            document.getElementById('emailThreadContent').innerHTML = `
-                <div class="info-grid">
-                    <div class="info-item">
-                        <label>Company</label>
-                        <value>${conversation.company}</value>
-                    </div>
-                    <div class="info-item">
-                        <label>Date Range</label>
-                        <value>${conversation.date_range || 'N/A'}</value>
-                    </div>
-                    <div class="info-item">
-                        <label>Message Count</label>
-                        <value>${conversation.message_count || 0}</value>
-                    </div>
-                    <div class="info-item">
-                        <label>Participants</label>
-                        <value>${conversation.participants || 'N/A'}</value>
-                    </div>
-                </div>
-                <div class="empty-state">
-                    <h3>Detailed messages not available</h3>
-                    <p>Only summary information is available for this conversation</p>
-                </div>
-            `;
-        } else {
-            document.getElementById('emailThreadContent').innerHTML = '<div class="empty-state"><h3>Email thread not found</h3></div>';
-        }
-        document.getElementById('emailThreadModal').classList.add('active');
-        return;
-    }
+    document.getElementById('modalThreadSubject').textContent = conversation.subject || 'No Subject';
 
-    document.getElementById('modalThreadSubject').textContent = thread.subject || 'No Subject';
+    const dateRange = conversation.first_date && conversation.last_date ?
+        `${conversation.first_date} to ${conversation.last_date}` : 'N/A';
 
-    const messages = thread.messages || [];
-    document.getElementById('emailThreadContent').innerHTML = messages.length > 0 ?
-        messages.map(m => `
-            <div class="email-message">
-                <div class="email-meta">
-                    <strong>${m.from || 'N/A'}</strong> • ${m.date || 'N/A'}
-                </div>
-                <div>${m.body || 'No content'}</div>
+    document.getElementById('emailThreadContent').innerHTML = `
+        <div class="info-grid">
+            <div class="info-item">
+                <label>Company</label>
+                <value>${conversation.company}</value>
             </div>
-        `).join('') : '<div class="empty-state"><h3>No messages found</h3></div>';
+            <div class="info-item">
+                <label>Date Range</label>
+                <value>${dateRange}</value>
+            </div>
+            <div class="info-item">
+                <label>Email Count</label>
+                <value>${conversation.emails_count || 0}</value>
+            </div>
+            <div class="info-item">
+                <label>Funnel Stage</label>
+                <value><span class="badge badge-${getStatusColor(conversation.funnel)}">${conversation.funnel || 'Unknown'}</span></value>
+            </div>
+            <div class="info-item">
+                <label>First Email</label>
+                <value>${conversation.first_date || 'N/A'}</value>
+            </div>
+            <div class="info-item">
+                <label>Last Email</label>
+                <value>${conversation.last_date || 'N/A'}</value>
+            </div>
+            <div class="info-item">
+                <label>Days Since Last</label>
+                <value>${conversation.days_ago || 'N/A'} days</value>
+            </div>
+        </div>
+        <div style="margin-top: 20px;">
+            <p style="color: #7f8c8d; font-size: 14px;">📧 This conversation contains ${conversation.emails_count || 0} emails between ${conversation.first_date || 'N/A'} and ${conversation.last_date || 'N/A'}.</p>
+        </div>
+    `;
 
     document.getElementById('emailThreadModal').classList.add('active');
 }
