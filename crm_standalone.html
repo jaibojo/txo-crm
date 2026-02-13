@@ -525,7 +525,7 @@ function showPage(pageName) {
 function initializeDashboard() {
     const stats = crmData.stats || {};
     const companies = crmData.companies || [];
-    const emails = crmData.email_conversations || [];
+    const emails = crmData.email_threads || [];
 
     // Calculate funnel stats from emails
     const funnelStats = {};
@@ -691,14 +691,14 @@ function renderContacts(contacts, page) {
 
 // Emails
 function initializeEmails() {
-    const emails = crmData.email_conversations || [];
+    const emails = crmData.email_threads || [];
     document.getElementById('emailsCount').textContent = emails.length.toLocaleString();
     filteredData.emails = emails;
     renderEmails(emails, 1);
 }
 
 function populateEmailCompanyFilter() {
-    const companies = [...new Set((crmData.email_conversations || []).map(e => e.company))].sort();
+    const companies = [...new Set((crmData.email_threads || []).map(e => e.company))].sort();
     const select = document.getElementById('emailCompanyFilter');
     select.innerHTML = '<option value="">All Companies</option>' +
         companies.map(c => `<option value="${c}">${c}</option>`).join('');
@@ -706,7 +706,7 @@ function populateEmailCompanyFilter() {
 
 function filterEmails() {
     const companyFilter = document.getElementById('emailCompanyFilter').value;
-    let filtered = [...(crmData.email_conversations || [])];
+    let filtered = [...(crmData.email_threads || [])];
 
     if (companyFilter) {
         filtered = filtered.filter(e => e.company === companyFilter);
@@ -848,7 +848,7 @@ function performGlobalSearch() {
         });
 
         // Search emails
-        (crmData.email_conversations || []).forEach(e => {
+        (crmData.email_threads || []).forEach(e => {
             if ((e.subject || '').toLowerCase().includes(query) ||
                 (e.company || '').toLowerCase().includes(query)) {
                 results.emails.push({
@@ -927,7 +927,7 @@ function showCompanyDetail(companyName) {
     document.getElementById('overviewTab').classList.add('active');
 
     // Overview
-    const companyEmailCount = (crmData.email_conversations || []).filter(e => e.company === companyName).length;
+    const companyEmailCount = (crmData.email_threads || []).filter(e => e.company === companyName).length;
     document.getElementById('companyOverview').innerHTML = `
         <div class="info-item">
             <label>Client ID</label>
@@ -1032,7 +1032,7 @@ function showCompanyDetail(companyName) {
     ` : '<div class="empty-state"><h3>No SPOCs found</h3></div>';
 
     // Emails
-    const companyEmails = (crmData.email_conversations || []).filter(e => e.company === companyName);
+    const companyEmails = (crmData.email_threads || []).filter(e => e.company === companyName);
     document.getElementById('companyEmails').innerHTML = companyEmails.length > 0 ?
         companyEmails.map((e, idx) => {
             const dateRange = e.first_date && e.last_date ? `${e.first_date} to ${e.last_date}` : 'N/A';
