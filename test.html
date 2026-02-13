@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test JSON Load</title>
+</head>
+<body>
+    <h1>Testing crm_data.json Load</h1>
+    <div id="result"></div>
+
+    <script>
+        const resultDiv = document.getElementById('result');
+        resultDiv.innerHTML = 'Loading...';
+
+        fetch('crm_data.json')
+            .then(response => {
+                resultDiv.innerHTML += `<br>Response status: ${response.status}`;
+                resultDiv.innerHTML += `<br>Response OK: ${response.ok}`;
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                resultDiv.innerHTML += `<br><br>✅ SUCCESS!`;
+                resultDiv.innerHTML += `<br>Total companies: ${data.companies?.length || 0}`;
+                resultDiv.innerHTML += `<br>Total roles: ${data.total_roles || 0}`;
+                resultDiv.innerHTML += `<br>Total email threads: ${data.email_threads?.length || 0}`;
+                resultDiv.innerHTML += `<br>File size: ~${JSON.stringify(data).length} characters`;
+            })
+            .catch(error => {
+                resultDiv.innerHTML += `<br><br>❌ ERROR: ${error.message}`;
+                resultDiv.innerHTML += `<br><br>Possible causes:`;
+                resultDiv.innerHTML += `<br>1. File not found (404)`;
+                resultDiv.innerHTML += `<br>2. File too large (timeout)`;
+                resultDiv.innerHTML += `<br>3. GitHub Pages not rebuilt yet`;
+                resultDiv.innerHTML += `<br>4. CORS issue`;
+            });
+    </script>
+</body>
+</html>

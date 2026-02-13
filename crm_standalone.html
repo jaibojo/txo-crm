@@ -491,19 +491,41 @@ window.onload = function() {
 // Load data
 function loadData() {
     fetch('crm_data.json')
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            }
+            return response.json();
+        })
         .then(data => {
+            console.log('✓ CRM data loaded:', {
+                companies: data.companies?.length || 0,
+                email_threads: data.email_threads?.length || 0,
+                company_email_summary: data.company_email_summary?.length || 0
+            });
             crmData = data;
-            initializeDashboard();
-            initializeCompanies();
-            initializeContacts();
-            initializeEmails();
-            initializeRoles();
-            populateEmailCompanyFilter();
+
+            try { initializeDashboard(); } catch(e) { console.error('Dashboard init error:', e); }
+            try { initializeCompanies(); } catch(e) { console.error('Companies init error:', e); }
+            try { initializeContacts(); } catch(e) { console.error('Contacts init error:', e); }
+            try { initializeEmails(); } catch(e) { console.error('Emails init error:', e); }
+            try { initializeRoles(); } catch(e) { console.error('Roles init error:', e); }
         })
         .catch(error => {
-            console.error('Error loading data:', error);
-            alert('Error loading CRM data. Please refresh the page.');
+            console.error('❌ Error loading CRM data:', error);
+            document.body.innerHTML = `
+                <div style="padding: 40px; max-width: 600px; margin: 100px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                    <h2 style="color: #e74c3c;">⚠️ Error Loading CRM Data</h2>
+                    <p style="color: #555;"><strong>Error:</strong> ${error.message}</p>
+                    <p style="color: #555;">Please try:</p>
+                    <ol style="color: #555;">
+                        <li><strong>Hard Refresh:</strong> Press Cmd+Shift+R (Mac) or Ctrl+Shift+R (Windows)</li>
+                        <li><strong>Wait:</strong> GitHub Pages may still be updating (takes 2-3 minutes)</li>
+                        <li><strong>Clear Cache:</strong> Try opening in incognito/private mode</li>
+                    </ol>
+                    <button onclick="location.reload()" style="padding: 10px 20px; background: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer; margin-top: 20px;">Retry</button>
+                </div>
+            `;
         });
 }
 
