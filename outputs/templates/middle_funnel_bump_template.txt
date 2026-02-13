@@ -1,0 +1,20 @@
+Subject: Re: {previous_subject} - checking back in
+
+Hi {spoc_name},
+
+I wanted to follow up on our conversation from {last_contact_date} about {topic}.
+
+I know timing wasn't right back then, but I wanted to reconnect because:
+
+Since we last spoke, we've:
+- {growth_metric_1}
+- {growth_metric_2}
+- {growth_metric_3}
+
+Given these improvements and your {season/quarter} planning, would it make sense to revisit the conversation?
+
+Happy to jump on a quick call if you're open to it.
+
+Best regards,
+[Your Name]
+TalentXO

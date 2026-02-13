@@ -1,0 +1,13 @@
+Subject: Following up - worked with {reference_spoc_name}
+
+Hi {target_spoc_name},
+
+I hope this email finds you well. I'm reaching out because we've had the pleasure of working with {reference_spoc_name} ({reference_spoc_title}) at {company_name} on several successful placements over the past {timeframe}.
+
+Given our proven track record with {company_name}, I wanted to introduce our services to you and explore if we could support your hiring needs in {department/function}.
+
+Would you be open to a brief call to discuss how we might be able to help?
+
+Best regards,
+[Your Name]
+TalentXO

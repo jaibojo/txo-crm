@@ -1,0 +1,36 @@
+================================================================================
+SALES INTELLIGENCE PIPELINE - SUMMARY REPORT
+Generated: 2026-02-12 16:22:44.347563
+================================================================================
+
+📊 FUNNEL BREAKDOWN
+--------------------------------------------------------------------------------
+  Bottom Funnel: 45 contacts
+  Middle Funnel: 732 contacts
+  Hidden Opportunities: 191 contacts
+  Top Funnel: 12229 contacts
+
+🎯 STRATEGIC OPPORTUNITIES
+--------------------------------------------------------------------------------
+  Cross-SPOC (Same Company): 3596 opportunities
+
+⭐ TOP 10 PRIORITY CONTACTS
+--------------------------------------------------------------------------------
+  Jainam @ 1Health - bottom_active (Score: nan)
+  SpotDraft @ Draftspotting Technologies - middle_proposal_sent (Score: nan)
+  Yogesh Jha @ Bizdateup Technologies Pvt Ltd - middle_proposal_sent (Score: nan)
+  Priyanka Sonawane @ Bizdateup Technologies Pvt Ltd - middle_jd_shared (Score: nan)
+  Sharon.John @ TalentXO - middle_proposal_sent (Score: nan)
+  Swathi.Banka @ AP Corporate Finance Target Corporation - middle_negotiation (Score: nan)
+  Jyoti Kale @ I mentioned our Registered Company - middle_proposal_sent (Score: nan)
+  Anand Gourav @ Growth - top_cold (Score: nan)
+  Ruby @ Growth - top_cold (Score: nan)
+  Prasad Kamath @ Permanent Resource - middle_proposal_sent (Score: nan)
+
+================================================================================
+NEXT STEPS:
+================================================================================
+1. Review outputs/leads/ for segmented contact lists
+2. Use outputs/templates/ for personalized outreach
+3. Import master_classified_contacts.csv into your CRM
+4. Prioritize high-score contacts for immediate outreach

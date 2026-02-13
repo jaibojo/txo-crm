@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TalentXO CRM - Dashboard</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: #f5f7fa; }
+        .header { background: #2c3e50; color: white; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .header h1 { font-size: 24px; margin-bottom: 5px; }
+        .header p { opacity: 0.8; font-size: 14px; }
+        .nav { background: white; border-bottom: 1px solid #e1e8ed; padding: 0 20px; }
+        .nav a { display: inline-block; padding: 15px 20px; text-decoration: none; color: #2c3e50; border-bottom: 3px solid transparent; }
+        .nav a:hover, .nav a.active { color: #3498db; border-bottom-color: #3498db; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 30px 20px; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .stat-card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .stat-card h3 { font-size: 14px; color: #7f8c8d; text-transform: uppercase; margin-bottom: 10px; }
+        .stat-card .number { font-size: 36px; font-weight: 600; color: #2c3e50; }
+        .card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); margin-bottom: 20px; }
+        .card h2 { font-size: 18px; margin-bottom: 20px; color: #2c3e50; }
+        table { width: 100%; border-collapse: collapse; }
+        th { text-align: left; padding: 12px; background: #f8f9fa; border-bottom: 2px solid #e1e8ed; font-weight: 600; font-size: 13px; color: #2c3e50; }
+        td { padding: 12px; border-bottom: 1px solid #f1f3f5; font-size: 14px; }
+        tr:hover { background: #f8f9fa; }
+        .badge { display: inline-block; padding: 4px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+        .badge-green { background: #d4edda; color: #155724; }
+        .badge-yellow { background: #fff3cd; color: #856404; }
+        .badge-blue { background: #d1ecf1; color: #0c5460; }
+        .badge-gray { background: #e2e3e5; color: #383d41; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎯 TalentXO CRM</h1>
+        <p>Sales Intelligence & Relationship Management System</p>
+    </div>
+
+    <div class="nav">
+        <a href="/" class="active">Dashboard</a>
+        <a href="/contacts">Contacts</a>
+        <a href="/companies">Companies</a>
+    </div>
+
+    <div class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Contacts</h3>
+                <div class="number">{{ "{:,}".format(stats.total_contacts) }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>Total Companies</h3>
+                <div class="number">{{ "{:,}".format(stats.total_companies) }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>Bottom Funnel</h3>
+                <div class="number" style="color: #27ae60;">{{ stats.bottom_funnel }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>Middle Funnel</h3>
+                <div class="number" style="color: #f39c12;">{{ stats.middle_funnel }}</div>
+            </div>
+            <div class="stat-card">
+                <h3>High Priority (>60)</h3>
+                <div class="number" style="color: #e74c3c;">{{ stats.high_priority }}</div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>🔥 Top Priority Contacts</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Company</th>
+                        <th>Funnel Stage</th>
+                        <th>Priority Score</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for contact in recent %}
+                    <tr>
+                        <td><strong>{{ contact.name or 'N/A' }}</strong><br><small style="color: #7f8c8d;">{{ contact.email }}</small></td>
+                        <td>{{ contact.company or 'Unknown' }}</td>
+                        <td>
+                            {% if 'bottom' in contact.funnel_stage %}
+                            <span class="badge badge-green">{{ contact.funnel_stage }}</span>
+                            {% elif 'middle' in contact.funnel_stage %}
+                            <span class="badge badge-yellow">{{ contact.funnel_stage }}</span>
+                            {% elif 'hidden' in contact.funnel_stage %}
+                            <span class="badge badge-blue">{{ contact.funnel_stage }}</span>
+                            {% else %}
+                            <span class="badge badge-gray">{{ contact.funnel_stage }}</span>
+                            {% endif %}
+                        </td>
+                        <td><strong>{{ "%.1f"|format(contact.priority_score or 0) }}</strong></td>
+                        <td><a href="/contact/{{ contact.email }}" style="color: #3498db; text-decoration: none;">View →</a></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="card">
+            <h2>📊 Funnel Breakdown</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Funnel Stage</th>
+                        <th>Count</th>
+                        <th>Percentage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in funnel_breakdown %}
+                    <tr>
+                        <td>{{ row.funnel_stage }}</td>
+                        <td><strong>{{ row.count }}</strong></td>
+                        <td>{{ "%.1f"|format(row.count / stats.total_contacts * 100) }}%</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

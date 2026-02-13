@@ -1,0 +1,84 @@
+client_id,company_name,industry,company_size,first_engagement_date,last_engagement_date,total_positions_filled,revenue_generated,verified,is_repeat_client,engagement_count,active_positions,days_since_last_contact,client_status,client_value_score,is_dormant_warm
+3689,Freight Tiger,Various,Unknown,2022-08-24 10:35:41,2025-05-08 10:53:34,30,300000.0,1,True,5,28,280.0,dormant_warm,80.0,True
+4337,Trantor Inc,Various,Unknown,2024-05-02 11:36:06,2025-08-06 20:00:48,60,600000.0,1,False,1,46,189.0,dormant_warm,80.0,True
+4219,Jobvite,Various,Unknown,2023-05-09 10:43:58,2024-11-07 07:09:05,28,280000.0,1,False,1,26,462.0,dormant_warm,68.0,True
+4330,MPL Gaming,Various,Unknown,2024-03-21 13:28:57,2025-06-06 10:40:50,19,190000.0,1,False,1,17,251.0,dormant_warm,67.0,True
+995,YUJ Designs,Various,Unknown,2017-08-10 06:58:44,2024-02-15 11:05:29,20,200000.0,1,True,3,27,728.0,dormant_warm,60.0,True
+568,Peepal Design,Various,Unknown,2017-05-09 06:42:39,2024-04-03 09:31:07,20,200000.0,1,False,1,31,680.0,dormant_warm,60.0,True
+668,Jumbotail,Various,Unknown,2017-05-25 12:10:29,2025-03-19 06:04:24,16,160000.0,1,True,2,16,330.0,dormant_warm,58.0,True
+4354,R1 RCM India,Various,Unknown,2024-07-25 12:38:41,2025-02-26 10:10:36,15,150000.0,1,False,1,13,351.0,dormant_warm,55.0,True
+3352,THEM Consulting,Various,Unknown,2020-02-12 06:30:34,2025-07-09 12:35:33,15,150000.0,1,False,1,15,218.0,dormant_warm,55.0,True
+4152,JSW One,Various,Unknown,2022-10-28 15:30:39,2025-01-03 06:25:00,18,180000.0,1,False,1,16,405.0,dormant_warm,54.0,True
+2523,Internshala,Various,Unknown,2018-06-21 07:08:34,2024-07-04 11:52:41,17,170000.0,1,True,5,16,588.0,dormant_warm,51.0,True
+1309,RR Donnelley,Various,Unknown,2019-05-23 06:01:27,2024-04-25 06:18:21,16,160000.0,1,True,5,15,658.0,dormant_warm,48.0,True
+1218,Smytten,Various,Unknown,2018-05-30 08:45:34,2024-06-19 10:18:00,15,150000.0,1,True,2,17,603.0,dormant_warm,45.0,True
+4057,Hubble Money,Various,Unknown,2022-05-04 09:00:57,2025-07-15 13:03:02,11,110000.0,1,False,1,15,212.0,dormant_warm,43.0,True
+3515,SquadStack,Various,Unknown,2020-09-15 12:41:39,2024-07-23 19:19:11,13,130000.0,1,True,2,13,568.0,dormant_warm,39.0,True
+3424,Scaler Academy,Various,Unknown,2021-11-09 09:29:22,2024-08-28 09:20:09,12,120000.0,1,True,2,12,533.0,dormant_warm,36.0,True
+4332,HFR&D,Various,Unknown,2024-05-15 13:58:29,2025-04-29 06:27:18,8,80000.0,1,False,1,8,289.0,dormant_warm,34.0,True
+2832,Thence,Various,Unknown,2019-08-30 11:23:14,2024-06-18 05:20:18,11,110000.0,1,True,4,12,604.0,dormant_warm,33.0,True
+4131,Supertails,Various,Unknown,2022-09-12 06:30:46,2024-02-29 10:28:39,11,110000.0,1,True,2,15,714.0,dormant_warm,33.0,True
+4317,BluOne,Various,Unknown,2024-01-24 08:29:54,2024-05-02 09:35:04,11,110000.0,1,False,1,11,651.0,dormant_warm,33.0,True
+3089,Meesho,Various,Unknown,2021-05-22 05:32:50,2024-11-11 14:56:26,10,100000.0,1,True,3,9,458.0,dormant_warm,30.0,True
+4277,Analogyx,Various,Unknown,2023-10-06 06:36:50,2024-07-23 09:08:46,9,90000.0,1,False,1,6,569.0,dormant_warm,27.0,True
+191,Redbus,Various,Unknown,2017-01-15 18:00:53,2024-05-16 10:33:43,9,90000.0,1,True,2,10,637.0,dormant_warm,27.0,True
+2609,Apra Labs,Various,Unknown,2025-03-12 02:15:19,2025-03-12 06:09:36,5,50000.0,1,False,1,5,337.0,dormant_warm,25.0,True
+4384,Tekion Corp,Various,Unknown,2025-07-25 10:55:59,2025-07-25 13:08:33,4,40000.0,1,False,1,3,202.0,dormant_warm,22.0,True
+3093,Instawork,Various,Unknown,2019-07-04 14:38:33,2024-10-11 08:53:33,7,70000.0,1,False,1,7,489.0,dormant_warm,21.0,True
+4338,Games 24X7,Various,Unknown,2024-05-09 09:05:01,2025-06-13 12:26:12,3,30000.0,1,False,1,2,244.0,dormant_warm,19.0,True
+4383,Lila Games,Various,Unknown,2025-07-23 05:31:18,2025-07-29 04:09:48,3,30000.0,1,False,1,3,198.0,dormant_warm,19.0,True
+4374,Liquidnitro Games,Various,Unknown,2025-04-04 10:55:32,2025-04-04 11:50:14,3,30000.0,1,False,1,2,314.0,dormant_warm,19.0,True
+4324,Blufig,Various,Unknown,2024-03-15 13:57:32,2024-03-21 08:05:10,6,60000.0,1,False,1,5,693.0,dormant_warm,18.0,True
+4207,Sigmoid Analytics,Various,Unknown,2023-03-27 05:26:03,2024-03-15 14:43:16,6,60000.0,1,False,1,6,699.0,dormant_warm,18.0,True
+1270,MoEngage,Various,Unknown,2017-08-02 11:06:17,2024-05-21 19:08:01,6,60000.0,1,True,3,6,631.0,dormant_warm,18.0,True
+4297,Logo Infosoft,Various,Unknown,2023-11-15 16:04:53,2024-07-04 06:38:20,6,60000.0,1,False,1,5,588.0,dormant_warm,18.0,True
+4376,Itu Chaudhuri Designs,Various,Unknown,2025-04-29 17:15:13,2025-04-30 06:48:57,2,20000.0,1,False,1,2,288.0,dormant_warm,16.0,True
+4381,Cube - Digital Construction Platform,Various,Unknown,2025-07-03 12:32:43,2025-07-09 14:27:17,2,20000.0,1,False,1,2,218.0,dormant_warm,16.0,True
+3350,Nanonets,Various,Unknown,2025-03-11 10:14:55,2025-08-11 11:39:37,2,20000.0,1,True,2,2,185.0,dormant_warm,16.0,True
+4375,Capital One,Various,Unknown,2025-04-15 01:31:56,2025-04-15 02:00:05,2,20000.0,1,False,1,2,303.0,dormant_warm,16.0,True
+4385,Biome,Various,Unknown,2025-08-06 08:54:15,2025-08-06 09:37:29,2,20000.0,1,False,1,2,190.0,dormant_warm,16.0,True
+4373,Axelerant,Various,Unknown,2025-03-28 05:25:25,2025-03-28 06:41:05,2,20000.0,1,False,1,2,321.0,dormant_warm,16.0,True
+4382,UHY LLP,Various,Unknown,2025-07-21 22:58:02,2025-07-23 21:30:57,2,20000.0,0,False,1,0,203.0,dormant_warm,16.0,True
+3916,SafeGold,Various,Unknown,2021-11-04 04:03:08,2024-06-21 13:08:06,5,50000.0,1,False,1,5,601.0,dormant_warm,15.0,True
+4329,Park+,Various,Unknown,2024-03-21 10:26:48,2024-06-26 14:50:27,5,50000.0,1,False,1,3,596.0,dormant_warm,15.0,True
+4327,Asato.ai,Various,Unknown,2024-03-19 12:50:45,2024-03-19 16:14:50,5,50000.0,1,False,1,4,695.0,dormant_warm,15.0,True
+4377,FirstClub,Various,Unknown,2025-05-01 14:42:24,2025-05-01 14:42:24,1,10000.0,1,False,1,1,287.0,dormant_warm,13.0,True
+4378,Uniqode,Various,Unknown,2025-05-06 18:16:51,2025-05-06 18:16:51,1,10000.0,1,False,1,1,281.0,dormant_warm,13.0,True
+4370,Kastech Software Solutions Group,Various,Unknown,2025-02-13 08:55:26,2025-02-13 08:55:26,1,10000.0,1,False,1,1,364.0,dormant_warm,13.0,True
+4371,Konnect Insights,Various,Unknown,2025-02-13 12:10:51,2025-02-13 12:10:51,1,10000.0,1,False,1,1,364.0,dormant_warm,13.0,True
+4365,Dealermatix,Various,Unknown,2024-12-05 12:39:37,2024-12-20 02:55:17,4,40000.0,1,False,1,4,419.0,dormant_warm,12.0,True
+4320,Datansh Solutions,Various,Unknown,2024-02-14 05:46:13,2024-02-14 07:04:31,4,40000.0,1,False,1,1,729.0,dormant_warm,12.0,True
+3169,SuperGaming,Various,Unknown,2019-09-12 16:25:23,2024-09-10 10:06:18,4,40000.0,1,True,2,3,520.0,dormant_warm,12.0,True
+4267,Blinctrip,Various,Unknown,2023-09-02 12:25:33,2024-03-13 04:57:27,4,40000.0,1,False,1,3,701.0,dormant_warm,12.0,True
+4340,Apna Mart,Various,Unknown,2024-05-20 18:39:47,2024-05-21 16:35:06,4,40000.0,1,False,1,2,631.0,dormant_warm,12.0,True
+4182,Maloo Group,Various,Unknown,2022-12-17 07:15:11,2024-10-10 14:43:22,4,40000.0,1,True,2,4,490.0,dormant_warm,12.0,True
+4343,Novatr,Various,Unknown,2024-05-29 13:24:17,2024-07-23 19:49:49,3,30000.0,1,False,1,3,568.0,dormant_warm,9.0,True
+4315,	Tookitaki,Various,Unknown,2024-01-17 11:02:31,2024-10-04 07:46:45,3,30000.0,1,False,1,2,496.0,dormant_warm,9.0,True
+4283,Adrianse,Various,Unknown,2023-10-19 05:25:17,2024-07-29 09:01:31,3,30000.0,1,False,1,3,563.0,dormant_warm,9.0,True
+4172,Atlan,Various,Unknown,2022-11-17 08:59:07,2024-10-01 11:20:51,3,30000.0,1,False,1,3,499.0,dormant_warm,9.0,True
+4325,Exponent energy,Various,Unknown,2024-03-18 16:49:27,2024-03-18 17:54:17,3,30000.0,1,False,1,3,695.0,dormant_warm,9.0,True
+4349,Delta.exchange,Various,Unknown,2024-07-02 09:23:36,2024-07-11 18:34:17,3,30000.0,1,False,1,3,580.0,dormant_warm,9.0,True
+4307,DailyRounds - Marrow,Various,Unknown,2024-02-16 13:01:34,2024-08-23 10:58:15,3,30000.0,1,True,3,3,538.0,dormant_warm,9.0,True
+4313,MAI Labs,Various,Unknown,2024-02-21 08:01:24,2024-02-21 10:15:47,2,20000.0,1,False,1,2,722.0,dormant_warm,6.0,True
+4357,Studio Earth,Various,Unknown,2024-08-22 10:08:09,2024-08-28 11:56:25,2,20000.0,1,False,1,2,533.0,dormant_warm,6.0,True
+4341,bobble.ai,Various,Unknown,2024-05-21 16:57:54,2024-05-21 17:34:22,2,20000.0,1,False,1,2,631.0,dormant_warm,6.0,True
+4361,Zenskar,Various,Unknown,2024-11-21 06:18:44,2024-11-21 06:28:38,2,20000.0,1,False,1,1,448.0,dormant_warm,6.0,True
+4321,Auriga IT,Various,Unknown,2024-03-08 07:05:03,2024-04-02 12:27:58,2,20000.0,1,False,1,1,681.0,dormant_warm,6.0,True
+4328,Tortoise,Various,Unknown,2024-03-19 14:51:09,2024-03-19 16:33:38,2,20000.0,1,False,1,2,694.0,dormant_warm,6.0,True
+4323,Bharat Homeopathy Pvt Ltd,Various,Unknown,2024-03-15 06:01:51,2024-03-19 05:47:35,2,20000.0,0,True,3,0,695.0,dormant_warm,6.0,True
+4369,CarInfo,Various,Unknown,2025-01-28 12:45:48,2025-01-28 13:49:37,2,20000.0,1,False,1,2,380.0,dormant_warm,6.0,True
+4342,Cornerstone,Various,Unknown,2024-05-24 07:56:26,2024-05-24 08:44:28,2,20000.0,1,False,1,1,629.0,dormant_warm,6.0,True
+4322,Heady,Various,Unknown,2024-08-20 15:36:53,2024-09-01 08:21:44,2,20000.0,1,False,1,2,529.0,dormant_warm,6.0,True
+4368,Acko Insurance,Various,Unknown,2025-01-11 08:43:09,2025-01-11 09:26:24,2,20000.0,1,False,1,2,397.0,dormant_warm,6.0,True
+4345,Ced,Various,Unknown,2024-06-19 08:56:16,2024-06-19 08:56:16,1,10000.0,0,False,1,5,603.0,dormant_warm,3.0,True
+4191,Lifesight,Various,Unknown,2024-12-18 15:02:38,2024-12-18 15:02:38,1,10000.0,1,True,2,1,421.0,dormant_warm,3.0,True
+4336,CX100,Various,Unknown,2024-04-27 13:35:58,2024-04-27 13:35:58,1,10000.0,1,False,1,1,656.0,dormant_warm,3.0,True
+4364,CRMIT,Various,Unknown,2024-11-28 14:55:51,2024-11-28 14:55:51,1,10000.0,1,False,1,1,441.0,dormant_warm,3.0,True
+4346,CED,Various,Unknown,2024-06-20 08:27:05,2024-06-20 08:27:05,1,10000.0,0,False,1,0,602.0,dormant_warm,3.0,True
+4333,DCB Bank,Various,Unknown,2024-04-19 10:13:23,2024-04-19 10:13:23,1,10000.0,1,False,1,1,664.0,dormant_warm,3.0,True
+4358,Envox Staffing Solutions,Various,Unknown,2024-09-05 11:56:13,2024-09-05 11:56:13,1,10000.0,0,False,1,0,525.0,dormant_warm,3.0,True
+4335,FAQPrime,Various,Unknown,2024-04-25 06:48:36,2024-04-25 06:48:36,1,10000.0,1,False,1,1,658.0,dormant_warm,3.0,True
+4362,Apnamart,Various,Unknown,2024-11-21 11:21:19,2024-11-21 11:21:19,1,10000.0,1,False,1,1,448.0,dormant_warm,3.0,True
+4339,Valuebound,Various,Unknown,2024-05-16 11:20:11,2024-05-16 11:20:11,1,10000.0,0,False,1,0,637.0,dormant_warm,3.0,True
+4348,Handle Exception IT Services Private Limited,Various,Unknown,2024-06-28 06:01:07,2024-06-28 06:01:07,1,10000.0,0,False,1,0,594.0,dormant_warm,3.0,True
+4331,truhire.online,Various,Unknown,2024-03-22 06:59:31,2024-03-22 06:59:31,1,10000.0,0,False,1,0,692.0,dormant_warm,3.0,True

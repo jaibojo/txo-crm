@@ -1,0 +1,1987 @@
+spoc_id,client_id,full_name,email,phone,job_title,linkedin_url,first_contact_date,last_contact_date,is_active,days_since_last_contact,email_domain
+1,300,Jainam,jainam.shah@1health.in,7042311811,VP ,,2022-10-01,2022-10-01,1,1230.0,1health.in
+2,3120,Kiran ,kiran@1stmain.co,,CEO,,2022-10-01,2022-10-01,1,1230.0,1stmain.co
+3,0,Manik,manik@1thing.design,,,,2022-10-01,2022-10-01,1,1230.0,1thing.design
+4,0,Harnish,hr@3mindsdigital.com,7073973939,Founder,,2022-10-01,2022-10-01,1,1230.0,3mindsdigital.com
+5,1315,Prashanth,prashanth.lm@robosoftin.com,,,,2022-10-01,2022-10-01,1,1230.0,robosoftin.com
+6,1315,Rohith,rohith@99games.in,,,,2022-10-01,2022-10-01,1,1230.0,99games.in
+7,1315,Anila,anila@99games.in,9036093930,,,2022-10-01,2022-10-01,1,1230.0,99games.in
+8,3825,Ashwin,ashwin@acceldata.io,,,,2022-10-01,2022-10-01,1,1230.0,acceldata.io
+9,207,Falguni,falguni.agarwal@aicl.in,9833531530,,,2022-10-01,2022-10-01,1,1230.0,aicl.in
+10,3828,Vijaylakshmi,vijaylakshmi.raman@airblack.co,,HR,,2022-10-01,2022-10-01,1,1230.0,airblack.co
+11,0,Kaustuv,kaustuv@airmeet.com,,Product,,2022-10-01,2022-10-01,1,1230.0,airmeet.com
+12,0,Meena,meena@airmeet.com,,HR,,2022-10-01,2022-10-01,1,1230.0,airmeet.com
+13,0,Anshul,anshul@airmeet.com,,HR,,2022-10-01,2022-10-01,1,1230.0,airmeet.com
+14,0, Rajat,rajat@alphacare.xyz,9999372233,,,2022-10-01,2022-10-01,1,1230.0,alphacare.xyz
+15,4183,Amit,amit@theinnerhour.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,theinnerhour.com
+16,4183,Nishit,nishit@theinnerhour.com,,Operation,,2022-10-01,2022-10-01,1,1230.0,theinnerhour.com
+17,370,Rajesh,ghoshr@amazon.com,9986456671,HR,,2022-10-01,2022-10-01,1,1230.0,amazon.com
+18,2959,Malem,malem.thokchom@anarock.com,,HR,,2022-10-01,2022-10-01,1,1230.0,anarock.com
+19,0,Prash,prash@apra.in,,,,2022-10-01,2022-10-01,1,1230.0,apra.in
+20,0,Akhil,akhil@apra.in,,,,2022-10-01,2022-10-01,1,1230.0,apra.in
+21,424,Krishnan,krishnan.warrier@atherenergy.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,atherenergy.com
+22,424,Rohith,rohith.hariharan@atherenergy.com,,TA,,2022-10-01,2022-10-01,1,1230.0,atherenergy.com
+23,4106,Shalini,skumar2@atlassian.com,,Talent Sourcer,,2022-10-01,2022-10-01,1,1230.0,atlassian.com
+24,4106,Rakshith,rlaxmiramana@atlassian.com,,Talent Partner,,2022-10-01,2022-10-01,1,1230.0,atlassian.com
+25,4106,Dhairya,dkothari@atlassian.com,,TA,,2022-10-01,2022-10-01,1,1230.0,atlassian.com
+26,3691,Manisha,communication@avizva.com,,TA,,2022-10-01,2022-10-01,1,1230.0,avizva.com
+27,3691,Bhakti,bhakti.kushwaha@avizva.com,,TA,,2022-10-01,2022-10-01,1,1230.0,avizva.com
+28,3691,Shveta,shveta.raina@avizva.com,,VP,,2022-10-01,2022-10-01,1,1230.0,avizva.com
+29,3691,HR Team,hiring.team@avizva.com,,HR,,2022-10-01,2022-10-01,1,1230.0,avizva.com
+30,3691,Anukampa,anukampa.dubey@avizva.com,,TA,,2022-10-01,2022-10-01,1,1230.0,avizva.com
+31,3691,Preeti,preeti.malhotra@avizva.com,,TA,,2022-10-01,2022-10-01,1,1230.0,avizva.com
+32,649,Namrith,namrith.shetty@bajajfinserv.in,9619623468,,,2022-10-01,2022-10-01,1,1230.0,bajajfinserv.in
+33,2987,Sifat,sifat@bareanatomy.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,bareanatomy.com
+34,2987,Rohit,rohit@bareanatomy.com,,Product,,2022-10-01,2022-10-01,1,1230.0,bareanatomy.com
+35,0,Yogita,yogita@bepositive24.com,9940178328,Director,,2022-10-01,2022-10-01,1,1230.0,bepositive24.com
+36,4015,Silita,silita.simantika@expinfi.com,,TA ,,2022-10-01,2022-10-01,1,1230.0,expinfi.com
+37,0,Shankarappa,shankarappa@bigbasket.com,9448611787,HR,,2022-10-01,2022-10-01,1,1230.0,bigbasket.com
+38,0,Swetha,swetha.hs@bigbasket.com,,HR,,2022-10-01,2022-10-01,1,1230.0,bigbasket.com
+39,3534,Jitender,bedwal@bijak.in,,Founder,,2022-10-01,2022-10-01,1,1230.0,bijak.in
+40,3534,HR Team,hr@bijak.in,,HR,,2022-10-01,2022-10-01,1,1230.0,bijak.in
+41,0,Gaurav,gauravdahake@buyhatke.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,buyhatke.com
+42,4025,Esha,hr@bitespeed.co,,,,2022-10-01,2022-10-01,1,1230.0,bitespeed.co
+43,3216,Shalmali,shalmali@bizongo.in,,Marketing,,2022-10-01,2022-10-01,1,1230.0,bizongo.in
+44,3216,Sachin,sachin@bizongo.in,,Founder,,2022-10-01,2022-10-01,1,1230.0,bizongo.in
+45,3312,Riya,riya@blinkdigital.in,,HR,,2022-10-01,2022-10-01,1,1230.0,blinkdigital.in
+46,0,Pawneet,pawneet.kaur@bmu.edu.in,,,,2022-10-01,2022-10-01,1,1230.0,bmu.edu.in
+47,0,Seema Chugh,seema@bonzai.co,8329148071,,,2022-10-01,2022-10-01,1,1230.0,bonzai.co
+48,2252,Recruitment Team,recruitment.team@bookmyshow.com,,HR,,2022-10-01,2022-10-01,1,1230.0,bookmyshow.com
+49,2945,Mark,mark.allardice@borngroup.com,,Design,,2022-10-01,2022-10-01,1,1230.0,borngroup.com
+50,2945,Rajitha,rajitha.jeeva@borngroup.com,,TA,,2022-10-01,2022-10-01,1,1230.0,borngroup.com
+51,2945,Nathan ,careers@borngroup.com,9445443663,TA,,2022-10-01,2022-10-01,1,1230.0,borngroup.com
+52,0,Nidhi,madan.nidhi@bcg.com,,HR,,2022-10-01,2022-10-01,1,1230.0,bcg.com
+53,0,Manmeet,sandhu.manmeet@bcg.com,,TA,,2022-10-01,2022-10-01,1,1230.0,bcg.com
+54,0,Radhika,sawant.radhika@bcg.com,,TA,,2022-10-01,2022-10-01,1,1230.0,bcg.com
+55,0,Radhika,radhika.radhika@bcg.com,,TA,,2022-10-01,2022-10-01,1,1230.0,bcg.com
+56,3497,Vaishnavi,vaishnavi@brightmoney.co,,HR,,2022-10-01,2022-10-01,1,1230.0,brightmoney.co
+57,3497,Jayashree,jayashree@brightmoney.co,,VP,,2022-10-01,2022-10-01,1,1230.0,brightmoney.co
+58,0,Sachin,sachin@bulbul.tv,,Founder,,2022-10-01,2022-10-01,1,1230.0,bulbul.tv
+59,4093,Shyam,shyam@buyerassist.io,,,,2022-10-01,2022-10-01,1,1230.0,buyerassist.io
+60,4093,Vignesh,vignesh.g@buyerassist.io,,,,2022-10-01,2022-10-01,1,1230.0,buyerassist.io
+61,0,Abhishek,abhishek.kochhar@thinkandlearn.in,,,,2022-10-01,2022-10-01,1,1230.0,thinkandlearn.in
+62,0,Rakesh,hello@rakeshmondal.in,9007072933,,,2022-10-01,2022-10-01,1,1230.0,rakeshmondal.in
+63,3886,Augustus,augustus@callhub.io,,Founder,,2022-10-01,2022-10-01,1,1230.0,callhub.io
+64,221,Rahul,rahul@canvass.in,9820297187,CEO,,2022-10-01,2022-10-01,1,1230.0,canvass.in
+65,221,Ankur,ankur@canvass.in,9820188005,Product,,2022-10-01,2022-10-01,1,1230.0,canvass.in
+66,413,Girijesh,girijesh.singh@capgemini.com,,TA,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+67,413,Radhika,radhika.salunkhe@capgemini.com,,HR,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+68,413,Anilkumar,anilkumar.singh@capgemini.com,,VP (Supply Chain),,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+69,413,Ranjana,ranjana.bhawsingka@capgemini.com,,Director (HR),,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+70,413,Vaishali,vaishali.walimbe@capgemini.com,,HR,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+71,413,Monica,monica.deshpande@capgemini.com,,Design,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+72,413,Lalit,lalit.shahane@capgemini.com,9422525769,Design,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+73,413,Joydeep,joydeep.basu@capgemini.com,,Supply Chain,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+74,413,Rekha,rekha.malayattil@capgemini.com,,TA,,2022-10-01,2022-10-01,1,1230.0,capgemini.com
+75,502,Hari,contact@cartoonmango.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,cartoonmango.com
+76,3725,Sandeep,sandeep@cashfree.com,,TA,,2022-10-01,2022-10-01,1,1230.0,cashfree.com
+77,3555,Gaurav,gaurav@cemtrex.com,,Product,,2022-10-01,2022-10-01,1,1230.0,cemtrex.com
+78,3555,Bhavin,bkotecha@cemtrexlabs.com,,Design,,2022-10-01,2022-10-01,1,1230.0,cemtrexlabs.com
+79,3382,Manoj,manoj@centime.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,centime.com
+80,1466,Praveen,praveen@chargebee.com,9940028501,Accounts,,2022-10-01,2022-10-01,1,1230.0,chargebee.com
+81,1466,Mani,mani@chargebee.com,,HR,,2022-10-01,2022-10-01,1,1230.0,chargebee.com
+82,1466,Vino,vino@chargebee.com,,,,2022-10-01,2022-10-01,1,1230.0,chargebee.com
+83,0,Amit,amit.gupta@ck12.org,9818486059,VP,,2022-10-01,2022-10-01,1,1230.0,ck12.org
+84,729,Mahesh,mahesh@clay.consulting,,Design,,2022-10-01,2022-10-01,1,1230.0,clay.consulting
+85,2819,Monica ,monica.b@cleartax.in,,HR,,2022-10-01,2022-10-01,1,1230.0,cleartax.in
+86,2819,Archana,archana.k@cleartax.in,,HR,,2022-10-01,2022-10-01,1,1230.0,cleartax.in
+87,2819,Vishnu,vishnu.iruvanti@cleartax.in,,Tech,,2022-10-01,2022-10-01,1,1230.0,cleartax.in
+88,2819,Rabi,rabi.agrawal@cleartax.in,,TA,,2022-10-01,2022-10-01,1,1230.0,cleartax.in
+89,1797,Dikshit,dikshith@codecraft.co.in,,CEO,,2022-10-01,2022-10-01,1,1230.0,codecraft.co.in
+90,1797,Likitha,hr@codecraft.co.in,,HR,,2022-10-01,2022-10-01,1,1230.0,codecraft.co.in
+91,3663,Aditi,aditi.goel@codingninjas.com,,HR,,2022-10-01,2022-10-01,1,1230.0,codingninjas.com
+92,3663,Ritu ,ritu.jaiswal@codingninjas.com,,TA,,2022-10-01,2022-10-01,1,1230.0,codingninjas.com
+93,187,Nirmal,nirmalkumar.s@cognizant.com,,HR,,2022-10-01,2022-10-01,1,1230.0,cognizant.com
+94,2328,Michael,mkv@commutatus.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,commutatus.com
+95,2328,Hiren,hiren@commutatus.com,9940024651,HR,,2022-10-01,2022-10-01,1,1230.0,commutatus.com
+96,0,Subramanian,subbu@finiteloop.io,,,,2022-10-01,2022-10-01,1,1230.0,finiteloop.io
+97,3815,Radhika,radhika@cradlewise.com,,,,2022-10-01,2022-10-01,1,1230.0,cradlewise.com
+98,3815,Suma,suma@cradlewise.com,,,,2022-10-01,2022-10-01,1,1230.0,cradlewise.com
+99,3815,Ashish,ashish_ihm2008@yahoo.com,,,,2022-10-01,2022-10-01,1,1230.0,yahoo.com
+100,264,Tripesh,tripesh@creativefactor.in,9818347740,Operations,,2022-10-01,2022-10-01,1,1230.0,creativefactor.in
+101,0,Dwija,dwija.kalyanam@creditvidya.com,,,,2022-10-01,2022-10-01,1,1230.0,creditvidya.com
+102,0,Varun,varun@crofarm.com,,,,2022-10-01,2022-10-01,1,1230.0,crofarm.com
+103,0,Vikas,vikas.bothra@crofarm.com,,Finance,,2022-10-01,2022-10-01,1,1230.0,crofarm.com
+104,0,Priyanka,priyanka@crowdfireapp.com,,COS,,2022-10-01,2022-10-01,1,1230.0,crowdfireapp.com
+105,0,Sheena,sheena.taboda@curefit.com,,Management,,2022-10-01,2022-10-01,1,1230.0,curefit.com
+106,0,Shruti,shruti@curefit.com,,TA,,2022-10-01,2022-10-01,1,1230.0,curefit.com
+107,0,Naresh,naresh.kumar@v.curefit.com,,Business,,2022-10-01,2022-10-01,1,1230.0,v.curefit.com
+108,0,Ankesh,ankesh.yadav@curefit.com,,Supply chain,,2022-10-01,2022-10-01,1,1230.0,curefit.com
+109,0,Ashish,ashish.gupta1@cultfit.in,,Operations,,2022-10-01,2022-10-01,1,1230.0,cultfit.in
+110,3030,Piyush,piyushdudeja@outlook.com,9654440896,Product,,2022-10-01,2022-10-01,1,1230.0,outlook.com
+111,3030,Rachit,rachits@live.com,9911659277,Creative Manager,,2022-10-01,2022-10-01,1,1230.0,live.com
+112,3030,Aviral,amisra@cvent.com,9999700564,Tech,,2022-10-01,2022-10-01,1,1230.0,cvent.com
+113,3030,Ashish,ashishmishra@cvent.com,,TA,,2022-10-01,2022-10-01,1,1230.0,cvent.com
+114,3030,Bharat,bmeghaney@cvent.com,,Operations,,2022-10-01,2022-10-01,1,1230.0,cvent.com
+115,4250,Srishti,srishti@unstop.com,8826763653,Design,,2022-10-01,2022-10-01,1,1230.0,unstop.com
+116,4250,Tushar,tushar@dare2compete.com,,Operations,,2022-10-01,2022-10-01,1,1230.0,dare2compete.com
+117,3862,Priyam,priyam.vyas@datamatics.com,,TA,,2022-10-01,2022-10-01,1,1230.0,datamatics.com
+118,0,Jai,jai@deepsource.io,,Founder,,2022-10-01,2022-10-01,1,1230.0,deepsource.io
+119,83,Shivhare,vshivhare@deloitte.com,,,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+120,83,Abhinav ,abhinavsharma4@deloitte.com,,TA,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+121,83,Nabanita ,nbiswasdas@deloitte.com,7348964606,TA,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+122,83,Jyoti ,jykumari@deloitte.com,8142888508,TA,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+123,83,Harsh ,hsawnani@live.com,7799622297,HR,,2022-10-01,2022-10-01,1,1230.0,live.com
+124,83,Satya ,satpv@deloitte.com,,TA,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+125,83,Gagandeep,gkaurpadam@deloitte.com,8885310872,HR,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+126,83,Shaik,ishaik@deloitte.com,,TA,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+127,83,Ishaque,isshaik@deloitte.com,8985218789,TA,,2022-10-01,2022-10-01,1,1230.0,deloitte.com
+128,4149,Swati,swati@delta.exchange,,,,2022-10-01,2022-10-01,1,1230.0,delta.exchange
+129,0,Yash,yash@designstring.com,81234 26194,Founder,,2022-10-01,2022-10-01,1,1230.0,designstring.com
+130,544,Nirali,nirali@designaren.com,98197 03282,HR,,2022-10-01,2022-10-01,1,1230.0,designaren.com
+131,0,Prashant,prashant@devtron.ai,,Founder,,2022-10-01,2022-10-01,1,1230.0,devtron.ai
+132,0,Suresh,suresh.c@digital.datamatics.com,8553071366,Tech,,2022-10-01,2022-10-01,1,1230.0,digital.datamatics.com
+133,0,Catherine,catherine.s@directi.com,,TA,,2022-10-01,2022-10-01,1,1230.0,directi.com
+134,1607,Janushi,janushis@directi.com,9892329405,HR,,2022-10-01,2022-10-01,1,1230.0,directi.com
+135,1607,Rashmi,rashmim@directi.com,,HR,,2022-10-01,2022-10-01,1,1230.0,directi.com
+136,0,Prathima,prathima@divami.com,,Design,,2022-10-01,2022-10-01,1,1230.0,divami.com
+137,0,Sridevi,sridevi@divami.com,,HR,,2022-10-01,2022-10-01,1,1230.0,divami.com
+138,0,Kartik,kartik.kataria@dotpe.in,,Product,,2022-10-01,2022-10-01,1,1230.0,dotpe.in
+139,0,Ritika,ritika.malhotra@dotpe.in,,HR,,2022-10-01,2022-10-01,1,1230.0,dotpe.in
+140,0,Yoshita,yoshita.arora@dotpe.in,,HR,,2022-10-01,2022-10-01,1,1230.0,dotpe.in
+141,3618,Ashish,ashish.naidu@eclerx.com,9920362259,Tech,,2022-10-01,2022-10-01,1,1230.0,eclerx.com
+142,3618,Rajesh,rajesh.agrawal@eclerx.com,,Product,,2022-10-01,2022-10-01,1,1230.0,eclerx.com
+143,0,Atharva,arao@ogaan.co.in,,HR,,2022-10-01,2022-10-01,1,1230.0,ogaan.co.in
+144,2305,Naveen,naveen.kumark@ellucian.com,9880411003,TA,,2022-10-01,2022-10-01,1,1230.0,ellucian.com
+145,2305,Ekta,ekta.pandey@ellucian.com,,HR,,2022-10-01,2022-10-01,1,1230.0,ellucian.com
+146,2305,Sania,sania.khan@ellucian.com,,Design,,2022-10-01,2022-10-01,1,1230.0,ellucian.com
+147,2305,Akshatha,akshatha.hegde@ellucian.com,,HR,,2022-10-01,2022-10-01,1,1230.0,ellucian.com
+148,0,Aditi,aditi.ohri@emporio.email,,TA,,2022-10-01,2022-10-01,1,1230.0,emporio.email
+149,1498,Sachin,sachinu@enablingdimensions.com,,Director ,,2022-10-01,2022-10-01,1,1230.0,enablingdimensions.com
+150,1498,Shilpa,shilpau@enablingdimensions.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,enablingdimensions.com
+151,2689,Abhay,abhay.chandra@epicor.com,,Product,,2022-10-01,2022-10-01,1,1230.0,epicor.com
+152,2977,Aditi,hr@evolutionco.com,,HR,,2022-10-01,2022-10-01,1,1230.0,evolutionco.com
+153,2977,Apoorva,apoorva@evolutionco.com,,HR,,2022-10-01,2022-10-01,1,1230.0,evolutionco.com
+154,2977,Sameer,sameer@evolutionco.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,evolutionco.com
+155,2977,Manasi,manasi@evolutionco.com,,HR,,2022-10-01,2022-10-01,1,1230.0,evolutionco.com
+156,2570,Anupa,anupa.joaquim@extentia.com,,HR,,2022-10-01,2022-10-01,1,1230.0,extentia.com
+157,2570,Vanitha,vanitha.bhagwat@extentia.com,,TA,,2022-10-01,2022-10-01,1,1230.0,extentia.com
+158,0,Renju,renju.varghese@xe04.ey.com,,Marketing,,2022-10-01,2022-10-01,1,1230.0,xe04.ey.com
+159,0,Sawan,sawan.lingadhal@xe02.ey.com,,Recruitment,,2022-10-01,2022-10-01,1,1230.0,xe02.ey.com
+160,2276,Megha,megha.sharma@fabhotels.com,,HR,,2022-10-01,2022-10-01,1,1230.0,fabhotels.com
+161,0,Aayush,aayush@fampay.in,8872205522,,,2022-10-01,2022-10-01,1,1230.0,fampay.in
+162,0,Sambav,sambhav@fampay.in,,,,2022-10-01,2022-10-01,1,1230.0,fampay.in
+163,2324,Kushal ,kushal@fareye.in,9147473381,,,2022-10-01,2022-10-01,1,1230.0,fareye.in
+164,2324,Gautam,gautam@fareye.in,,,,2022-10-01,2022-10-01,1,1230.0,fareye.in
+165,3897,Jagneer,jagneer.dhanda@fidelity.co.in,,HR,,2022-10-01,2022-10-01,1,1230.0,fidelity.co.in
+166,3897,Ashwinder,ashwinder.kaur@fidelity.co.in,,TA,,2022-10-01,2022-10-01,1,1230.0,fidelity.co.in
+167,3897,Ankita,ankita.bami@fidelity.co.in,,TA,,2022-10-01,2022-10-01,1,1230.0,fidelity.co.in
+168,4007,Malhar,malhar@flamapp.com,,,,2022-10-01,2022-10-01,1,1230.0,flamapp.com
+169,4007,Divyansh,divyansh@flamapp.com,,Design,,2022-10-01,2022-10-01,1,1230.0,flamapp.com
+170,0,Madhuri,madhuri@flinto.in,,Design,,2022-10-01,2022-10-01,1,1230.0,flinto.in
+171,0,Arun,arun@flinto.in,,Tech,,2022-10-01,2022-10-01,1,1230.0,flinto.in
+172,1132,Romy,romy@flipkart.com,,TA,,2022-10-01,2022-10-01,1,1230.0,flipkart.com
+173,3091,Deepak,deepak@flobiz.in,8056085924,Finance,,2022-10-01,2022-10-01,1,1230.0,flobiz.in
+174,3091,Rabi,rabi@flobiz.in,,TA,,2022-10-01,2022-10-01,1,1230.0,flobiz.in
+175,3840,Jitender,jitender@flyfin.org,,Finance,,2022-10-01,2022-10-01,1,1230.0,flyfin.org
+176,3937,Pankaj,pankaj.jha@flyhomes.com,,TA,,2022-10-01,2022-10-01,1,1230.0,flyhomes.com
+177,0,Kalyan,kalyan@fourkites.com,9886500488,Director (HR),,2022-10-01,2022-10-01,1,1230.0,fourkites.com
+178,475,Geeta,geeta.goel@foxymoron.org,9871505942,HR,,2022-10-01,2022-10-01,1,1230.0,foxymoron.org
+179,475,Tanima,tanima@foxymoron.org,,HR,,2022-10-01,2022-10-01,1,1230.0,foxymoron.org
+180,3254,Jesvin,jesvin.varghese@fractal.ai,,TA,,2022-10-01,2022-10-01,1,1230.0,fractal.ai
+181,3254,Ishita,ishita.ghosh@fractal.ai,,HR,,2022-10-01,2022-10-01,1,1230.0,fractal.ai
+182,3254,Rachna,rachna.patel@fractalanalytics.com,,HR,,2022-10-01,2022-10-01,1,1230.0,fractalanalytics.com
+183,2799,Mathew,info@freehancecreative.com,,Design,,2022-10-01,2022-10-01,1,1230.0,freehancecreative.com
+184,2417,Aditya,aditya@freshworks.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,freshworks.com
+185,2417,Manoj,manojkumar.ganesh@freshworks.com,8838336403,Director,,2022-10-01,2022-10-01,1,1230.0,freshworks.com
+186,2615,Tejanand,tejanand@frostinteractive.com,9000732010,,,2022-10-01,2022-10-01,1,1230.0,frostinteractive.com
+187,3769,Sthuthi,sthuthi@furlenco.com,,HR,,2022-10-01,2022-10-01,1,1230.0,furlenco.com
+188,3116,Nagaraj,nagaraj@futurefactory.in,,Tech,,2022-10-01,2022-10-01,1,1230.0,futurefactory.in
+189,3666,Akshata,akshatakadam@gofynd.com,9321185434,HR,,2022-10-01,2022-10-01,1,1230.0,gofynd.com
+190,3960,Ashish,asahu@g2.com,,HR,,2022-10-01,2022-10-01,1,1230.0,g2.com
+191,3960,Sowmya,smandyala@g2.com,,HR,,2022-10-01,2022-10-01,1,1230.0,g2.com
+192,3960,Trisha,tdewangan@g2.com,,TA,,2022-10-01,2022-10-01,1,1230.0,g2.com
+193,3127,Dinesh,dinesh.damodharan@entrayn.com,,TA,,2022-10-01,2022-10-01,1,1230.0,entrayn.com
+194,3800,Sarita,sarita.singh@games24x7.com,,TA,,2022-10-01,2022-10-01,1,1230.0,games24x7.com
+195,3800,Siddhi,siddhi.shetye@games24x7.com,,TA,,2022-10-01,2022-10-01,1,1230.0,games24x7.com
+196,3800,Tarun,tarun.kumavat@games24x7.com,,TA,,2022-10-01,2022-10-01,1,1230.0,games24x7.com
+197,3800,Vikrant,vikrant.goyal@games24x7.com,,HR,,2022-10-01,2022-10-01,1,1230.0,games24x7.com
+198,3491,Mahesh,mahesh@games2win.com,,,,2022-10-01,2022-10-01,1,1230.0,games2win.com
+199,3123,Shameem,shameem.riyaz@gameskraft.in,7892975405,HR,,2022-10-01,2022-10-01,1,1230.0,gameskraft.in
+200,3123,Chitra,chitra.rajpal@gameskraft.com,,Product,,2022-10-01,2022-10-01,1,1230.0,gameskraft.com
+201,3123,Shuchita,shuchita.baranwal@gameskraft.com,,Design,,2022-10-01,2022-10-01,1,1230.0,gameskraft.com
+202,775,Ravi,ravi@genymedium.com,9866656931,Analyst,,2022-10-01,2022-10-01,1,1230.0,genymedium.com
+203,1592,Rati,rati@getmyparking.com,9886492508,HR,,2022-10-01,2022-10-01,1,1230.0,getmyparking.com
+204,1592,Karan,karan@getmyparking.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,getmyparking.com
+205,1592,Pankaj,pankaj@getmyparking.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,getmyparking.com
+206,1592,Sukanya,sukanya@getmyparking.com,9901546688,HR,,2022-10-01,2022-10-01,1,1230.0,getmyparking.com
+207,3066,Kawaljeet,kawaljeet@getmega.com,,Operations,,2022-10-01,2022-10-01,1,1230.0,getmega.com
+208,0,Aarushi,aarushi.agrawal@phonepe.com,,,,2022-10-01,2022-10-01,1,1230.0,phonepe.com
+209,3818,Sudha,sudha.p@glance.com,,TA,,2022-10-01,2022-10-01,1,1230.0,glance.com
+210,3818,Surekha,surekha.nagaraj@glance.com,,TA,,2022-10-01,2022-10-01,1,1230.0,glance.com
+211,0,Deepti,deepti.gautam1@globallogic.com,,HR,,2022-10-01,2022-10-01,1,1230.0,globallogic.com
+212,0,Sonal,sonal@glowroad.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,glowroad.com
+213,0,Natarajan,natarajan@glynk.com,9908608000,Co Founder,,2022-10-01,2022-10-01,1,1230.0,glynk.com
+214,0,Rahoul,rahoul.srivastav@nexxbase.com,,Marketing,,2022-10-01,2022-10-01,1,1230.0,nexxbase.com
+215,0,Rupali,rupali.goel@nexxbase.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nexxbase.com
+216,3554,Himanshu ,himanshu.seth@gradeup.co,9910356111,HR,,2022-10-01,2022-10-01,1,1230.0,gradeup.co
+217,3554,Akanksha,akanksha.sharma@gradeup.co,,HR,,2022-10-01,2022-10-01,1,1230.0,gradeup.co
+218,1459,Supraja,talent@gramener.com,,HR,,2022-10-01,2022-10-01,1,1230.0,gramener.com
+219,1459,Sathya,sathya.prabhakaran@gramener.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,gramener.com
+220,1269,Himanshu,himanshu.arya@grapesdigital.com,,Director,,2022-10-01,2022-10-01,1,1230.0,grapesdigital.com
+221,2753,Tanvi,tanvi@grappus.com,,HR,,2022-10-01,2022-10-01,1,1230.0,grappus.com
+222,4120,Hema,hemalatha@gravityilabs.com,,,,2022-10-01,2022-10-01,1,1230.0,gravityilabs.com
+223,3991,Suma,suma.mn@groww.in,,HR,,2022-10-01,2022-10-01,1,1230.0,groww.in
+224,3012,Karan,karan_malik@live.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,live.com
+225,194,Jamini,jamini@hackerearth.com,7760572339,TA,,2022-10-01,2022-10-01,1,1230.0,hackerearth.com
+226,194,Indhumathi,indhu@hackerearth.com,"7022783717, 9513015170",TA,,2022-10-01,2022-10-01,1,1230.0,hackerearth.com
+227,194,Sachin,sachin@hackerearth.com,,Product,,2022-10-01,2022-10-01,1,1230.0,hackerearth.com
+228,194,Shalini,shalini.c@hackerearth.com,,TA,,2022-10-01,2022-10-01,1,1230.0,hackerearth.com
+229,194,Anusuya,anusuya@hackerearth.com,,TA,,2022-10-01,2022-10-01,1,1230.0,hackerearth.com
+230,715,Anshul,anshul@happay.in,,Founder,,2022-10-01,2022-10-01,1,1230.0,happay.in
+231,715,Pooja,poojasharma@happay.in,,Tech,,2022-10-01,2022-10-01,1,1230.0,happay.in
+232,2304,Nikhil,nikhil@happilyunmarried.com,,Design ,,2022-10-01,2022-10-01,1,1230.0,happilyunmarried.com
+233,2259,Atif,atif@haptik.ai,,HR,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+234,2259,Shubham,shubham.garg@haptik.co,9818547070,CEO,,2022-10-01,2022-10-01,1,1230.0,haptik.co
+235,2259,Shubham,shubham@haptik.ai,,CEO,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+236,2259,Anushree,anushree@haptik.co,7718883440,TA,,2022-10-01,2022-10-01,1,1230.0,haptik.co
+237,2259,Anushree,anushree@haptik.ai,7718883440,TA,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+238,2259,Nikita,nikita@haptik.ai,,Product,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+239,2259,Asis,asis.panda@haptik.ai,,Design ,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+240,2259,Ajay,ajay@haptik.ai,,Finance,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+241,2259,Nimesh,nimesh@haptik.ai,,Product,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+242,2259,Kshitij,kshitij@haptik.ai,,TA,,2022-10-01,2022-10-01,1,1230.0,haptik.ai
+243,0,Pramath,pramath.sinha@9dot9.in,,Founder,,2022-10-01,2022-10-01,1,1230.0,9dot9.in
+244,0,Bhavin ,contact@hashbytestudio.com,9877231012,Design ,,2022-10-01,2022-10-01,1,1230.0,hashbytestudio.com
+245,0,Harsh,harsh@hashbytestudio.com,,Design ,,2022-10-01,2022-10-01,1,1230.0,hashbytestudio.com
+246,3225,Rajoshi,rajoshi@hasura.io,,Founder,,2022-10-01,2022-10-01,1,1230.0,hasura.io
+247,3879,Kavitha,kjoseph@hatica.io,,HR,,2022-10-01,2022-10-01,1,1230.0,hatica.io
+248,195,Diana,diana@healthi.in,,HR,,2022-10-01,2022-10-01,1,1230.0,healthi.in
+249,2237,Rubina,rubina.khan@here.com,,TA,,2022-10-01,2022-10-01,1,1230.0,here.com
+250,2237,Abhishek,abhishek.shedjale@here.com,,TA,,2022-10-01,2022-10-01,1,1230.0,here.com
+251,2237,Clayton,clayton.quadros@here.com,,TA,,2022-10-01,2022-10-01,1,1230.0,here.com
+252,2237,Rafiq,rafiq.tamboli@here.com,,TA,,2022-10-01,2022-10-01,1,1230.0,here.com
+253,3752,Sourabh ,sourabh.agarwal@hevodata.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,hevodata.com
+254,3752,Rashmi,rashmi.seshadri@hevodata.com,,TA,,2022-10-01,2022-10-01,1,1230.0,hevodata.com
+255,4332,Sabina,sabina@hfrnd.com,,,,2022-10-01,2022-10-01,1,1230.0,hfrnd.com
+256,2804,Meena,meena@hiverhq.com,,,,2022-10-01,2022-10-01,1,1230.0,hiverhq.com
+257,62,Achala,achala.mv@honeywell.com,,TA,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+258,62,Neety,neety.rai@honeywell.com,,Design,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+259,62,Siddhartha,siddhartha.banerjee@honeywell.com,9902364533,Tech,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+260,62,Unmesh,unmesh.kulkarni@honeywell.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+261,62,Nikhil,nikhil.thegulla@honeywell.com,,TA,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+262,62,Sonali,sonali.pattnayak@honeywell.com,,HR,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+263,62,Anuradha,anuradha.s@honeywell.com,,TA,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+264,62,Neelam,neelam.chettri@honeywell.com,,Design,,2022-10-01,2022-10-01,1,1230.0,honeywell.com
+265,1829,Nupur,nupur.relekar@hopscotch.in,,Director,,2022-10-01,2022-10-01,1,1230.0,hopscotch.in
+266,1829,Rutu,rutu.shah@hopscotch.in,9820891969,HR,,2022-10-01,2022-10-01,1,1230.0,hopscotch.in
+267,2797,Jay,jay.virdee@hotelhub.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,hotelhub.com
+268,2797,Manjinder,manjinder.singh@hotelhub.com,,Operation,,2022-10-01,2022-10-01,1,1230.0,hotelhub.com
+269,224,Vipin,vipinr@houm.me,9819883693,Founder,,2022-10-01,2022-10-01,1,1230.0,houm.me
+270,224,Nysha,nysha@houm.me,,HR,,2022-10-01,2022-10-01,1,1230.0,houm.me
+271,224,Smita,smita@houm.me,,HR,,2022-10-01,2022-10-01,1,1230.0,houm.me
+272,3524,Purva,purva@hubilo.com,,HR,,2022-10-01,2022-10-01,1,1230.0,hubilo.com
+273,3524,Vaibhav,vaibhav@hubilo.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,hubilo.com
+274,2530,Ketaki,ketaki.n@humanfactors.com,,HR,,2022-10-01,2022-10-01,1,1230.0,humanfactors.com
+275,3296,Devang,devang@humanx.io,9819815132,Founder,,2022-10-01,2022-10-01,1,1230.0,humanx.io
+276,3296,Krupali,krupali@humanx.io,,Design,,2022-10-01,2022-10-01,1,1230.0,humanx.io
+277,837,Devraj,sdevaraj@in.ibm.com,,Operation,,2022-10-01,2022-10-01,1,1230.0,in.ibm.com
+278,837,Premananda,preprabh@in.ibm.com,,Markrting,,2022-10-01,2022-10-01,1,1230.0,in.ibm.com
+279,0,Vikas,vikas.kaul@impactguru.com,,Product,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+280,0,Latika,latika.rai@impactguru.com,,HR,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+281,0,Ayesha,ayesha.bordekar@impactguru.com,,HR,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+282,0,Akhlaque,akhlaque.khan@impactguru.com,,TA,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+283,0,Chaitri,chaitri.parikh@impactguru.com,,HR,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+284,0,Fahad,fahad.kazi@impactguru.com,,HR,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+285,0,Nimish,nimish.dali@impactguru.com,,Business,,2022-10-01,2022-10-01,1,1230.0,impactguru.com
+286,0,Pooja,pooja@incnut.com,,HR,,2022-10-01,2022-10-01,1,1230.0,incnut.com
+287,0,Som,som@indglobal-consulting.com,,Sales,,2022-10-01,2022-10-01,1,1230.0,indglobal-consulting.com
+288,0,Rakesh,info@indglobal.in,,CEO,,2022-10-01,2022-10-01,1,1230.0,indglobal.in
+289,0,Rakesh,rakesh@indglobal-consulting.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,indglobal-consulting.com
+290,3165,Amal,careers@indihood.com,,Design,,2022-10-01,2022-10-01,1,1230.0,indihood.com
+291,3165,Subhashish,subhashish@indihood.com,,TA,,2022-10-01,2022-10-01,1,1230.0,indihood.com
+292,3165,Menaka,menaka@indihood.com,,Product,,2022-10-01,2022-10-01,1,1230.0,indihood.com
+293,410,Anshul,anshul.1@naukri.com,,HR,,2022-10-01,2022-10-01,1,1230.0,naukri.com
+294,0,Pavithra,pavithra@infrrd.ai,7795151849,HR,,2022-10-01,2022-10-01,1,1230.0,infrrd.ai
+295,0,Insaid,careers@insaid.co,9910467429,HR,,2022-10-01,2022-10-01,1,1230.0,insaid.co
+296,1087,Sampad,sampad@instamojo.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,instamojo.com
+297,1087,Nasir,nasir@instamojo.com,,HR,,2022-10-01,2022-10-01,1,1230.0,instamojo.com
+298,3093,Divya,divya@instawork.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,instawork.com
+299,3093,Vaibhav,vpandey@instawork.com,,Product,,2022-10-01,2022-10-01,1,1230.0,instawork.com
+300,3093,Harshitha,harshitha@instawork.com,,TA,,2022-10-01,2022-10-01,1,1230.0,instawork.com
+301,3093,Sagarika,sraparia@instawork.com,,HR,,2022-10-01,2022-10-01,1,1230.0,instawork.com
+302,2523,Shobha,shobha@internshala.com,9891513415,HR,,2022-10-01,2022-10-01,1,1230.0,internshala.com
+303,3279,Divya,divyapandya@intugine.com,,TA,,2022-10-01,2022-10-01,1,1230.0,intugine.com
+304,3279,Ayush,ayush@intugine.com,,Supply Chain,,2022-10-01,2022-10-01,1,1230.0,intugine.com
+305,3210,Priyanka,priyanka@itwconsulting.in,,HR,,2022-10-01,2022-10-01,1,1230.0,itwconsulting.in
+306,3344,Aloke,ceo@ixigo.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,ixigo.com
+307,3344,Mehak,hr@ixigo.com,,Customer support,,2022-10-01,2022-10-01,1,1230.0,ixigo.com
+308,3345,Priyasha,priyasha@ixigo.com,,TA,,2022-10-01,2022-10-01,1,1230.0,ixigo.com
+309,3345,Nupur,nupur@ixigo.com,,HR,,2022-10-01,2022-10-01,1,1230.0,ixigo.com
+310,3345,Priya,priya.ojha@ixigo.com,,TA,,2022-10-01,2022-10-01,1,1230.0,ixigo.com
+311,0,Deepthi,deepthi.raghavendar@jifflenow.com,,HR,,2022-10-01,2022-10-01,1,1230.0,jifflenow.com
+312,3913,Akhand ,akhand.kumar@ril.com,,HR,,2022-10-01,2022-10-01,1,1230.0,ril.com
+313,3913,Vikalp,vikalp.jain@ril.com,9321279595,Design,,2022-10-01,2022-10-01,1,1230.0,ril.com
+314,0,Atulya,atulya@jodopay.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,jodopay.com
+315,668,Karthik,mission@jumbotail.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,jumbotail.com
+316,668,Saloni,saloni@jumbotail.com,9740006452,Product,,2022-10-01,2022-10-01,1,1230.0,jumbotail.com
+317,668,Nikita,nikita@jumbotail.com,,Design,,2022-10-01,2022-10-01,1,1230.0,jumbotail.com
+318,668,Manisha,manisha.kolla@jumbotail.com,,TA,,2022-10-01,2022-10-01,1,1230.0,jumbotail.com
+319,668,Shefali,shefali.bhardwaj@jumbotail.com,,TA,,2022-10-01,2022-10-01,1,1230.0,jumbotail.com
+320,3713,Priya,priya@jungleegames.com,,HR,,2022-10-01,2022-10-01,1,1230.0,jungleegames.com
+321,3999,Vishal,vishal.surana@jupiter.money,,HR,,2022-10-01,2022-10-01,1,1230.0,jupiter.money
+322,3999,Karuna,karuna.rana@jupiter.money,,HR,,2022-10-01,2022-10-01,1,1230.0,jupiter.money
+323,3999,Rinky,rinky.jain@jupiter.money,,HR,,2022-10-01,2022-10-01,1,1230.0,jupiter.money
+324,3999,Piyush,piyush.kabra@jupiter.money,,Finance,,2022-10-01,2022-10-01,1,1230.0,jupiter.money
+325,0,Ankur,ankur.nandu@keeptruckin.com,,,,2022-10-01,2022-10-01,1,1230.0,keeptruckin.com
+326,0,Jadam,jadam.kahn@keeptruckin.com,,Design,,2022-10-01,2022-10-01,1,1230.0,keeptruckin.com
+327,3695,Rishabh,rishabh@khatabook.com,,Finance,,2022-10-01,2022-10-01,1,1230.0,khatabook.com
+328,0,Ishita,ishita@klubworks.com,9620324421,Product,,2022-10-01,2022-10-01,1,1230.0,klubworks.com
+329,3566,Aishwrya,aishwrya.rayasam@kore.com,,HR,,2022-10-01,2022-10-01,1,1230.0,kore.com
+330,3566,Anil,anil.tamada@kore.com,,HR,,2022-10-01,2022-10-01,1,1230.0,kore.com
+331,3566,Sarada,sarada.kandanur@kore.com,,HR,,2022-10-01,2022-10-01,1,1230.0,kore.com
+332,1463,Manisha,manisha.kumbhar@kpit.com,,TA,,2022-10-01,2022-10-01,1,1230.0,kpit.com
+333,1463,Dhruba,dhruba.sarma@kpit.com,7760532288,Tech,,2022-10-01,2022-10-01,1,1230.0,kpit.com
+334,1463,Homiyar,homiyar.tavadia@kpit.com,9822026561,TA,,2022-10-01,2022-10-01,1,1230.0,kpit.com
+335,0,Jisha,jisha.bawa@kartrocket.com,9643322470,HR,,2022-10-01,2022-10-01,1,1230.0,kartrocket.com
+336,3275,Darshita,darshita@kreo.in,,Design,,2022-10-01,2022-10-01,1,1230.0,kreo.in
+337,2796,Kausambi,kaus@kubric.io,,,,2022-10-01,2022-10-01,1,1230.0,kubric.io
+338,2796,Barada,barada@kubric.io,,,,2022-10-01,2022-10-01,1,1230.0,kubric.io
+339,4243,Lulu,lulu.raghavan@landor.com,,Design,,2022-10-01,2022-10-01,1,1230.0,landor.com
+340,3096,Sudhakar ,sudhakar@leadsquared.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,leadsquared.com
+341,3915,Arnav,arnav.kumar@leapfinance.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,leapfinance.com
+342,3915,Kaushal,kaushal.pawar@leapfinance.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,leapfinance.com
+343,0,Amit,amitc@lenskart.com,,,,2022-10-01,2022-10-01,1,1230.0,lenskart.com
+344,0,Satish,satish.s@lenskart.in,,Product,,2022-10-01,2022-10-01,1,1230.0,lenskart.in
+345,0,Tanmaya,tanmaya.joshi@lenskart.in,,TA,,2022-10-01,2022-10-01,1,1230.0,lenskart.in
+346,0,Siddharth,siddharth@lsip.com,,HR,,2022-10-01,2022-10-01,1,1230.0,lsip.com
+347,0,Richa,richa@lsip.com,,Operation,,2022-10-01,2022-10-01,1,1230.0,lsip.com
+348,0,Diksha,diksha@lbb.in,,HR,,2022-10-01,2022-10-01,1,1230.0,lbb.in
+349,0,Dhruv,dhruv@lbb.in,9871949082,Product,,2022-10-01,2022-10-01,1,1230.0,lbb.in
+350,3442,Kartik,kartik@locofast.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,locofast.com
+351,3034,Anthony,anthony@lopezdesign.com,,Design,,2022-10-01,2022-10-01,1,1230.0,lopezdesign.com
+352,0,Rupali,rupali@matrixpartners.in,9620077222,HR,,2022-10-01,2022-10-01,1,1230.0,matrixpartners.in
+353,0,Latha,latha@matrixpartners.in,,HR,,2022-10-01,2022-10-01,1,1230.0,matrixpartners.in
+354,0,Rashi,rashi@matrixpartners.in,,Human Capital,,2022-10-01,2022-10-01,1,1230.0,matrixpartners.in
+355,1160,Prateek,prateek_taneja@mckinsey.com,,,,2022-10-01,2022-10-01,1,1230.0,mckinsey.com
+356,1160,Harmeet,harmeet_kaur@mckinsey.com,,,,2022-10-01,2022-10-01,1,1230.0,mckinsey.com
+357,2857,Varun,varun.v@media.net,9916989560,HR,,2022-10-01,2022-10-01,1,1230.0,media.net
+358,2857,Mehernaz,mehernaz.i@media.net,,TA,,2022-10-01,2022-10-01,1,1230.0,media.net
+359,2857,Neha,neha.a@media.net,,Finance,,2022-10-01,2022-10-01,1,1230.0,media.net
+360,2857,Shruti,shruti.do@media.net,9867981227,Business,,2022-10-01,2022-10-01,1,1230.0,media.net
+361,3678,Jayanta,jayanta.ghosh@medibuddy.in,,HR,,2022-10-01,2022-10-01,1,1230.0,medibuddy.in
+362,3089,Vidit,vidit.aatrey@meesho.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,meesho.com
+363,3089,Sanjeev,sanjeev@meesho.com,,CTO,,2022-10-01,2022-10-01,1,1230.0,meesho.com
+364,3089,Deepa,deepa.shankar@meesho.com,,TA,,2022-10-01,2022-10-01,1,1230.0,meesho.com
+365,3923,Saurabh ,saurabh@mesh.ai,,Tech,,2022-10-01,2022-10-01,1,1230.0,mesh.ai
+366,3923,Rahul,rahul@mesh.ai,,CTO,,2022-10-01,2022-10-01,1,1230.0,mesh.ai
+367,0,Deepali,ddanak@mindagroup.com,,Marketing,,2022-10-01,2022-10-01,1,1230.0,mindagroup.com
+368,1753,Savinay,savinay@mindler.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,mindler.com
+369,1753,Neha,hr@mindler.com,,TA,,2022-10-01,2022-10-01,1,1230.0,mindler.com
+370,0,Aditya ,uxcareers@mindstix.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,mindstix.com
+371,0,Shivam,careers@mindstix.com,,Design,,2022-10-01,2022-10-01,1,1230.0,mindstix.com
+372,0,Sucheta,hr@mindstix.com,,HR,,2022-10-01,2022-10-01,1,1230.0,mindstix.com
+373,0,Nishant,nishant.mungali@mindtickle.com,9657747927,Product,,2022-10-01,2022-10-01,1,1230.0,mindtickle.com
+374,2189,Neha,hr@theminimalist.in,,HR,,2022-10-01,2022-10-01,1,1230.0,theminimalist.in
+375,4143,Mamatha Nagesh,mamatha.n@modefin.com,9741833777,,,2022-10-01,2022-10-01,1,1230.0,modefin.com
+376,4143,Soundarya,soundarya.g@modefin.com,,,,2022-10-01,2022-10-01,1,1230.0,modefin.com
+377,1270,Nalin,nalin@moengage.com,,TA,,2022-10-01,2022-10-01,1,1230.0,moengage.com
+378,1270,Raviteja,raviteja@moengage.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,moengage.com
+379,1270,Shubham,shubham.patel@moengage.com,,TA,,2022-10-01,2022-10-01,1,1230.0,moengage.com
+380,1468,Anuj,anuj@moneytap.com,9686690108,Founder,,2022-10-01,2022-10-01,1,1230.0,moneytap.com
+381,0,Sreesha,sreesha.thoprath@ust.com,,TA,,2022-10-01,2022-10-01,1,1230.0,ust.com
+382,3373,Revant,revant@mosaicwellness.in,,CEO,,2022-10-01,2022-10-01,1,1230.0,mosaicwellness.in
+383,3373,Tushar,tushar@mosaicwellness.in,,Product,,2022-10-01,2022-10-01,1,1230.0,mosaicwellness.in
+384,3373,Sneha,sneha.mali@mosaicwellness.in,,HR,,2022-10-01,2022-10-01,1,1230.0,mosaicwellness.in
+385,2765,Venkatesh,vganapathy@moveeasy.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,moveeasy.com
+386,0,Abhishek,abhishek.dhyani@moveinsync.com,,Design,,2022-10-01,2022-10-01,1,1230.0,moveinsync.com
+387,0,Alviya,alviya.p@moveinsync.com,,TA,,2022-10-01,2022-10-01,1,1230.0,moveinsync.com
+388,4092,Edul,edul@mudrex.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,mudrex.com
+389,4092,Nivedita,nivedita@mudrex.com,,,,2022-10-01,2022-10-01,1,1230.0,mudrex.com
+390,200,Ravali,rangaraju.ravali@myntra.com,,TA,,2022-10-01,2022-10-01,1,1230.0,myntra.com
+391,0,Rajeev ,rajeev.ranjan@nagarro.com,,TA,,2022-10-01,2022-10-01,1,1230.0,nagarro.com
+392,0,Divya,divya@nagarro.com,9873734892,Tech,,2022-10-01,2022-10-01,1,1230.0,nagarro.com
+393,0,Rajesh,rajesh@nagarro.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nagarro.com
+394,0,Garima,garima.negi@nagarro.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nagarro.com
+395,0,Candice,candice.declerck@naspers.com,,TA,,2022-10-01,2022-10-01,1,1230.0,naspers.com
+396,0,Vandana,hr@nerdyturtlez.com,9871003761,HR,,2022-10-01,2022-10-01,1,1230.0,nerdyturtlez.com
+397,0,Megha,megha.varshini@nestaway.com,9620718026,TA,,2022-10-01,2022-10-01,1,1230.0,nestaway.com
+398,0,Akshatha,careers@netbramha.com,8105941551,TA,,2022-10-01,2022-10-01,1,1230.0,netbramha.com
+399,0,Dimple,dimple@netbramha.com,,TA,,2022-10-01,2022-10-01,1,1230.0,netbramha.com
+400,0,Aashish,aashish@netbramha.com,,Design,,2022-10-01,2022-10-01,1,1230.0,netbramha.com
+401,0,Priyanshu,priyanshu@netbramha.com,,TA,,2022-10-01,2022-10-01,1,1230.0,netbramha.com
+402,2850,Ankur,ankur@niflr.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,niflr.com
+403,0,Kaustubh,kaustubh@nitrousoxide.me,,,,2022-10-01,2022-10-01,1,1230.0,nitrousoxide.me
+404,3984,Asis,asis@nova-benefits.com,,Design,,2022-10-01,2022-10-01,1,1230.0,nova-benefits.com
+405,3984,Celine,celine@nova-benefits.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nova-benefits.com
+406,3984,Yatee,yatee@nova-benefits.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nova-benefits.com
+407,3984,Shiffana,shiffana@nova-benefits.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nova-benefits.com
+408,0,Vandana,vandana.saxena@numantratech.ai,9765123196,,,2022-10-01,2022-10-01,1,1230.0,numantratech.ai
+409,3538,Krishna,krishna.rv@nykaa.com,,Design,,2022-10-01,2022-10-01,1,1230.0,nykaa.com
+410,3538,Wahajat,wajahat.ali@nykaa.com,,VP (HR),,2022-10-01,2022-10-01,1,1230.0,nykaa.com
+411,3538,Prashalini,prashalini.verma@nykaa.com,,HR,,2022-10-01,2022-10-01,1,1230.0,nykaa.com
+412,3395,Bhasker,bhasker@observe.ai,,Design,,2022-10-01,2022-10-01,1,1230.0,observe.ai
+413,3425,Haripriya,haripriya@onemindindia.com,,Marketing,,2022-10-01,2022-10-01,1,1230.0,onemindindia.com
+414,3425,Kirti,kirti@onemindindia.com,,Operations,,2022-10-01,2022-10-01,1,1230.0,onemindindia.com
+415,3359,Manish,manishjain@opticoat.in,,,,2022-10-01,2022-10-01,1,1230.0,opticoat.in
+416,0,Nirmal,nirmal@outdoinc.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,outdoinc.com
+417,205,Varun,varun.pgp16158@iimkashipur.ac.in,7055318158,VP,,2022-10-01,2022-10-01,1,1230.0,iimkashipur.ac.in
+418,205,Aman,design.hiring@oyorooms.com,,HR,,2022-10-01,2022-10-01,1,1230.0,oyorooms.com
+419,0,Rajeev,rajeev@paperplane.net,,CEO,,2022-10-01,2022-10-01,1,1230.0,paperplane.net
+420,0,Bhavna,bhavna@paperplane.net,,TA,,2022-10-01,2022-10-01,1,1230.0,paperplane.net
+421,1527,Robin,robin@parallellabs.io,9766041909,Director,,2022-10-01,2022-10-01,1,1230.0,parallellabs.io
+422,0,Dipti,dipti@insider.in,,HR,,2022-10-01,2022-10-01,1,1230.0,insider.in
+423,568,Rajesh,rajesh.ghodke@peepaldesign.com,8884144544,Design,,2022-10-01,2022-10-01,1,1230.0,peepaldesign.com
+424,568,Amitha,amitha@peepaldesign.com,,,,2022-10-01,2022-10-01,1,1230.0,peepaldesign.com
+425,568,Durgaprasad,durgaprasad@peepaldesign.com,,,,2022-10-01,2022-10-01,1,1230.0,peepaldesign.com
+426,0,Rimppee,rkukreja@pelican.ai,,,,2022-10-01,2022-10-01,1,1230.0,pelican.ai
+427,0,Avni,agala@pelican.ai,,HR,,2022-10-01,2022-10-01,1,1230.0,pelican.ai
+428,0,Neha,neha@pensaardesign.com,,HR,,2022-10-01,2022-10-01,1,1230.0,pensaardesign.com
+429,2936,Amey,amey.joshi@pharmeasy.in,,HR,,2022-10-01,2022-10-01,1,1230.0,pharmeasy.in
+430,0,Pramoda,pramoda.n.s@philips.com,,Business,,2022-10-01,2022-10-01,1,1230.0,philips.com
+431,0,Nidhi,nidhi.negi@philips.com,,Campus Recruitment,,2022-10-01,2022-10-01,1,1230.0,philips.com
+432,0,Srikrishna,srikrishna.adiga@philips.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,philips.com
+433,0,Neetha,neetha.m@philips.com,,TA,,2022-10-01,2022-10-01,1,1230.0,philips.com
+434,3009,Sameer,sameer@phonepe.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,phonepe.com
+435,3009,Shailesh,shailesh@phonepe.com,9967034348,Product,,2022-10-01,2022-10-01,1,1230.0,phonepe.com
+436,3009,Paramjeet,paramjeet.singh@phonepe.com,,TA,,2022-10-01,2022-10-01,1,1230.0,phonepe.com
+437,2430,Ashna,marketing@pipabella.com,,VP,,2022-10-01,2022-10-01,1,1230.0,pipabella.com
+438,0,Manthan,manthan.desai@piramal.com,,Design,,2022-10-01,2022-10-01,1,1230.0,piramal.com
+439,0,Vaseeya,vaseeya.nousheen@piramal.com,,TA,,2022-10-01,2022-10-01,1,1230.0,piramal.com
+440,0,Priyanka,priyanka.kumari@piramal.com,,TA,,2022-10-01,2022-10-01,1,1230.0,piramal.com
+441,0,Vikas,vikas@alore.io,9611803388,Product,,2022-10-01,2022-10-01,1,1230.0,alore.io
+442,2406,Latika,jobs@please-see.com,9810473457,Director,,2022-10-01,2022-10-01,1,1230.0,please-see.com
+443,3861,Abhishek ,abhishek@plumhq.com,,Business,,2022-10-01,2022-10-01,1,1230.0,plumhq.com
+444,3861,Suchandra,suchandra@plumhq.com,,TA,,2022-10-01,2022-10-01,1,1230.0,plumhq.com
+445,0,Saurabh ,talent@getpowerplay.in,8141865777,Design,,2022-10-01,2022-10-01,1,1230.0,getpowerplay.in
+446,0,Iesh,iesh@getpowerplay.in,,CEO,,2022-10-01,2022-10-01,1,1230.0,getpowerplay.in
+447,0,Shubham,shubham@getpowerplay.in,,CTO,,2022-10-01,2022-10-01,1,1230.0,getpowerplay.in
+448,0,Anshul,anshul@getpowerplay.in,,Business,,2022-10-01,2022-10-01,1,1230.0,getpowerplay.in
+449,0,Samantha,samantha@prototyze.com,,,,2022-10-01,2022-10-01,1,1230.0,prototyze.com
+450,3348,Preeti,preeti.ravat@publicissapient.com,,Business,,2022-10-01,2022-10-01,1,1230.0,publicissapient.com
+451,3348,Sini,sini.sivanandan@publicissapient.com,,TA,,2022-10-01,2022-10-01,1,1230.0,publicissapient.com
+452,0,Abhijit,abhijit.bharatkumar@pwc.com,,,,2022-10-01,2022-10-01,1,1230.0,pwc.com
+453,0,Naznin,naznin@qs.com,,Operations,,2022-10-01,2022-10-01,1,1230.0,qs.com
+454,3526,Dhakshayini,dhakshayini.govindaraju@quintype.com,,TA,,2022-10-01,2022-10-01,1,1230.0,quintype.com
+455,3526,Nidhi,nidhi@quintype.com,,TA,,2022-10-01,2022-10-01,1,1230.0,quintype.com
+456,3526,Aruna,aruna.banerjee@quintype.com,,VP (HR),,2022-10-01,2022-10-01,1,1230.0,quintype.com
+457,3307,Ankit,ankit.modi@qure.ai,7607448900,Product,,2022-10-01,2022-10-01,1,1230.0,qure.ai
+458,3406,Hrishabh,careers@railofy.com,9833948981,CTO,,2022-10-01,2022-10-01,1,1230.0,railofy.com
+459,3406,Raghu,raghu@railofy.com,,,,2022-10-01,2022-10-01,1,1230.0,railofy.com
+460,3406,Vaibhav,vaibhav@railofy.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,railofy.com
+461,2332,Aravind,aravind@rapido.bike,,Founder,,2022-10-01,2022-10-01,1,1230.0,rapido.bike
+462,3046,Dhananjay ,dhananjay.sathe@rapyuta-robotics.com,,Director,,2022-10-01,2022-10-01,1,1230.0,rapyuta-robotics.com
+463,0,Hrishikesh,hrishikesh@razor.network,,,,2022-10-01,2022-10-01,1,1230.0,razor.network
+464,0,Shamanth,shamanth@razor.network,,Operations,,2022-10-01,2022-10-01,1,1230.0,razor.network
+465,3015,HR Team,jobs@razorpay.com,,HR,,2022-10-01,2022-10-01,1,1230.0,razorpay.com
+466,3015,Harshil,harshil@razorpay.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,razorpay.com
+467,2438,Isha,isha@rebelfoods.co,,VP,,2022-10-01,2022-10-01,1,1230.0,rebelfoods.co
+468,0,Karthik,karthik@recruiterbox.com,9900037522,COO,,2022-10-01,2022-10-01,1,1230.0,recruiterbox.com
+469,0,Raghuveer,raghu@recruiterbox.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,recruiterbox.com
+470,376,Ronak,ronak@redbaton.in,8880877662,Product,,2022-10-01,2022-10-01,1,1230.0,redbaton.in
+471,4163,Kiran,kiran.rao@redbus.com,9845435774,TA,,2022-10-01,2022-10-01,1,1230.0,redbus.com
+472,4163,Deep,deepdarshan.nt@redbus.com,,TA,,2022-10-01,2022-10-01,1,1230.0,redbus.com
+473,3280,Yogesh,yogesh.se@regalix-inc.com,9535566555,TA,,2022-10-01,2022-10-01,1,1230.0,regalix-inc.com
+474,3280,Shanta,ssarkar@regalix-inc.com,,HR,,2022-10-01,2022-10-01,1,1230.0,regalix-inc.com
+475,0,Amit,amit.sodhi@rentickle.com,9599945533,CEO,,2022-10-01,2022-10-01,1,1230.0,rentickle.com
+476,3405,Ashray,ashray@rephrase.ai,,Founder,,2022-10-01,2022-10-01,1,1230.0,rephrase.ai
+477,0,Tushar,contact@reversethought.com,9930658107,Design,,2022-10-01,2022-10-01,1,1230.0,reversethought.com
+478,3570,Arun,arun@rupeek.com,,Design,,2022-10-01,2022-10-01,1,1230.0,rupeek.com
+479,3570,Punitha,punitha.prakash@rupeek.com,,TA,,2022-10-01,2022-10-01,1,1230.0,rupeek.com
+480,3916,Richa,richa.gupta@safegold.in,,TA,,2022-10-01,2022-10-01,1,1230.0,safegold.in
+481,0,Manish,connect@sahajsoft.com,9916651893,,,2022-10-01,2022-10-01,1,1230.0,sahajsoft.com
+482,1144,Arvind,y.arvind@samsung.com,,TA,,2022-10-01,2022-10-01,1,1230.0,samsung.com
+483,1144,Manisha,m.gambhir@samsung.com,,TA,,2022-10-01,2022-10-01,1,1230.0,samsung.com
+484,1144,Sukhvinder,sukhvinder.s@samsung.com,,HR,,2022-10-01,2022-10-01,1,1230.0,samsung.com
+485,192,Chandni,ckhanum2@sapient.com,"9886351697, 7738868115",HR,,2022-10-01,2022-10-01,1,1230.0,sapient.com
+486,2873,Chandan,chandan@securenow.in,,Marketing,,2022-10-01,2022-10-01,1,1230.0,securenow.in
+487,0,Vasiqa,vwaris@sequoiacap.com,,,,2022-10-01,2022-10-01,1,1230.0,sequoiacap.com
+488,0,Ruby,ruby@setu.co,9739441557,,,2022-10-01,2022-10-01,1,1230.0,setu.co
+489,4094,Fatema,fatema.l@peopleinteractive.in,,HR,,2022-10-01,2022-10-01,1,1230.0,peopleinteractive.in
+490,4094,Keerthy,keerthisanaka@ymail.com,,,,2022-10-01,2022-10-01,1,1230.0,ymail.com
+491,4094,Pooja,pooja.yadav@peopleinteractive.in,,Marketing,,2022-10-01,2022-10-01,1,1230.0,peopleinteractive.in
+492,2302,Aditya,aditya@shop101.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,shop101.com
+493,0,Deekshith,deekshith.suvarna@shoptrade.co,9739441557,Design,,2022-10-01,2022-10-01,1,1230.0,shoptrade.co
+494,0,Akila,akila@shoptrade.co,,HR,,2022-10-01,2022-10-01,1,1230.0,shoptrade.co
+495,0,Sushanth,sushanth@shoptrade.co,,HR,,2022-10-01,2022-10-01,1,1230.0,shoptrade.co
+496,2695,Neha,nehamishra@showtimegroup.in,,HR,,2022-10-01,2022-10-01,1,1230.0,showtimegroup.in
+497,3977,Dhruv,dhruv@betheshyft.com,,Product,,2022-10-01,2022-10-01,1,1230.0,betheshyft.com
+498,4207,Lokesh,lokesh@sigmoidanalytics.com,,CEO,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+499,4207,Guchu,guchu@sigmoidanalytics.com,,,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+500,4207,Sundeep,sundeep.kumar@sigmoidanalytics.com,,Product,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+501,4207,Annie,annie@sigmoidanalytics.com,,,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+502,4207,Mamtha,mamtha@sigmoidanalytics.com,,TA,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+503,4207,Roopashree,nroopa@sigmoidanalytics.com,,TA,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+504,4207,Shravan,shravan@sigmoidanalytics.com,,TA,,2022-10-01,2022-10-01,1,1230.0,sigmoidanalytics.com
+505,3142,Piyush,piyush.rajput@simpplr.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,simpplr.com
+506,327,Madhuri,madhuri.yeleswarapu@smscountry.com,,,,2022-10-01,2022-10-01,1,1230.0,smscountry.com
+507,327,Parul,parul.garg@smscountry.com,9885576920,,,2022-10-01,2022-10-01,1,1230.0,smscountry.com
+508,1218,Siddharth,sid@smytten.com,,Intern,,2022-10-01,2022-10-01,1,1230.0,smytten.com
+509,1218,Nancy,nancy@smytten.com,,HR,,2022-10-01,2022-10-01,1,1230.0,smytten.com
+510,1069,Kamini,kamini.verma@snapdeal.com,,TA,,2022-10-01,2022-10-01,1,1230.0,snapdeal.com
+511,1069,Kajal,kajal.kaushal.cn@snapdeal.com,,TA,,2022-10-01,2022-10-01,1,1230.0,snapdeal.com
+512,1069,Neha,neha.sharma02@snapdeal.com,,Logistics,,2022-10-01,2022-10-01,1,1230.0,snapdeal.com
+513,1069,Vinay,vinay.bolangady@snapdeal.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,snapdeal.com
+514,1069,Ramesh,ramesh.thapa.cn@snapdeal.com,,HR,,2022-10-01,2022-10-01,1,1230.0,snapdeal.com
+515,3072,David,david@socialbeat.in,9884075784,Director,,2022-10-01,2022-10-01,1,1230.0,socialbeat.in
+516,3072,Vikas,vikas@socialbeat.in,,Markting,,2022-10-01,2022-10-01,1,1230.0,socialbeat.in
+517,3072,Arun,arun@socialbeat.in,,Creative writer,,2022-10-01,2022-10-01,1,1230.0,socialbeat.in
+518,3072,Sukhpreet,sukhpreet@socialbeat.in,,HR,,2022-10-01,2022-10-01,1,1230.0,socialbeat.in
+519,3072,Falak,falak@socialbeat.in,,HR,,2022-10-01,2022-10-01,1,1230.0,socialbeat.in
+520,3072,Mubena,mubena@socialbeat.in,,HR,,2022-10-01,2022-10-01,1,1230.0,socialbeat.in
+521,1625,Gaurav,coffee@socialpanga.com,9986001969,Founder,,2022-10-01,2022-10-01,1,1230.0,socialpanga.com
+522,510,Shivani,hr@sociowash.com,8376044743,HR,,2022-10-01,2022-10-01,1,1230.0,sociowash.com
+523,2145,Aravind,aravind.ingale@soroco.com,,TA,,2022-10-01,2022-10-01,1,1230.0,soroco.com
+524,2145,Shravan,shravan@soroco.com,,,,2022-10-01,2022-10-01,1,1230.0,soroco.com
+525,0,Usha,usha.yadav@splashmath.com,7042976408,Tech,,2022-10-01,2022-10-01,1,1230.0,splashmath.com
+526,0,Sheena,sheena.chaudhary@splashmath.com,,,,2022-10-01,2022-10-01,1,1230.0,splashmath.com
+527,0,Sushmita,sushmita@spotdraft.com,9884598350,TA,,2022-10-01,2022-10-01,1,1230.0,spotdraft.com
+528,2963,Bhargavi,bhargavi.venkatagiri@springrole.com,,Business,,2022-10-01,2022-10-01,1,1230.0,springrole.com
+529,2963,Kartik,kartik@springrole.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,springrole.com
+530,0,Sushmita,sushmita.mishra@squadrun.co,,,,2022-10-01,2022-10-01,1,1230.0,squadrun.co
+531,2909,Summit,hr@staqu.com,,Business,,2022-10-01,2022-10-01,1,1230.0,staqu.com
+532,2909,Summit,summit.nayak@staqu.com,,Business,,2022-10-01,2022-10-01,1,1230.0,staqu.com
+533,2909,Pankaj,p@staqu.com,8010537471,CTO,,2022-10-01,2022-10-01,1,1230.0,staqu.com
+534,2559,Naina,naina.mittal@greenlightplanet.com,,HR,,2022-10-01,2022-10-01,1,1230.0,greenlightplanet.com
+535,0,Sanket,sanket@supergaming.com,9599317553,Marketing,,2022-10-01,2022-10-01,1,1230.0,supergaming.com
+536,0,Akancha,akancha@supergaming.com,,,,2022-10-01,2022-10-01,1,1230.0,supergaming.com
+537,2463,Shayutha,shayutha.kb@swiggy.in,,TA,,2022-10-01,2022-10-01,1,1230.0,swiggy.in
+538,2463,Manasa,manasa.mn@swiggy.in,,TA,,2022-10-01,2022-10-01,1,1230.0,swiggy.in
+539,2786,Arvind,arvind.krishnan@swymcorp.com,,Marketing,,2022-10-01,2022-10-01,1,1230.0,swymcorp.com
+540,3355,Vikram,vikram@syfe.com,,HR,,2022-10-01,2022-10-01,1,1230.0,syfe.com
+541,1318,Vikrant,vikrant@synaptic.com,7045288242,Design,,2022-10-01,2022-10-01,1,1230.0,synaptic.com
+542,1299,Aditya,aditya.vikram@target.com,,HR,,2022-10-01,2022-10-01,1,1230.0,target.com
+543,1299,Sheba,sheba.george@target.com,,HR,,2022-10-01,2022-10-01,1,1230.0,target.com
+544,1299,Rahul,rahul.dhar@target.com,,TA,,2022-10-01,2022-10-01,1,1230.0,target.com
+545,1299,Vijai,vijai.krishna@target.com,,Design,,2022-10-01,2022-10-01,1,1230.0,target.com
+546,3179,Prashant,gautam@tavisca.com,8553683007,Tech,,2022-10-01,2022-10-01,1,1230.0,tavisca.com
+547,3179,Renu,rdewangan@tavisca.com,,Recruitment,,2022-10-01,2022-10-01,1,1230.0,tavisca.com
+548,3548,Mihir,mihir@teachmint.com,,,,2022-10-01,2022-10-01,1,1230.0,teachmint.com
+549,3548,Payoj,payoj@teachmint.com,,,,2022-10-01,2022-10-01,1,1230.0,teachmint.com
+550,0,Sowmya,sowmya@tekion.com,,,,2022-10-01,2022-10-01,1,1230.0,tekion.com
+551,0,Harshita,hjayashankar@tekion.com,,,,2022-10-01,2022-10-01,1,1230.0,tekion.com
+552,0,Divya,drao@tekion.com,,Product,,2022-10-01,2022-10-01,1,1230.0,tekion.com
+553,2912,Sonu,sonu@tenovia.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,tenovia.com
+554,2912,Murali,murali@tenovia.com,,Digital,,2022-10-01,2022-10-01,1,1230.0,tenovia.com
+555,4006,Jessica,jessicaengerer@eiu.com,,Design,,2022-10-01,2022-10-01,1,1230.0,eiu.com
+556,2334,Pankaj,pankaj@edc.co.in,9810349597,,,2022-10-01,2022-10-01,1,1230.0,edc.co.in
+557,894,Kunal,kunal@theluxurycloset.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,theluxurycloset.com
+558,0,Shashank,shashank@thewholetruthfoods.com,,Marketing,,2022-10-01,2022-10-01,1,1230.0,thewholetruthfoods.com
+559,0,Sanchi,sanchi@thewholetruthfoods.com,,,,2022-10-01,2022-10-01,1,1230.0,thewholetruthfoods.com
+560,0,Amber,ak@them.consulting,,,,2022-10-01,2022-10-01,1,1230.0,them.consulting
+561,0,Hitesh,ha@them.consulting,,Design,,2022-10-01,2022-10-01,1,1230.0,them.consulting
+562,2832,Raji,careers@thence.co,6364044297,Design,,2022-10-01,2022-10-01,1,1230.0,thence.co
+563,196,Ram ,ramprasadk@think.design,,HR,,2022-10-01,2022-10-01,1,1230.0,think.design
+564,196,Deepali,deepali.saini@think.design,,Design,,2022-10-01,2022-10-01,1,1230.0,think.design
+565,196,Aswathi,aswathimp@think.design,,Design,,2022-10-01,2022-10-01,1,1230.0,think.design
+566,196,Hari ,harinallan@think.design,,Design,,2022-10-01,2022-10-01,1,1230.0,think.design
+567,1706,Rahul,rahul.mishra@timesinternet.in,9990068250,TA,,2022-10-01,2022-10-01,1,1230.0,timesinternet.in
+568,1706,Shashank,shashank.chandel@timesinternet.in,,TA,,2022-10-01,2022-10-01,1,1230.0,timesinternet.in
+569,1706,Pratim,pratim.putatunda@timesgroup.com,9820997329,,,2022-10-01,2022-10-01,1,1230.0,timesgroup.com
+570,2946,Harshal,harsha@tiramisumedia.com,,,,2022-10-01,2022-10-01,1,1230.0,tiramisumedia.com
+571,2946,Kiran,kiran@tiramisumedia.com,,Operation,,2022-10-01,2022-10-01,1,1230.0,tiramisumedia.com
+572,3453,Arti,arti@toddleapp.com,,TA,,2022-10-01,2022-10-01,1,1230.0,toddleapp.com
+573,329,Krish,krish@togglehead.in,,Founder,,2022-10-01,2022-10-01,1,1230.0,togglehead.in
+574,3556,Ashish,ashish@toothsi.in,,Business,,2022-10-01,2022-10-01,1,1230.0,toothsi.in
+575,1228,Arshad,arshad.shahid@toppr.com,,Design,,2022-10-01,2022-10-01,1,1230.0,toppr.com
+576,1228,Arvind,arvind.nishad@toppr.com,,TA,,2022-10-01,2022-10-01,1,1230.0,toppr.com
+577,0,Rishabh,rishabh@transformative.in,7838732228,Founder,,2022-10-01,2022-10-01,1,1230.0,transformative.in
+578,3685,Harikesh,harikesh@letstranzact.com,,TA,,2022-10-01,2022-10-01,1,1230.0,letstranzact.com
+579,3685,Akhil,akhil@letstranzact.com,,Operation,,2022-10-01,2022-10-01,1,1230.0,letstranzact.com
+580,0,Dhaneesh,ttcareers@traveltriangle.com,,Design,,2022-10-01,2022-10-01,1,1230.0,traveltriangle.com
+581,3375,Swathy,swathy@tricog.com,,HR,,2022-10-01,2022-10-01,1,1230.0,tricog.com
+582,3298,Shanu,shanukumar@typeset.io,,Founder,,2022-10-01,2022-10-01,1,1230.0,typeset.io
+583,3298,Saikiran,saikiranchandha@typeset.io,,CEO,,2022-10-01,2022-10-01,1,1230.0,typeset.io
+584,3860,Harsha,sriharsha.gadde@unacademy.com,,HR,,2022-10-01,2022-10-01,1,1230.0,unacademy.com
+585,0,Nitin,nitin@upscal.io,,Founder,,2022-10-01,2022-10-01,1,1230.0,upscal.io
+586,0,Rohit,rohit@upscal.io,9999912043,Product,,2022-10-01,2022-10-01,1,1230.0,upscal.io
+587,728,Surbhi,surbhi.jain@urbanladder.com,,HR,,2022-10-01,2022-10-01,1,1230.0,urbanladder.com
+588,3445,Pulkit,pulkit.jain@vedantu.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,vedantu.com
+589,2663,Mandar,mandar.rajpathak@visteon.com,9970167130,Design,,2022-10-01,2022-10-01,1,1230.0,visteon.com
+590,3195,Rahul,rahul@getvital.in,,,,2022-10-01,2022-10-01,1,1230.0,getvital.in
+591,2854,Avneet,avneet.kaur@vmock.com,,HR,,2022-10-01,2022-10-01,1,1230.0,vmock.com
+592,0,Gaurav,gaurav@vunetsystems.com,,HR,,2022-10-01,2022-10-01,1,1230.0,vunetsystems.com
+593,0,Soniya Sivaraman ,soniya@vunetsystems.com,,TA,,2022-10-01,2022-10-01,1,1230.0,vunetsystems.com
+594,0,Amrut,amrut@vunetsystems.com,,HR,,2022-10-01,2022-10-01,1,1230.0,vunetsystems.com
+595,3474,Sudharshan,sudharshan.ts@wakefit.co,,HR,,2022-10-01,2022-10-01,1,1230.0,wakefit.co
+596,4068,Chaitanya,chai@tor.us,,Tech,,2022-10-01,2022-10-01,1,1230.0,tor.us
+597,0,HR Team,hr@webengage.com,,HR,,2022-10-01,2022-10-01,1,1230.0,webengage.com
+598,3337,Puneet,puneet@webenza.com,,Services,,2022-10-01,2022-10-01,1,1230.0,webenza.com
+599,3342,Sneha ,sneha.singh@whatfix.com,9686861104,TA,,2022-10-01,2022-10-01,1,1230.0,whatfix.com
+600,3342,Arjit,arijit.bhattacharjee@whatfix.com,,TA,,2022-10-01,2022-10-01,1,1230.0,whatfix.com
+601,1350,Neha,neha.singh@wingify.com,,HR,,2022-10-01,2022-10-01,1,1230.0,wingify.com
+602,1350,Ankit Jain ,ankit@wingify.com,,Product,,2022-10-01,2022-10-01,1,1230.0,wingify.com
+603,1350,Jusveen,jusveen.chandhok@wingify.com,,Tech,,2022-10-01,2022-10-01,1,1230.0,wingify.com
+604,1350,Aakanksha,aakanksha@wingify.com,,,,2022-10-01,2022-10-01,1,1230.0,wingify.com
+605,3701,Sharmila,sharmila.raj@wipro.com,,TA,,2022-10-01,2022-10-01,1,1230.0,wipro.com
+606,0,Bhargav,bhargav@wtastudios.com,9100572576,HR,,2022-10-01,2022-10-01,1,1230.0,wtastudios.com
+607,0,Anand,anand@xflowpay.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,xflowpay.com
+608,0,Ashwin,ashwin@xflowpay.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,xflowpay.com
+609,3324,Manoj,manoj@giftxoxo.com,9686575878,,,2022-10-01,2022-10-01,1,1230.0,giftxoxo.com
+610,3234,Shradha,shradha@yourstory.com,,Founder,,2022-10-01,2022-10-01,1,1230.0,yourstory.com
+611,3234,Karum,karum@yourstory.com,,,,2022-10-01,2022-10-01,1,1230.0,yourstory.com
+612,0,Tanima,tanima@zoomedia.in,,,,2022-10-01,2022-10-01,1,1230.0,zoomedia.in
+613,3151,Manmohan ,manmohan.s.bisht@zs.com,,TA,,2022-10-01,2022-10-01,1,1230.0,zs.com
+614,3151,Nikita,nikita.maheshwari@zs.com,,HR,,2022-10-01,2022-10-01,1,1230.0,zs.com
+615,3151,Nikita,nikita.raje@zs.com,,HR,,2022-10-01,2022-10-01,1,1230.0,zs.com
+616,3369,Dilsher,dilsher.malhi@zupee.in,,Founder,,2022-10-01,2022-10-01,1,1230.0,zupee.in
+617,0,Prasanta,prasanta@zvky.com,,General Manager,,2022-10-01,2022-10-01,1,1230.0,zvky.com
+618,0,Ramakrishna,ram@zvky.com,,Product Manager,,2022-10-01,2022-10-01,1,1230.0,zvky.com
+619,0,Mounika,mounika.tallapaka@excellarate.com,,TA,,2022-11-30,2022-11-30,1,1170.0,excellarate.com
+620,1829,Hazel,hazel.antic@hopscotch.in,,HR,,2025-06-13,2025-06-13,1,244.0,hopscotch.in
+621,4152,Vijaylaxmi,vijaylaxmi.m@jsw.in,73878 41472,TA,,2022-11-30,2022-11-30,1,1170.0,jsw.in
+622,4152,Patan,patanjali.alaiya@jsw.in,,HR,,2022-11-30,2022-11-30,1,1170.0,jsw.in
+623,3307,Divya ,divya.sharma@qure.ai,6305460699,HR,,2022-11-30,2022-11-30,1,1170.0,qure.ai
+624,3307,Dilruba,dilruba.nedumpalli@qure.ai,,HR,,2022-11-30,2022-11-30,1,1170.0,qure.ai
+625,3689,Priya ,priya.anand@freighttiger.com,,,,2023-03-22,2023-03-22,1,1058.0,freighttiger.com
+626,4268,Praveen,praveen.anne@tesseractesports.com,,,,2023-03-31,2023-03-31,1,1049.0,tesseractesports.com
+627,0,Sakshi,sakshi@farmtheory.in,,Founder,,2023-05-31,2023-05-31,1,988.0,farmtheory.in
+628,0,Arpit,arpit@farmtheory.in,,Founder,,2023-05-31,2023-05-31,1,988.0,farmtheory.in
+629,0,Shilpi,shilpi.chatterjee@hiveminds.in,,HR Manager,,2023-05-31,2023-05-31,1,988.0,hiveminds.in
+630,0,Aayush,aayush.arora@hiveminds.in,,VP,,2023-05-31,2023-05-31,1,988.0,hiveminds.in
+631,0,Sachin,sachinbo@hiveminds.in,,TA,,2023-05-31,2023-05-31,1,988.0,hiveminds.in
+632,2530,Pooja,pooja@humanfactors.com,,Recruitment Consultant,,2023-05-31,2023-05-31,1,988.0,humanfactors.com
+633,4176,Rinsy,rinsy.backer@onecode.in,,Head,,2023-05-31,2023-05-31,1,988.0,onecode.in
+634,3738,Sreya,sreya.ms@theporter.in,,TA,,2023-05-31,2023-05-31,1,988.0,theporter.in
+635,3738,Sheeja,sheejamathew@porter.in,,TA,,2023-05-31,2023-05-31,1,988.0,porter.in
+636,4202,Sumana,sumana.shankar@stablemoney.in,,TA,,2023-05-31,2023-05-31,1,988.0,stablemoney.in
+637,2559,Rakesh,rakesh@sunking.com,,,,2023-05-31,2023-05-31,1,988.0,sunking.com
+638,0,Mokchada,mokchada@assiduus.in,,HR (CPO),,2023-06-02,2023-06-02,1,986.0,assiduus.in
+639,4208,Padmavathi,psanginatham@blusapphire.com,,,,2023-06-02,2023-06-02,1,986.0,blusapphire.com
+640,0,Amit,amit@eka.care,,Design,,2023-06-02,2023-06-02,1,986.0,eka.care
+641,4219,Karthikeyan,karthikeyan@jobvite-inc.com,,Director of engineering,,2023-06-02,2023-06-02,1,986.0,jobvite-inc.com
+642,4219,Soumya,soumya.patil@employinc.com,,TA,,2023-06-02,2023-06-02,1,986.0,employinc.com
+643,3915,Saloni,saloni.dagly@leapfinance.com,,HR,,2023-06-02,2023-06-02,1,986.0,leapfinance.com
+644,4217,Vanchan,vachan.shetty@nobelhygiene.com,,HR,,2023-06-02,2023-06-02,1,986.0,nobelhygiene.com
+645,4217,Tobias,tobias.silveira@nobelhygiene.com,,TA,,2023-06-02,2023-06-02,1,986.0,nobelhygiene.com
+646,4174,Tanu Sinha,tanu.sinha@pepsico.com,,Design,,2023-06-02,2023-06-02,1,986.0,pepsico.com
+647,4230,Pranot,pranot.k@qualitrix.com,,HR,,2023-06-02,2023-06-02,1,986.0,qualitrix.com
+648,3860,Shweta,shweta.sivasankaran@unacademy.com,,Marketing,,2023-06-02,2023-06-02,1,986.0,unacademy.com
+649,4223,Prayag,prayag.l@unboxrobotics.com,,HR,,2023-06-02,2023-06-02,1,986.0,unboxrobotics.com
+650,4223,Aasavari,aasavari.j@unboxrobotics.com,,TA,,2023-06-02,2023-06-02,1,986.0,unboxrobotics.com
+651,4229,Sayantani,sayantani@whatsupwellness.in,,Founder,,2023-06-02,2023-06-02,1,986.0,whatsupwellness.in
+652,4229,Ackansha,ackansha@whatsupwellness.in,,HR,,2023-06-02,2023-06-02,1,986.0,whatsupwellness.in
+653,4232,Sagar,sagar.kaushik@northernarc.com,,HR,,2023-06-06,2023-06-06,1,982.0,northernarc.com
+654,4233,Debasmita,debasmita.roy@astrotalk.com,,HR,,2023-06-07,2023-06-07,1,981.0,astrotalk.com
+655,0,Suchitra,suchitra.ganguly@ril.com,9674553808,Recruiter,,2023-06-12,2023-06-12,1,976.0,ril.com
+656,4183,Shivani Patwa,shivani.p@amahahealth.com,77983 97957,HR,,2023-06-12,2023-06-12,1,976.0,amahahealth.com
+657,4183,Shivani Nair,shivani.n@amahahealth.com,83698 84839,HR,,2023-06-12,2023-06-12,1,976.0,amahahealth.com
+658,4106,Tanvi,tjain2@atlassian.com,9873639237,TA,,2023-06-12,2023-06-12,1,976.0,atlassian.com
+659,649,Abhilasha,abhilasha.pawar@bajajfinserv.in,8698843963,HR,,2023-06-12,2023-06-12,1,976.0,bajajfinserv.in
+660,649,Yash,yash.pardeshi@bajajfinserv.in,8983960998,Junior Officer,,2023-06-12,2023-06-12,1,976.0,bajajfinserv.in
+661,4378,Raveena,raveena.s@uniqode.com,9538222611,TA,,2023-06-12,2023-06-12,1,976.0,uniqode.com
+662,2945,Jassmine,jassmine.sinha@borngroup.com,9535290548,TA,,2023-06-12,2023-06-12,1,976.0,borngroup.com
+663,413,Chytra,chytra.k@capgemini.com,9110225041,TA,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+664,413,Amitanshu,amitanshu.nayak@capgemini.com,9881154090,TA,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+665,413,Sumaya,sumaya.karumanchi@capgemini.com,7722008442,,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+666,413,Aqsa,aqsa.afaque@capgemini.com,8910201715,HR,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+667,413,Neha,neha.c.shrivastava@capgemini.com,6364556875,,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+668,413,Deepa,deepa.chauhan@capgemini.com,8178731419,Consultant,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+669,413,Harshit,harshit.b.sethi@capgemini.com,8283845066,,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+670,413,Naveenreddy,naveenreddy.idamakanti@capgemini.com,7829509299,TA,,2023-06-12,2023-06-12,1,976.0,capgemini.com
+671,3382,Joy,joy@centime.com,9989099355,Director,,2023-06-12,2023-06-12,1,976.0,centime.com
+672,3382,Vincent,vincent@centime.com,98663 77435,,,2023-06-12,2023-06-12,1,976.0,centime.com
+673,4124,Tanya,tanya.sardana@godigit.com,82904 25252,,,2023-06-12,2023-06-12,1,976.0,godigit.com
+674,3748,Anisha,anisham@zeta.tech,9073171280,TA,,2023-06-12,2023-06-12,1,976.0,zeta.tech
+675,3739,Sudeep,sudeep.mitra@embibe.com,,HR,,2023-06-12,2023-06-12,1,976.0,embibe.com
+676,3739,Prem,prem.k@embibe.com,,HR,,2023-06-12,2023-06-12,1,976.0,embibe.com
+677,2689,Smitha,smitha.machaiah@epicor.com,8951938806,Talent Partner,,2023-06-12,2023-06-12,1,976.0,epicor.com
+678,3897,Utkosha,utkosha.badola@fidelity.co.in,9599196259,Recruitment officer,,2023-06-12,2023-06-12,1,976.0,fidelity.co.in
+679,3840,Amber,amber@flyfin.org,9818020151,Marketing & Growth,,2023-06-12,2023-06-12,1,976.0,flyfin.org
+680,3937,Pooja,pooja.pandey@flyhomes.com,9999671078,TA,,2023-06-12,2023-06-12,1,976.0,flyhomes.com
+681,3937,Tashu,c-tashu.rai@flyhomes.com,8860081122,Technical Recruiter,,2023-06-12,2023-06-12,1,976.0,flyhomes.com
+682,3123,Shameem,shameem.riyaz@gameskraft.com,7892975405,HR,,2023-06-12,2023-06-12,1,976.0,gameskraft.com
+683,0,Priyam,priyam.mehrotra@nexxbase.com,7506047328,HR,,2023-06-12,2023-06-12,1,976.0,nexxbase.com
+684,0,Urvi Mohla,urvi.mohla@nexxbase.com,7303089290,HR,,2023-06-12,2023-06-12,1,976.0,nexxbase.com
+685,3991,Sanjana,sanjana.v@groww.in,9019381800,TA,,2023-06-12,2023-06-12,1,976.0,groww.in
+686,2259,Salonee,salonee@haptik.ai,9594060629,TA,,2023-06-12,2023-06-12,1,976.0,haptik.ai
+687,2259,Deepika,deepika.nayak@haptik.co,9972401550,Design Head,,2023-06-12,2023-06-12,1,976.0,haptik.co
+688,3879,HR Team,jobs@hatica.io,8884401540,,,2023-06-12,2023-06-12,1,976.0,hatica.io
+689,0,Shashikanth,shashikanth.s@hdworks.in,90149 68483,Recruiter,,2023-06-12,2023-06-12,1,976.0,hdworks.in
+690,3752,Ashna,ashna.thakur@hevodata.com,,TA,,2023-06-12,2023-06-12,1,976.0,hevodata.com
+691,4057,Sharad,sharad@mygullak.money,9289634764,,,2023-06-12,2023-06-12,1,976.0,mygullak.money
+692,4057,Mayank,mayank@mygullak.money,,Founder,,2023-06-12,2023-06-12,1,976.0,mygullak.money
+693,4057,Neeraj,neeraj@mygullak.money,9731151838,Founder,,2023-06-12,2023-06-12,1,976.0,mygullak.money
+694,4057,Neeraj,neeraj@myhubble.money,,Founder,,2023-06-12,2023-06-12,1,976.0,myhubble.money
+695,837,Nimisha,nimishagupta@in.ibm.com,9811603417,TA,,2023-06-12,2023-06-12,1,976.0,in.ibm.com
+696,2638,Alisha,alisha@theinnerhour.com,9167675068,,,2023-06-12,2023-06-12,1,976.0,theinnerhour.com
+697,2638,Anand,anand@theinnerhour.com,8424010019,,,2023-06-12,2023-06-12,1,976.0,theinnerhour.com
+698,2523,Sarvari,sarvari@internshala.com,,HR Manager,,2023-06-12,2023-06-12,1,976.0,internshala.com
+699,2523,Gayatri,gayatri.mudgil@internshala.com,,HR ,,2023-06-12,2023-06-12,1,976.0,internshala.com
+700,3913,Ankita,ankita.mehta@ril.com,8287516899,HR,,2023-06-12,2023-06-12,1,976.0,ril.com
+701,668,Lokesh,lokesh.rengan@jumbotail.com,,Assistant Manager,,2023-06-12,2023-06-12,1,976.0,jumbotail.com
+702,3096,Mithra,mithra.sreejith@leadsquared.com,9900655577,TA,,2023-06-12,2023-06-12,1,976.0,leadsquared.com
+703,3630,Varun Sharma,varunsharma@lovelocal.in,9833855170,Sr. Manager ,,2023-06-12,2023-06-12,1,976.0,lovelocal.in
+704,3630,Arnab Das,arnab@lovelocal.in,8328853196 / 8895610501,Manager,,2023-06-12,2023-06-12,1,976.0,lovelocal.in
+705,0,Kanika,kanika.a@media.net,9004793469,TA,,2023-06-12,2023-06-12,1,976.0,media.net
+706,3923,Urvi,urvi@mesh.ai,7350087095,TA,,2023-06-12,2023-06-12,1,976.0,mesh.ai
+707,0,Suman,sumanbala.yadav@ust.com,9113567761,TA,,2023-06-12,2023-06-12,1,976.0,ust.com
+708,200,Nisha,nisha.singh4@myntra.com,,HRBP,,2023-06-12,2023-06-12,1,976.0,myntra.com
+709,200,Diljin,diljin.shaji@myntra.com,"8123673680, 8867805939",TA,,2023-06-12,2023-06-12,1,976.0,myntra.com
+710,3551,Shristi,shristi.joshi@navi.com,9962849938,,,2023-06-12,2023-06-12,1,976.0,navi.com
+711,3984,Geetika,geetika@nova-benefits.com,,TA,,2023-06-12,2023-06-12,1,976.0,nova-benefits.com
+712,3009,Pallavi,pallavi.joshi@phonepe.com,,TA,,2023-06-12,2023-06-12,1,976.0,phonepe.com
+713,0,Shreya,shreya.n@piramal.com,9953454068,HR,,2023-06-12,2023-06-12,1,976.0,piramal.com
+714,0,Akshay,akshay.patil04@piramal.com,8369566597,Recruiter,,2023-06-12,2023-06-12,1,976.0,piramal.com
+715,3834,Siby,siby@projectpro.io,9886708610,TA,,2023-06-12,2023-06-12,1,976.0,projectpro.io
+716,3526,Arsha,arsha.g@quintype.com,,People Champion,,2023-06-12,2023-06-12,1,976.0,quintype.com
+717,3526,HR Team,hr@quintype.com,,HR,,2023-06-12,2023-06-12,1,976.0,quintype.com
+718,4225,Aarushi Kala,aarushi@rapidinnovation.dev,7300616246,,,2023-06-12,2023-06-12,1,976.0,rapidinnovation.dev
+719,3015,Varsha,varsha.cn@razorpay.com,8867620787,TA,,2023-06-12,2023-06-12,1,976.0,razorpay.com
+720,1309,Ritika,ritika.sahay@rrd.com,9884256697,Recruiter,,2023-06-12,2023-06-12,1,976.0,rrd.com
+721,0,Lakshmi S,hr@sketchbrahma.com,81790 90180,HR,,2023-06-12,2023-06-12,1,976.0,sketchbrahma.com
+722,1625,Bhavya,bhavya.kashyap@socialpanga.com,,HR Manager,,2023-06-12,2023-06-12,1,976.0,socialpanga.com
+723,1625,Yakuta,yakuta.kanchwala@socialpanga.com,80568 30927,HR Manager,,2023-06-12,2023-06-12,1,976.0,socialpanga.com
+724,1625,Mubeen,mubeen.parkar@socialpanga.com,,HR,,2023-06-12,2023-06-12,1,976.0,socialpanga.com
+725,0,Sulabh,sulabh.varma@splashlearn.com,,TA,,2023-06-12,2023-06-12,1,976.0,splashlearn.com
+726,0,Sristi,sristi.sinha@splashlearn.com,,TA,,2023-06-12,2023-06-12,1,976.0,splashlearn.com
+727,2559,Naveen,naveen.h@sunking.com,8073074286,HR,,2023-06-12,2023-06-12,1,976.0,sunking.com
+728,2832,Sabari,sabari@thence.co,8431083155,HR ,,2023-06-12,2023-06-12,1,976.0,thence.co
+729,2832,Raji,raji@thence.co,8281239184,Recruiter,,2023-06-12,2023-06-12,1,976.0,thence.co
+730,3782,Namrata,namrata.salian2@vmlyr.com,9819644882,TA,,2023-06-12,2023-06-12,1,976.0,vmlyr.com
+731,995,Nisa,nisa@yujdesigns.com,,HR,,2023-06-12,2023-06-12,1,976.0,yujdesigns.com
+732,995,Arpita,arpita@yujdesigns.com,,HR,,2023-06-12,2023-06-12,1,976.0,yujdesigns.com
+733,995,Harini,harini.r@yujdesigns.com,,HR,,2023-06-12,2023-06-12,1,976.0,yujdesigns.com
+734,3938,Imran,imran.khan@zee.com,74832 41624,,,2023-06-12,2023-06-12,1,976.0,zee.com
+735,3151,Prerna,prerna.natekar@zs.com,,,,2023-06-12,2023-06-12,1,976.0,zs.com
+736,3748,Sarath,sarathn@zeta.tech,,,,2023-06-12,2023-06-12,1,976.0,zeta.tech
+737,649,Roopam,roopam.chadha@bajajfinserv.in,,,,2023-06-12,2023-06-12,1,976.0,bajajfinserv.in
+738,649,Taruna,taruna.sharma1@bajajfinserv.in,,,,2023-06-12,2023-06-12,1,976.0,bajajfinserv.in
+739,3725,Sreekala,sreekala.sreedhar@cashfree.com,,,,2023-06-12,2023-06-12,1,976.0,cashfree.com
+740,4124,Pavni,pavni.mishra@godigit.com,,,,2023-06-12,2023-06-12,1,976.0,godigit.com
+741,0,Vinay,vinay@divami.com,,,,2023-06-12,2023-06-12,1,976.0,divami.com
+742,3666,Akshata,akshatakadam@fynd.com,,,,2023-06-12,2023-06-12,1,976.0,fynd.com
+743,2259,Insha,insha@haptik.ai,,,,2023-06-12,2023-06-12,1,976.0,haptik.ai
+744,1829,Vivek,vivek.reddy@hopscotch.in,,,,2023-06-12,2023-06-12,1,976.0,hopscotch.in
+745,3913,Kajal,kajal.kalambe@ril.com,,,,2023-06-12,2023-06-12,1,976.0,ril.com
+746,3424,Vidushi Attrey,vidushi.attrey@scaler.com,,,,2023-06-12,2023-06-12,1,976.0,scaler.com
+747,0,Devyani,devayani@sketchbrahma.com,,,,2023-06-12,2023-06-12,1,976.0,sketchbrahma.com
+748,4250,HR Team,careers@unstop.com,,HR,,2023-06-15,2023-06-15,1,973.0,unstop.com
+749,0,Vanessa,vanessa.lee@philips.com,,,,2023-06-20,2023-06-20,1,968.0,philips.com
+750,0,Sridhar,sridhar.vimal@philips.com,,,,2023-06-20,2023-06-20,1,968.0,philips.com
+751,4238,Vaishali,vaishali.shedge@tataaia.com,9820593160,,,2023-06-20,2023-06-20,1,968.0,tataaia.com
+752,4239,Elango,elan@rhombuz.io,,Design,,2023-06-20,2023-06-20,1,968.0,rhombuz.io
+753,3352,Aanchal,aanchal.jain@them.consulting,,HR,,2023-06-21,2023-06-21,1,967.0,them.consulting
+754,2873,Simran,simran@securenow.in,,TA,,2023-06-21,2023-06-21,1,967.0,securenow.in
+755,4243,Jose,jose.bharucha@landorandfitch.com,,HR,,2023-06-27,2023-06-27,1,961.0,landorandfitch.com
+756,3538,Smriti,smriti.dhapola@nykaa.com,,HR,,2023-07-05,2023-07-05,1,953.0,nykaa.com
+757,4082,Anushree,anushree@squadstack.com,,,,2023-07-05,2023-07-05,1,953.0,squadstack.com
+758,4082,Marsina,marsina.waffa@squadstack.com,,,,2023-07-05,2023-07-05,1,953.0,squadstack.com
+759,4082,Sushmita,sushmita.mishra@squadstack.com,,,,2023-07-05,2023-07-05,1,953.0,squadstack.com
+760,3566,Mohit,mohit.andhirka@kore.com,,HR,,2023-07-06,2023-07-06,1,952.0,kore.com
+761,4243,Arwa,arwa.khambati@landorandfitch.com,,,,2023-07-06,2023-07-06,1,952.0,landorandfitch.com
+762,2945,Anirban,anirbandeep.ray@borngroup.com,,TA,,2023-07-14,2023-07-14,1,944.0,borngroup.com
+763,2945,Jimmy,jimmy.kuriakose@borngroup.com,,TA,,2023-07-14,2023-07-14,1,944.0,borngroup.com
+764,2945,Suraj,suraj.gupta@borngroup.com,,TA,,2023-07-14,2023-07-14,1,944.0,borngroup.com
+765,4250,Yashwardhan,yashwardhan@unstop.com,,,,2023-07-18,2023-07-18,1,940.0,unstop.com
+766,4258,Soumya,soumya.das@idsnext.com,,,,2023-07-26,2023-07-26,1,932.0,idsnext.com
+767,4238,Mayur,mayur.deshmukh@tataaia.com,,,,2023-08-09,2023-08-09,1,918.0,tataaia.com
+768,3349,Ankit,ankit@sensibull.com,,HR,,2023-08-10,2023-08-10,1,917.0,sensibull.com
+769,0,Ajith,ajith.inguva@digit88.com,9886720370,,,2023-08-16,2023-08-16,1,911.0,digit88.com
+770,0,Geeti,geeti.gaurav@digit88.com,,HR,,2023-08-16,2023-08-16,1,911.0,digit88.com
+771,4269,Chinmay,chinmay.ketkar@neo-group.in,,HR,,2023-09-05,2023-09-05,1,891.0,neo-group.in
+772,4269,Kunal,kunal.kanekar@neo-group.in,,HR,,2023-09-05,2023-09-05,1,891.0,neo-group.in
+773,3689,Ayushi,ayushi.tapadiya@freighttiger.com,,,,2023-09-20,2023-09-20,1,876.0,freighttiger.com
+774,3989,Amitesh,amitesh@recro.io,9923444207,,,2023-09-25,2023-09-25,1,871.0,recro.io
+775,3989,Zainul,zainul@recro.io,,,,2023-09-27,2023-09-27,1,869.0,recro.io
+776,4277,Raji,raji@analogyx.com,,,,2023-10-03,2023-10-03,1,863.0,analogyx.com
+777,4278,Atharva,atharva@gobazzinga.io,,,,2023-10-05,2023-10-05,1,861.0,gobazzinga.io
+778,4278,Utkarsh,utkarsh@gobazzinga.io,,,,2023-10-05,2023-10-05,1,861.0,gobazzinga.io
+779,4286,Ruchir,ruchir@busy.in,,,,2023-10-05,2023-10-05,1,861.0,busy.in
+780,1309,Sairam,maruthanayagam.sairam@rrd.com,,,,,,1,,rrd.com
+781,3701,Jaya,jaya.choudhary@wipro.com,,,,,,1,,wipro.com
+782,3701,Neha,neha.shiraskar@wipro.com,,,,,,1,,wipro.com
+783,4290,Yogesh,yogesh.kulkarni@ellicium.com,9822216414,,,2023-10-16,2023-10-16,1,850.0,ellicium.com
+784,4282,Nagarajan,nagarajan.jayachandran@gigin.ai,9884050810,,,2023-10-17,2023-10-17,1,849.0,gigin.ai
+785,4286,Meenakshi,meenakshi.chauhan@busy.in,,,,2023-10-20,2023-10-20,1,846.0,busy.in
+786,4286,Amit,amit.kumar@busy.in,,,,2023-10-20,2023-10-20,1,846.0,busy.in
+787,0,Bipin Domy Thomas,bipin@fyers.in,,,,2023-10-20,2023-10-20,1,846.0,fyers.in
+788,4297,Navendu,navendu.saxena@logoinfosoft.com,,,,2023-10-23,2023-10-23,1,843.0,logoinfosoft.com
+789,3296,Shaheen,shaheen@humanx.io,9867604260,,,2023-10-30,2023-10-30,1,836.0,humanx.io
+790,4297,Balika,balika.shetty@logoinfosoft.com,8433736262,,,2023-10-30,2023-10-30,1,836.0,logoinfosoft.com
+791,0,Girish,girish.subramanian@fyers.in,,,,2023-10-30,2023-10-30,1,836.0,fyers.in
+792,0,Yashas,yashas@fyers.in,,,,2023-10-30,2023-10-30,1,836.0,fyers.in
+793,4207,Prakriti,prakriti@sigmoidanalytics.com,,,,2023-10-31,2023-10-31,1,835.0,sigmoidanalytics.com
+794,4290,HR Team,hr.ellicium@ellicium.com,,,,2023-10-31,2023-10-31,1,835.0,ellicium.com
+795,4290,Mugdha,mugdha.wagh@ellicium.com,,,,2023-10-31,2023-10-31,1,835.0,ellicium.com
+796,4290,Ankita,ankita.divekar@ellicium.com,,,,2023-10-31,2023-10-31,1,835.0,ellicium.com
+797,4306,Ruby,ruby.t@flatworldsolutions.com,,,,2023-11-02,2023-11-02,1,833.0,flatworldsolutions.com
+798,1594,Karthik,karthik.vasa@target.com,,,,2023-11-16,2023-11-16,1,819.0,target.com
+799,0,Enakshi,enakshi@dailyrounds.org,,,,2023-11-16,2023-11-16,1,819.0,dailyrounds.org
+800,0,Siddhartha,siddhartha@dailyrounds.org,,,,2023-11-17,2023-11-17,1,818.0,dailyrounds.org
+801,0,Anjali,anjali.rastogi@dailyrounds.org,,,,2023-11-17,2023-11-17,1,818.0,dailyrounds.org
+802,0,Prabhakaran,prabakharan.sd@dailyrounds.org,,,,2023-11-17,2023-11-17,1,818.0,dailyrounds.org
+803,0,Sanjeeb,sanjeeb@techshu.org,8017111536,,,2023-11-21,2023-11-21,1,814.0,techshu.org
+804,4306,Sheela,sheela.d@flatworldsolutions.com,,,,2023-12-05,2023-12-05,1,800.0,flatworldsolutions.com
+805,0,Sandeep,sandeepk@dotsolved.com,,,,,,1,,dotsolved.com
+806,0,Sridhar,sridharv@dotsolved.com,,,,,,1,,dotsolved.com
+807,4313,Gaurav,gaurav.kapil@mai.io,,,,,,1,,mai.io
+808,4313,Mohit,mohit.soni@mai.io,,,,,,1,,mai.io
+809,4313,Anjali,anjali.dang@mai.io,,,,,,1,,mai.io
+810,4311,Harsh,hello@brewex.co,,,,,,1,,brewex.co
+811,4311,Pawanjot,pawanjot@brewex.co,,,,,,1,,brewex.co
+812,0,Karuna,karuna.c@homelane.com,,,,2023-12-28,2023-12-28,1,777.0,homelane.com
+813,0,Shikha,shikha.r@homelane.com,,,,2023-12-28,2023-12-28,1,777.0,homelane.com
+814,0,Suchin,suchin.s@homelane.com,,,,2023-12-28,2023-12-28,1,777.0,homelane.com
+815,4314,Deepak,deepak.tom@tookitaki.com,,,,2023-12-29,2023-12-29,1,776.0,tookitaki.com
+816,0,Varun,varun.tandon@telekom-digital.com,9718530023,,,2024-01-05,2024-01-05,1,769.0,telekom-digital.com
+817,0,Kavita,kavita.verma@telekom-digital.com,,,,2024-01-05,2024-01-05,1,769.0,telekom-digital.com
+818,0,Shweta,shweta.pandey@telekom-digital.com,,,,2024-01-05,2024-01-05,1,769.0,telekom-digital.com
+819,0,Remya,remya.ravikumar@bankopen.co,,,,2024-01-11,2024-01-11,1,763.0,bankopen.co
+820,4317,Afreen,careers@bluone.in,,,,2024-01-20,2024-01-20,1,754.0,bluone.in
+821,0,Deepesh,deepesh.hiran@auxoai.com,,,,2024-01-30,2024-01-30,1,744.0,auxoai.com
+822,0,Aprajita,aprajita.thakur@auxoai.com,,,,2024-01-30,2024-01-30,1,744.0,auxoai.com
+823,0,Vishwajit,vishwajit.nerkar@clazar.io,,,,2024-01-31,2024-01-31,1,743.0,clazar.io
+824,0,Lalit,lalit.aggarwal@clazar.io,,,,2024-01-31,2024-01-31,1,743.0,clazar.io
+825,200,Hussain,hussain.basha@myntra.com,,,,2024-02-08,2024-02-08,1,735.0,myntra.com
+826,4320,Nitish,nitishk@datansh.com,,,,2024-02-09,2024-02-09,1,734.0,datansh.com
+827,4320,HR Team,hr@datansh.com,,,,2024-02-09,2024-02-09,1,734.0,datansh.com
+828,4321,Rashi,rashi.bhatia@aurigait.com,,,,2024-02-27,2024-02-27,1,716.0,aurigait.com
+829,4321,Pooja,pooja.saxena@aurigait.com,,,,2024-02-27,2024-02-27,1,716.0,aurigait.com
+830,0,Swaminathan ,swami@callhub.io,,,,2024-02-27,2024-02-27,1,716.0,callhub.io
+831,3689,Faiza,faiza.baig@freighttiger.com,,,,2024-02-27,2024-02-27,1,716.0,freighttiger.com
+832,0,Maaz,maaz.ahmed@fyers.in,,,,2024-02-27,2024-02-27,1,716.0,fyers.in
+833,4297,Darshana,darshana.kale@logoinfosoft.com,,,,2024-02-27,2024-02-27,1,716.0,logoinfosoft.com
+834,0,Raghavendra ,raghavendra@netbramha.com,,,,2024-02-27,2024-02-27,1,716.0,netbramha.com
+835,4207,Pavan,pavan.sb@sigmoidanalytics.com,,,,2024-02-27,2024-02-27,1,716.0,sigmoidanalytics.com
+836,1594,Hari,hari.cp@target.com,,,,2024-02-27,2024-02-27,1,716.0,target.com
+837,4229,Deepali,deepali@whatsupwellness.in,,,,2024-02-27,2024-02-27,1,716.0,whatsupwellness.in
+838,995,Ojasa,ojasa@yujdesigns.com,,,,2024-02-27,2024-02-27,1,716.0,yujdesigns.com
+839,4330,Ranadeep,ranadeepchakravarty@mplgaming.com,,,,2024-02-28,2024-02-28,1,715.0,mplgaming.com
+840,1829,Pallavi,pallavi.hegade@hopscotch.in,,,,2024-02-29,2024-02-29,1,714.0,hopscotch.in
+841,3566,Puja,pujalovespets@supertails.com,,,,2024-02-29,2024-02-29,1,714.0,supertails.com
+842,4238,Karthik,karthik.nair@tataaia.com,,,,2024-02-29,2024-02-29,1,714.0,tataaia.com
+843,0,Rajeev,rajeev.bharadwaj@vunetsystems.com,,,,2024-02-29,2024-02-29,1,714.0,vunetsystems.com
+844,0,Ishita,ishita@heady.io,,,,2024-03-05,2024-03-05,1,709.0,heady.io
+845,0,Nikhil,nikhil@heady.io,,,,2024-03-06,2024-03-06,1,708.0,heady.io
+846,0,Jessica,jessica@heady.io,,,,2024-03-06,2024-03-06,1,708.0,heady.io
+847,4330,Kiran,kirans@mplgaming.com,,,,2024-03-06,2024-03-06,1,708.0,mplgaming.com
+848,4330,Samarth,samarth@mplgaming.com,,,,2024-03-06,2024-03-06,1,708.0,mplgaming.com
+849,3754,Manish,manish@kushals.com,,,,2024-03-13,2024-03-13,1,701.0,kushals.com
+850,0,Bhumika,bhumika@blufig.digital,,,,2024-03-14,2024-03-14,1,700.0,blufig.digital
+851,4207,Anusha,adeva@sigmoidanalytics.com,,,,2024-03-14,2024-03-14,1,700.0,sigmoidanalytics.com
+852,4207,Rashmi,rashmi.p@sigmoidanalytics.com,,,,2024-03-14,2024-03-14,1,700.0,sigmoidanalytics.com
+853,3424,Kriti,kriti.srinandh@scaler.com,,,,2024-03-15,2024-03-15,1,699.0,scaler.com
+854,3424,Bhumi,bhumi.kaur@scaler.com,,,,2024-03-15,2024-03-15,1,699.0,scaler.com
+855,3424,Aditya,aditya.sakral@scaler.com,,,,2024-03-15,2024-03-15,1,699.0,scaler.com
+856,2438,Isha,isha@rebelfoods.com,8806389870,VP,,2024-03-18,2024-03-18,1,696.0,rebelfoods.com
+857,4327,Rathnaraj,rathnaraj.talacauvery@asato.ai,,,,2024-03-18,2024-03-18,1,696.0,asato.ai
+858,4327,Lakshmi,lakshmi.s@asato.ai,,,,2024-03-18,2024-03-18,1,696.0,asato.ai
+859,4328,Ipshita,ipshita@tortoise.pro,,,,2024-03-18,2024-03-18,1,696.0,tortoise.pro
+860,4329,Madhavi,madhavi.chauhan@myparkplus.com,,,,2024-03-20,2024-03-20,1,694.0,myparkplus.com
+861,4329,Kunal Gupta,kunal.gupta@myparkplus.com,,,,2024-03-20,2024-03-20,1,694.0,myparkplus.com
+862,4329,Ishika Goel,ishika.goel@myparkplus.com,,,,2024-03-20,2024-03-20,1,694.0,myparkplus.com
+863,4329,Swikriti Bhura,swikriti.bhura@myparkplus.com,,,,2024-03-20,2024-03-20,1,694.0,myparkplus.com
+864,4330,Parbin,parbinsultana@mplgaming.com,,,,2024-03-21,2024-03-21,1,693.0,mplgaming.com
+865,4333,Alim,alim.khan@dcbbank.com,,,,2024-04-08,2024-04-08,1,675.0,dcbbank.com
+866,4333,Diptee,diptee.shetty@dcbbank.com,,,,2024-04-10,2024-04-10,1,673.0,dcbbank.com
+867,4335,Sachin,sachin@faqprime.com,,,,2024-04-22,2024-04-22,1,661.0,faqprime.com
+868,0,Ashish,ashish.verma@trantorinc.com,,,,2024-04-24,2024-04-24,1,659.0,trantorinc.com
+869,0,Ashish,ashish.singla@trantorinc.com,,,,2024-04-24,2024-04-24,1,659.0,trantorinc.com
+870,0,Nidhi,nidhi.vashishtha@trantorinc.com,,,,2024-04-24,2024-04-24,1,659.0,trantorinc.com
+871,4336,Shravani,sharvani.shastry@cx100.com,,,,2024-04-24,2024-04-24,1,659.0,cx100.com
+872,0,Sahil,sahil@bobble.ai,,,,2024-05-08,2024-05-08,1,645.0,bobble.ai
+873,0,Rakshita,rakshita@bobble.ai,,,,2024-05-08,2024-05-08,1,645.0,bobble.ai
+874,0,Moazma,moazma.nesar@bobble.ai,,,,2025-06-13,2025-06-13,1,244.0,bobble.ai
+875,0,Ankita,ankita@bobble.ai,,,,2024-05-08,2024-05-08,1,645.0,bobble.ai
+876,3984,Kriti,talent2@nova-benefits.com,,,,2024-05-09,2024-05-09,1,644.0,nova-benefits.com
+877,3984,Kriti,kriti@nova-benefits.com,,,,2024-05-09,2024-05-09,1,644.0,nova-benefits.com
+878,4362,Chetan,chetan@apnamart.in,,,,2024-05-15,2024-05-15,1,638.0,apnamart.in
+879,4362,Utkarsh,utkarsh.bagri@apnamart.in,,,,2024-05-15,2024-05-15,1,638.0,apnamart.in
+880,4362,Mayank,mayank@apnamart.in,,,,2024-05-15,2024-05-15,1,638.0,apnamart.in
+881,1270,Sandeep,sandeep.pal@moengage.com,,,,2024-05-18,2024-05-18,1,635.0,moengage.com
+882,1270,Veena,veena.satish@moengage.com,,,,2024-05-18,2024-05-18,1,635.0,moengage.com
+883,1270,Nandini,nandini.mohandas@moengage.com,,,,2024-05-18,2024-05-18,1,635.0,moengage.com
+884,0,Kiran,kpk@csod.com,,,,2024-05-20,2024-05-20,1,633.0,csod.com
+885,0,Alekhya,akurra@csod.com,,,,2024-05-20,2024-05-20,1,633.0,csod.com
+886,0,Mona,mrai@csod.com,,,,2024-05-20,2024-05-20,1,633.0,csod.com
+887,0,Ajinkya,ajinkya.thakre@bluekaktus.com,,,,2024-05-20,2024-05-20,1,633.0,bluekaktus.com
+888,0,Beena,beena.dennis@bluekaktus.com,,,,2024-05-20,2024-05-20,1,633.0,bluekaktus.com
+889,0,Afreen,hr@bluekaktus.com,,,,2024-05-20,2024-05-20,1,633.0,bluekaktus.com
+890,0,Priya,priya.anand@studio-earth.in,,,,2024-05-20,2024-05-20,1,633.0,studio-earth.in
+891,4149,Shrikanth,shrikanth.reddy@delta.exchange,,,,2024-05-22,2024-05-22,1,631.0,delta.exchange
+892,4149,Jitender,jitender.tokas@delta.exchange,,,,2024-05-22,2024-05-22,1,631.0,delta.exchange
+893,668,Arati,arati.patnaik@jumbotail.com,,,,2024-05-24,2024-05-24,1,629.0,jumbotail.com
+894,668,Soundarya,soundarya.vs@jumbotail.com,,,,2024-05-24,2024-05-24,1,629.0,jumbotail.com
+895,4343,Surbhi,surbhi.shrivastava@novatr.com,,,,2024-05-27,2024-05-27,1,626.0,novatr.com
+896,4343,Kalpana,kalpana.satpola@novatr.com,,,,2024-05-27,2024-05-27,1,626.0,novatr.com
+897,649,Mohit,mohit.mehroliya@bajajfinserv.in,,,,2024-06-12,2024-06-12,1,610.0,bajajfinserv.in
+898,1218,Vaibhav,vaibhav@smytten.com,,,,2024-06-14,2024-06-14,1,608.0,smytten.com
+899,1218,Vrushi,vrushi@smytten.com,,,,2024-06-14,2024-06-14,1,608.0,smytten.com
+900,0,Mark,mark.mcdonald@annalect.com,,,,2024-07-05,2024-07-05,1,587.0,annalect.com
+901,0,Ravi,ravi.namboori@annalect.com,,,,2024-07-05,2024-07-05,1,587.0,annalect.com
+902,649,Rahul,rahul.dam@bajajfinserv.in,,,,2024-07-13,2024-07-13,1,579.0,bajajfinserv.in
+903,0,Srinivas,sdoijode@r1rcm.com,,,,2024-07-23,2024-07-23,1,569.0,r1rcm.com
+904,0,Shikha,ssibal2@r1rcm.com,,,,2024-07-23,2024-07-23,1,569.0,r1rcm.com
+905,0,Rajani,rsriram@r1rcm.com,,,,2024-07-23,2024-07-23,1,569.0,r1rcm.com
+906,0,Ashish,asrivastava25@r1rcm.com,,,,2024-07-23,2024-07-23,1,569.0,r1rcm.com
+907,0,Devendra,djoshi5@r1rcm.com,,,,2024-07-23,2024-07-23,1,569.0,r1rcm.com
+908,2905,Shalini,shalini.assija@nexxbase.com,,,,2024-07-26,2024-07-26,1,566.0,nexxbase.com
+909,4172,Manu,manu.barki@atlan.com,,,,2024-08-30,2024-08-30,1,531.0,atlan.com
+910,3984,Kalpana,kalpana@nova-benefits.com,,,,2024-09-03,2024-09-03,1,527.0,nova-benefits.com
+911,4335,Salil,salil@faqprime.com,,,,2024-09-03,2024-09-03,1,527.0,faqprime.com
+912,3984,Nandini,nandini.p@nova-benefits.com,,,,2024-09-03,2024-09-03,1,527.0,nova-benefits.com
+913,3886,Medha,medha@callhub.io,,,,2024-09-03,2024-09-03,1,527.0,callhub.io
+914,4152,Shivam,v_shivam.dubey@jsw.in,,,,2024-09-03,2024-09-03,1,527.0,jsw.in
+915,0,Surya,suryaprakash.murugesan@annalect.com,,,,2024-09-04,2024-09-04,1,526.0,annalect.com
+916,0,Shalu,shalu.singh@annalect.com,,,,2024-09-04,2024-09-04,1,526.0,annalect.com
+917,0,Smitha,smitha.tekur@annalect.com,,,,2024-09-04,2024-09-04,1,526.0,annalect.com
+918,0,Mavish,mavish.saxena@annalect.com,,,,2024-09-04,2024-09-04,1,526.0,annalect.com
+919,0,Lovepreet,lovepreet.singh@annalect.com,,,,2024-09-04,2024-09-04,1,526.0,annalect.com
+920,0,Priyanka,priyanka.tiwari@trantorinc.com,,,,2024-09-04,2024-09-04,1,526.0,trantorinc.com
+921,649,Lavanya,lavanya.pandey@bajajfinserv.in,,,,2024-09-04,2024-09-04,1,526.0,bajajfinserv.in
+922,4182,Mahesh,mahesh@maloogroup.net,,,,2024-10-09,2024-10-09,1,491.0,maloogroup.net
+923,3089,Chetan,chetan.jn@meesho.com,,TA,,2024-11-07,2024-11-07,1,462.0,meesho.com
+924,3089,Shivangi,shivangi.rai@meesho.com,,TA,,2024-11-07,2024-11-07,1,462.0,meesho.com
+925,4361,Nikita,nikita@zenskar.com,,,,2024-11-18,2024-11-18,1,451.0,zenskar.com
+926,4361,Rajat,rajat@zenskar.com,,,,2024-11-18,2024-11-18,1,451.0,zenskar.com
+927,4363,Ashish,ashish.verma@doceree.com,,,,2024-11-19,2024-11-19,1,450.0,doceree.com
+928,4363,Naveen,naveen.tripathi@doceree.com,,,,2024-11-19,2024-11-19,1,450.0,doceree.com
+929,4364,Ravi,ravi.kasinadhuni@crmit.com,,,,2024-11-26,2024-11-26,1,443.0,crmit.com
+930,4364,Saritha,psaritha@crmit.com,,,,2024-11-26,2024-11-26,1,443.0,crmit.com
+931,4364,Ashok,ashok.jalda@crmit.com,,,,2024-11-26,2024-11-26,1,443.0,crmit.com
+932,4364,Raghavendra,raghavendra.bhat@crmit.com,,,,2024-11-26,2024-11-26,1,443.0,crmit.com
+933,4365,Smriti,smritij@dealermatix.com,,,,2024-12-01,2024-12-01,1,438.0,dealermatix.com
+934,4366,Sujitha,svijayakumar@spoton.com,8838664225,,,2024-12-01,2024-12-01,1,438.0,spoton.com
+935,0,Shazia,shazia.baig@hdworks.in,,,,2024-12-05,2024-12-05,1,434.0,hdworks.in
+936,0,Hari,hari.e@hdworks.in,,,,2024-12-05,2024-12-05,1,434.0,hdworks.in
+937,0,Mruthunjaya,mruthunjaya.kr@hdworks.in,,,,2024-12-05,2024-12-05,1,434.0,hdworks.in
+938,4191,Shiv,sivakanth@lifesight.io,,,,2024-12-18,2024-12-18,1,421.0,lifesight.io
+939,4191,Avisha,avisha@lifesight.io,,,,2024-12-18,2024-12-18,1,421.0,lifesight.io
+940,4191,Vanya,vanya.s@lifesight.io,,,,2024-12-18,2024-12-18,1,421.0,lifesight.io
+941,0,Raj,rajendra.m@yethi.in,9844984998,,,2024-12-20,2024-12-20,1,419.0,yethi.in
+942,0,Manindra,manindra.k@yethi.in,,,,2024-12-20,2024-12-20,1,419.0,yethi.in
+943,0,Lokesh,lokesh.ms@yethi.in,,,,2024-12-20,2024-12-20,1,419.0,yethi.in
+944,4368,Smita,smita.hoskot@acko.tech,,,,2025-01-08,2025-01-08,1,400.0,acko.tech
+945,4368,Amit,amit@acko.com,,,,2025-01-09,2025-01-09,1,399.0,acko.com
+946,4368,Ajay,ajay@acko.tech,,,,2025-01-09,2025-01-09,1,399.0,acko.tech
+947,4368,Dipti,diptiranjan.pradhan@acko.tech,,,,2025-01-09,2025-01-09,1,399.0,acko.tech
+948,4364,Abu,abubaker.sait@crmit.com,,,,2025-01-23,2025-01-23,1,385.0,crmit.com
+949,4369,Sahil,sahil@carinfo.app,,,,2025-01-24,2025-01-24,1,384.0,carinfo.app
+950,4369,Sahil,sahil.ajmani@appflixstudio.com,,,,2025-01-24,2025-01-24,1,384.0,appflixstudio.com
+951,4369,Sheetal,sheetal@appflixstudio.com,,,,2025-01-24,2025-01-24,1,384.0,appflixstudio.com
+952,3345,Nupur,nupur@travenues.com,,HR,,2025-01-30,2025-01-30,1,378.0,travenues.com
+953,3345,Archita,archita.chauhan@travenues.com,,HR,,2025-01-30,2025-01-30,1,378.0,travenues.com
+954,3345,Ashutosh,ashutosh.parihar@travenues.com,,Design,,2025-01-30,2025-01-30,1,378.0,travenues.com
+955,0,Swati,swati@peakxv.com,,,,2025-02-03,2025-02-03,1,374.0,peakxv.com
+956,0,Saravana,saravanak@kastechssg.com,,,,2025-02-10,2025-02-10,1,367.0,kastechssg.com
+957,4371,Salonee,salonee@konnectinsights.com,,,,2025-02-10,2025-02-10,1,367.0,konnectinsights.com
+958,0,Sonia,sonia@apra.in,,,,2025-03-06,2025-03-06,1,343.0,apra.in
+959,1350,Vipul,vipul.kumar@wingify.com,,,,2025-03-07,2025-03-07,1,342.0,wingify.com
+960,3350,Sarah,sarah@nanonets.com,,,,2025-03-10,2025-03-10,1,339.0,nanonets.com
+961,3350,Sudipta,sudipta@nanonets.com,,,,2025-03-10,2025-03-10,1,339.0,nanonets.com
+962,0,Dipesh,dipesh@elevationcapital.com,,,,2025-03-12,2025-03-12,1,337.0,elevationcapital.com
+963,2857,Radhika,radhika.kh@media.net,,,,2025-03-25,2025-03-25,1,324.0,media.net
+964,0,Sai,sai@liquidnitrogames.com,,,,2025-04-03,2025-04-03,1,315.0,liquidnitrogames.com
+965,4375,Jayeeta,jayeeta.munshi@capitalone.com,,,,2025-04-11,2025-04-11,1,307.0,capitalone.com
+966,2857,Deepak,deepak.ra@media.net,,,,2025-04-23,2025-04-23,1,295.0,media.net
+967,2857,Ankita,ankita.j@media.net,,,,2025-04-23,2025-04-23,1,295.0,media.net
+968,0,Lisa,lisa@icdindia.com,,,,2025-04-25,2025-04-25,1,293.0,icdindia.com
+969,0,Ujjwal,ujjwalc@icdindia.com,,,,2025-04-25,2025-04-25,1,293.0,icdindia.com
+970,4377,Raksha,raksha@firstclub.co.in,,,,2025-04-25,2025-04-25,1,293.0,firstclub.co.in
+971,4378,Ranjini,ranjini.b@uniqode.com,,,,2025-05-05,2025-05-05,1,283.0,uniqode.com
+972,0,Priti,priti.shukla@kazam.in,,,,2025-05-21,2025-05-21,1,267.0,kazam.in
+973,0,Diya,diya@kazam.in,,,,2025-05-21,2025-05-21,1,267.0,kazam.in
+974,4230,Manish,manish.sharma@qualitrix.com,,HR,,2025-06-12,2025-06-12,1,245.0,qualitrix.com
+975,4258,Ambika,ambika.iyer@idsnext.com,,,,2025-06-12,2025-06-12,1,245.0,idsnext.com
+976,4232,Disha,disha.tripathi@northernarc.com,,,,2025-06-12,2025-06-12,1,245.0,northernarc.com
+977,4230,Mohsin,mohd.ta@qualitrix.com,,,,2025-06-12,2025-06-12,1,245.0,qualitrix.com
+978,4230,Mathumita,mathumitha.m@qualitrix.com,,,,2025-06-12,2025-06-12,1,245.0,qualitrix.com
+979,4230,Charan,charan.u@qualitrix.com,,,,2025-06-12,2025-06-12,1,245.0,qualitrix.com
+980,0,Sivagami,bbi_hr@bluebirdcorp.com,,,,2025-05-26,2025-05-26,1,262.0,bluebirdcorp.com
+981,0,Sivagami,sivagami.p@bluebirdcorp.com,,,,2025-05-26,2025-05-26,1,262.0,bluebirdcorp.com
+982,0,Akanksha,hr@cube.ms,,,,2025-06-17,2025-06-17,1,240.0,cube.ms
+983,4207,Jayakumar,jayakumar.as@sigmoidanalytics.com,,,,2025-07-15,2025-07-15,1,212.0,sigmoidanalytics.com
+984,0,Prateek,prateek@lilagames.com,,,,2025-07-16,2025-07-16,1,211.0,lilagames.com
+985,0,Sristy,sristy@lilagames.com,,,,2025-07-16,2025-07-16,1,211.0,lilagames.com
+986,0,Sneha,sneha@lilagames.com,9739633839,,,2025-07-16,2025-07-16,1,211.0,lilagames.com
+987,4226,Abishek,abishek@sketchbrahma.com,,,,2025-07-14,2025-07-14,1,213.0,sketchbrahma.com
+988,0,Neeraja,neerajabt@tekion.com,,,,2025-01-20,2025-01-20,1,388.0,tekion.com
+989,0,HR Team,staffing@tekion.com,,,,2025-01-20,2025-01-20,1,388.0,tekion.com
+990,0,Jaytha,jrajasekaran@tekion.com,,,,2025-06-12,2025-06-12,1,245.0,tekion.com
+991,0,Aastha,aasthaa@tekion.com,,,,2025-06-12,2025-06-12,1,245.0,tekion.com
+992,0,Amitha,amadhu@tekion.com,,,,2025-06-12,2025-06-12,1,245.0,tekion.com
+993,0,Vanaja,vanajad@tekion.com,,,,2025-06-12,2025-06-12,1,245.0,tekion.com
+994,0,Pradeep,spradeep@tekion.com,,,,2025-06-12,2025-06-12,1,245.0,tekion.com
+995,0,Anand,anandv@tekion.com,,,,2025-06-12,2025-06-12,1,245.0,tekion.com
+996,0,Kaustubh,kaustubh@biome.in,,,,2025-07-08,2025-07-08,1,219.0,biome.in
+997,0,Samara,samara@biome.in,,,,2025-07-25,2025-07-25,1,202.0,biome.in
+998,0,Madhu,poomalil@biome.in,,,,2025-07-25,2025-07-25,1,202.0,biome.in
+999,0,Srinivas,srinivas@biome.in,,,,2025-07-25,2025-07-25,1,202.0,biome.in
+1000,4386,Shail,shail.sheth@bespoketechnology.co,,,,2025-08-11,2025-08-11,1,185.0,bespoketechnology.co
+1001,4386,Rutva,rutva.j@bespoketechnology.co,,,,2025-08-18,2025-08-18,1,178.0,bespoketechnology.co
+1002,4386,Parag,parag@bespoketechnology.co,,,,2025-08-18,2025-08-18,1,178.0,bespoketechnology.co
+1003,4387,Priya,priya@quantumbso.com,,,,2025-07-04,2025-07-04,1,223.0,quantumbso.com
+1004,4387,Arshiya,arshiya@quantumbso.com,,,,2025-08-18,2025-08-18,1,178.0,quantumbso.com
+1005,4387,Deepa,deepa@quantumbso.com,,,,2025-08-18,2025-08-18,1,178.0,quantumbso.com
+1006,3034,HR Team,business@lopezdesign.com,,,,2025-08-18,2025-08-18,1,178.0,lopezdesign.com
+1007,3034,HR Team,hr@lopezdesign.com,,,,2025-08-18,2025-08-18,1,178.0,lopezdesign.com
+1008,3034,Ayushi,ayushi@lopezdesign.com,,,,2025-08-19,2025-08-19,1,177.0,lopezdesign.com
+1009,4389,Rahul,rahul.sharma1@mobikwik.com,,,,2025-08-18,2025-08-18,1,178.0,mobikwik.com
+1010,4389,Atul,atul.chugh@mobikwik.com,,,,2025-08-28,2025-08-28,1,168.0,mobikwik.com
+1011,4389,Girish,girish.hr@mobikwik.com,,,,2025-08-28,2025-08-28,1,168.0,mobikwik.com
+1012,0,Sangeetha,sangeetha.m@way2smile.com,,,,2025-07-24,2025-07-24,1,203.0,way2smile.com
+1013,0,HR Team,hr@way2smile.com,,,,2025-07-29,2025-07-29,1,198.0,way2smile.com
+1014,4146,Anurima,anurima@newtonschool.co,,,,2025-09-09,2025-09-09,1,156.0,newtonschool.co
+1015,4146,Syed,syed.rahimuddin@newtonschool.co,,,,2025-09-09,2025-09-09,1,156.0,newtonschool.co
+1016,0,Prakash,prakash.thiyagarajan@motherson.com,,,,2025-09-29,2025-09-29,1,136.0,motherson.com
+1017,0,Rachna,rachna.srivastava@motherson.com,,,,2025-09-29,2025-09-29,1,136.0,motherson.com
+1018,0,Manimaran,manimaran.krishnan@motherson.com,,,,2025-09-29,2025-09-29,1,136.0,motherson.com
+1019,4390,Subhashish,shubhashish.b@ginesys.in,,LinkedIn Message,,2025-10-06,2025-10-06,1,129.0,ginesys.in
+1020,4390,Priyanka,priyanka.s@gsl.in,,LinkedIn Message,,2025-10-06,2025-10-06,1,129.0,gsl.in
+1021,4094,Richa,richa.c@peopleinteractive.in,,,,2025-10-06,2025-10-06,1,129.0,peopleinteractive.in
+1022,4094,Sangeeta,sangeeta.si@peopleinteractive.in,,,,2025-10-06,2025-10-06,1,129.0,peopleinteractive.in
+1023,4094,Mayuresh,mayuresh.s@peopleinteractive.in,,,,2025-10-06,2025-10-06,1,129.0,peopleinteractive.in
+1024,4094,Akash,akash.d@peopleinteractive.in,,,,2025-10-06,2025-10-06,1,129.0,peopleinteractive.in
+1025,4392,Ashish,aatrey.ashish@100ms.ai,,,,2025-10-13,2025-10-13,1,122.0,100ms.ai
+1026,4392,Ashish,aatrey.ashish@100ms.live,,,,2025-10-13,2025-10-13,1,122.0,100ms.live
+1027,4392,Anubhav,anubhav@100ms.live,,,,2025-10-13,2025-10-13,1,122.0,100ms.live
+1028,4392,Sonal,sonal@100ms.live,,,,2025-10-13,2025-10-13,1,122.0,100ms.live
+1029,4392,Aniket,aniket@100ms.live,,,,2025-10-13,2025-10-13,1,122.0,100ms.live
+1030,2189,Chirag,chirag@theminimalist.in,,,,2025-10-13,2025-10-13,1,122.0,theminimalist.in
+1031,2189,Himanshu,himanshu@theminimalist.in,,,,2025-10-13,2025-10-13,1,122.0,theminimalist.in
+1032,2189,Swati,swati.salve@theminimalist.in,,,,2025-10-13,2025-10-13,1,122.0,theminimalist.in
+1033,2189,Sahil,sahil@theminimalist.in,,,,2025-10-13,2025-10-13,1,122.0,theminimalist.in
+1034,0,Rohan,rohan@unifyapps.com,,,,2025-10-29,2025-10-29,1,106.0,unifyapps.com
+1035,0,Sumeet,sumeet.nandal@unifyapps.com,,,,2025-10-29,2025-10-29,1,106.0,unifyapps.com
+1036,0,Sandeep,sandeep.sharma@unifyapps.com,,,,2025-10-29,2025-10-29,1,106.0,unifyapps.com
+1037,0,Pavitar,pavitar.singh@unifyapps.com,,,,2025-10-29,2025-10-29,1,106.0,unifyapps.com
+1038,2857,Mittal,mittal.s@media.net,,,,2025-10-29,2025-10-29,1,106.0,media.net
+1039,4202,Priyanka,priyanka.kulkarni@stablemoney.in,,,,2025-11-10,2025-11-10,1,94.0,stablemoney.in
+1040,0,Asha,asha.subramanian@dailyrounds.org,,,,2025-11-17,2025-11-17,1,87.0,dailyrounds.org
+1041,3015,Vaishali,vishali.pandita@razorpay.com,,Recruiter,,2025-11-26,2025-11-26,1,78.0,razorpay.com
+1042,0,HR Team,hr@bluebenz.com,,,,2025-11-26,2025-11-26,1,78.0,bluebenz.com
+1043,0,Yogita,yogita.gosavi@bluebenz.com,,,,2025-11-26,2025-11-26,1,78.0,bluebenz.com
+1044,0,Devinder,devinder.dangwal@bluebenz.com,,,,2025-11-26,2025-11-26,1,78.0,bluebenz.com
+1045,0,CEO,ceo@bizdateup.com,,,,2025-12-11,2025-12-11,1,63.0,bizdateup.com
+1046,0,HR Team,ho@bizdateup.com,,,,2025-12-11,2025-12-11,1,63.0,bizdateup.com
+1047,0,Priyanka,priyanka@bizdateup.com,,,,2025-12-11,2025-12-11,1,63.0,bizdateup.com
+1048,0,Yogesh,yogesh@bizdateup.com,,,,2025-12-11,2025-12-11,1,63.0,bizdateup.com
+1049,4394,Usha,hrmanager@cglia.com,,,,2025-12-11,2025-12-11,1,63.0,cglia.com
+1050,4396,Mikhil,mikhil@apollofinvest.com,,,,2025-12-11,2025-12-11,1,63.0,apollofinvest.com
+1051,4396,Anuj,anuj@apollofinvest.com,,,,2025-12-11,2025-12-11,1,63.0,apollofinvest.com
+1052,3324,Veena,veena@xoxoday.com,,,,2025-12-16,2025-12-16,1,58.0,xoxoday.com
+1053,3324,Satakshi,satakshi.singh@xoxoday.com,,,,2025-12-16,2025-12-16,1,58.0,xoxoday.com
+1054,3324,Shivangi,shivangi.sinha@xoxoday.com,,,,2025-12-16,2025-12-16,1,58.0,xoxoday.com
+1055,3324,Manoj,manoj@xoxoday.com,,"https://www.linkedin.com/sales/lead/ACwAAAB2dFQBTg77-8KugzVVj9NaJ9aJ3msfy8o,JSXQ,NAME_SEARCH",,2025-12-16,2025-12-16,1,58.0,xoxoday.com
+1056,4230,Smitha,smitha.cs@qualitrix.com,,,,2025-12-18,2025-12-18,1,56.0,qualitrix.com
+1057,0,Ishita,ishita.kamani@reelo.io,94283 59082,,,2025-12-24,2025-12-24,1,50.0,reelo.io
+1058,0,Areeb,areeb.baig@reelo.io,99094 64407,,,2025-12-24,2025-12-24,1,50.0,reelo.io
+1059,0,Pratibha,prathibabg@techpanion.com,,,,2025-12-24,2025-12-24,1,50.0,techpanion.com
+1060,0,Rajaram,rajaram@codecraft.co.in,,,,2025-12-15,2025-12-15,1,59.0,codecraft.co.in
+1061,0,Prasad,prasad.k@codecraft.co.in,,,,2025-12-29,2025-12-29,1,45.0,codecraft.co.in
+1062,0,Naina,naina.mittal@sunking.com,,,,2025-12-29,2025-12-29,1,45.0,sunking.com
+1063,0,Riley,riley@tilt.com,,,,2025-11-06,2025-11-06,1,98.0,tilt.com
+1064,4399,Shais,shais@conglomerateit.com,,,,2026-01-08,2026-01-08,1,35.0,conglomerateit.com
+1065,4399,Waseem,waseemn@conglomerateit.com,,,,2026-01-08,2026-01-08,1,35.0,conglomerateit.com
+1066,0,Darshana,darshanakale@synergetics-india.com,,,,2026-01-27,2026-01-27,1,16.0,synergetics-india.com
+1067,0,Nisha,nishakapoor@synergetics-india.com,,,,2026-01-27,2026-01-27,1,16.0,synergetics-india.com
+1068,0,Geet,geet@locus.sh,,,,2026-02-06,2026-02-06,1,6.0,locus.sh
+1069,0,Robin,robin@locus.sh,,,,2026-02-06,2026-02-06,1,6.0,locus.sh
+1070,0,Manu,manuy@locus.sh,,,,2026-02-06,2026-02-06,1,6.0,locus.sh
+1071,0,Nirman,nirman@dkecompany.com.au,,,,2026-02-12,2026-02-12,1,0.0,dkecompany.com.au
+1072,0,Roozbeh,roozbeh@dkecompany.com.au,,,,2026-02-12,2026-02-12,1,0.0,dkecompany.com.au
+1073,2928,Manish,manish@adaan.com,,,,2023-06-12,2023-06-12,1,976.0,adaan.com
+1074,4283,Lisha,lisha.govin@adrianseglobal.com,,,,,,1,,adrianseglobal.com
+1075,4172,Shaista Girkar,shaista.girkar@atlan.com,,,,2023-06-12,2023-06-12,1,976.0,atlan.com
+1076,3005,Raveena,raveena.s@beaconstac.com,,,,2023-06-12,2023-06-12,1,976.0,beaconstac.com
+1077,3005,Karthik,karrthik.r@beaconstac.com,,,,2023-06-12,2023-06-12,1,976.0,beaconstac.com
+1078,0,Nidhi,nidhi.nagaruru@bigbasket.com,,,,2023-06-12,2023-06-12,1,976.0,bigbasket.com
+1079,3604,Reshma,reshma.patra@bigbasket.com,,,,2023-06-12,2023-06-12,1,976.0,bigbasket.com
+1080,3534,Abhishek Chavan,abhishek.chavan@bijak.in,,,,2023-06-12,2023-06-12,1,976.0,bijak.in
+1081,4267,Sarita,sarita.air@blinc.tech,,,,,,1,,blinc.tech
+1082,2945,Aishwarya,aishwarya.patra@borngroup.com,,,,2023-06-12,2023-06-12,1,976.0,borngroup.com
+1083,0,Saurav,saurav.kumar@byjus.com,,,,2023-06-12,2023-06-12,1,976.0,byjus.com
+1084,2824,Sanjog,sanjog.katyal@cars24.com,,,,,,1,,cars24.com
+1085,1797,Chandana ,chandana.b@codecraft.co.in,,,,2024-03-01,2024-03-01,1,713.0,codecraft.co.in
+1086,3663,Abhishek,abhishek.srivastava@codingninjas.com,,,,2023-06-12,2023-06-12,1,976.0,codingninjas.com
+1087,0,Amogh,amogh.ravindra@curefit.com,,,,2023-06-12,2023-06-12,1,976.0,curefit.com
+1088,0,Khyati ,khyati.pareek@datansh.com,,,,2024-02-27,2024-02-27,1,716.0,datansh.com
+1089,3739,Shivani,shivani.yadav@embibe.com,,,,2023-06-12,2023-06-12,1,976.0,embibe.com
+1090,3739,Suhas,suhas.l@embibe.com,,,,2023-06-12,2023-06-12,1,976.0,embibe.com
+1091,3769,Sushmita,sushmita.paul@furlenco.com,,,,2023-06-12,2023-06-12,1,976.0,furlenco.com
+1092,3991,Vaishali,vaishali.jamwal@groww.in,,,,2023-06-12,2023-06-12,1,976.0,groww.in
+1093,2804,Neethu,neethu.d@hiverhq.com,,,,2023-06-12,2023-06-12,1,976.0,hiverhq.com
+1094,1829,Saumya garg,saumya.garg@hopscotch.in,,,,2023-06-12,2023-06-12,1,976.0,hopscotch.in
+1095,3133,Princy,princy.gupta@htdigital.in,,,,2023-06-12,2023-06-12,1,976.0,htdigital.in
+1096,3524,Tejswaini,tejashwini@hubilo.com,,,,2023-06-12,2023-06-12,1,976.0,hubilo.com
+1097,3524,Nithya,nithya@hubilo.com,,,,2023-06-12,2023-06-12,1,976.0,hubilo.com
+1098,1087,Shefali,shefali.c@instamojo.com,,,,2023-06-12,2023-06-12,1,976.0,instamojo.com
+1099,3913,Rupa,rupa.patra@ril.com,,,,2023-06-12,2023-06-12,1,976.0,ril.com
+1100,668,Lishita,lishita.dua@jumbotail.com,,,,2023-06-12,2023-06-12,1,976.0,jumbotail.com
+1101,0,Lincy,lincy.t@log9materials.com,,,,2023-06-12,2023-06-12,1,976.0,log9materials.com
+1102,0,Amulya,amulya@log9materials.com,,,,2023-06-12,2023-06-12,1,976.0,log9materials.com
+1103,3630,Aditi Singh,aditi@lovelocal.in,,,,2023-06-12,2023-06-12,1,976.0,lovelocal.in
+1104,0,Sarah,sarah.fe@media.net,,,,2023-06-12,2023-06-12,1,976.0,media.net
+1105,2479,Sreesha,sreesha@moonraft.com,,,,2023-06-12,2023-06-12,1,976.0,moonraft.com
+1106,2479,Suman,suman.yadav@moonraft.com,,,,2023-06-12,2023-06-12,1,976.0,moonraft.com
+1107,4146,Sirin Riaz,sirin.riaz@newtonschool.co,,,,2023-06-12,2023-06-12,1,976.0,newtonschool.co
+1108,0,Hisham,hisham.ali@onecode.in,,,,2023-06-12,2023-06-12,1,976.0,onecode.in
+1109,3009,Sanjana,r.sanjana@phonepe.com,,,,2023-06-12,2023-06-12,1,976.0,phonepe.com
+1110,3009,Jayeeta,jayeeta.munshi@phonepe.com,,,,2023-06-12,2023-06-12,1,976.0,phonepe.com
+1111,3988,Aishwarya Rajendra Bane,aishwarya.rajendra.bane.tpr@pwc.com,,,,2023-06-12,2023-06-12,1,976.0,pwc.com
+1112,0,Naveen,chintala.naveen.kumar.tpr@pwc.com,,,,,,1,,pwc.com
+1113,3806,Manish,manish.kumar@talentxo.com,,,,,,1,,talentxo.com
+1114,4100,Akansha,akanshak@zeta.tech,,,,2023-06-12,2023-06-12,1,976.0,zeta.tech
+1115,3860,Aarushi,aarushi.mudgal@unacademy.com,,,,2024-02-28,2024-02-28,1,715.0,unacademy.com
+1116,4223,Sakshi Pandey,sakshi.pandey@unboxrobotics.com,,,,2023-06-12,2023-06-12,1,976.0,unboxrobotics.com
+1117,3474,Mounika,mounica.p@wakefit.co,,,,2023-06-12,2023-06-12,1,976.0,wakefit.co
+1118,1350,Muskan,muskan.hashim_v@vwo.com,,,,2024-02-27,2024-02-27,1,716.0,vwo.com
+1119,0,Birendra,birendra@wintwealth.com,,,,2023-06-12,2023-06-12,1,976.0,wintwealth.com
+1120,3758,Kanderp,kanderp@winzogames.com,,,,2023-06-12,2023-06-12,1,976.0,winzogames.com
+1121,3701,Vudaya,vudaya.kuruguntla@wipro.com,,,,2023-06-12,2023-06-12,1,976.0,wipro.com
+1122,0,Sapna,sapna@jconnect.in,,,,,,1,,jconnect.in
+1123,3324,Mehak,mehak@empuls.io,,,,2023-06-12,2023-06-12,1,976.0,empuls.io
+1124,3768,Jyoti Tushar,jyoti.rawat@yojak.in,,,,2023-06-12,2023-06-12,1,976.0,yojak.in
+1125,4142,Niket,niket.gupta@go-yubi.com,,,,2024-02-28,2024-02-28,1,715.0,go-yubi.com
+1126,3938,Himanshu,himanshu.kochar@zee.com,,,,2023-06-12,2023-06-12,1,976.0,zee.com
+1127,3938,Ricky,ricky.chettiar@zee.com,,,,2023-06-12,2023-06-12,1,976.0,zee.com
+1128,0,Vani Prasad,vani.prasad@zemosolabs.com,,,,2023-06-12,2023-06-12,1,976.0,zemosolabs.com
+1129,3757,Zoya,zoya@zolve.com,,,,2023-06-12,2023-06-12,1,976.0,zolve.com
+1130,568,Sai,sai@peepaldesign.com,,,,2024-09-03,2024-09-03,1,527.0,peepaldesign.com
+1131,4283,Shabista,shabista.h@adrianseglobal.com,,,,2024-09-03,2024-09-03,1,527.0,adrianseglobal.com
+1132,0,Ricky Hart,ricky.hart@bizacuity.com,8328168240,,https://www.linkedin.com/in/ricky-hart77/,2022-08-24,2022-08-24,1,1268.0,bizacuity.com
+1133,0,Debiprabha Sarkar,debiprabha.sarkar@rupifi.com,,,,2022-08-24,2022-08-24,1,1268.0,rupifi.com
+1134,0,Sowmmyashree,sowmmyashree.r@rupifi.com,,,,2022-08-24,2022-08-24,1,1268.0,rupifi.com
+1135,0,Sreeja Annareddy,sreeja.annareddy@wissen.com,,,https://www.linkedin.com/in/sreeja-annareddy-789064122/,2022-08-25,2022-08-25,1,1267.0,wissen.com
+1136,0,Lakshmi Bellave,lakshmi.bellave@newspace.co.in,,,https://www.linkedin.com/in/lakshmi-bellave/,2022-08-26,2022-08-26,1,1266.0,newspace.co.in
+1137,0,Rahul Kothari,rahul.kothari@ril.com,9342141199,,https://www.linkedin.com/in/rahul-kothari77/,2022-08-26,2022-08-26,1,1266.0,ril.com
+1138,0,Corbin,corbin.adams@frontdoorhome.com,,,,2022-08-29,2022-08-29,1,1263.0,frontdoorhome.com
+1139,0,Damanpreet,damanpreet.kaur@impressico.com,9999415228,,,2022-08-30,2022-08-30,1,1262.0,impressico.com
+1140,3312,Evangeline,eva@blinkdigital.in,,,https://www.linkedin.com/in/evangeline-joseph-83a693a9/,2022-09-01,2022-09-01,1,1260.0,blinkdigital.in
+1141,0,Varun,varun.s@greyorange.com,,,https://www.linkedin.com/in/varunsri/,2022-09-02,2022-09-02,1,1259.0,greyorange.com
+1142,0,Fatema,fatema@uniacco.com,,,,2022-09-05,2022-09-05,1,1256.0,uniacco.com
+1143,235,HR-Team,ldsouza@adobe.com,,,,2022-09-05,2022-09-05,1,1256.0,adobe.com
+1144,0,Lincy George,lincy.george@havasmedia.com,,,,2022-09-05,2022-09-05,1,1256.0,havasmedia.com
+1145,0,HR-Team,hr-in@enphaseenergy.com,,,,2022-09-08,2022-09-08,1,1253.0,enphaseenergy.com
+1146,0,Shwetha,shwetha.v@replicon.com,9742949743,,,2022-09-08,2022-09-08,1,1253.0,replicon.com
+1147,0,Vinson,vinson.thomas@replicon.com,,,,2022-09-08,2022-09-08,1,1253.0,replicon.com
+1148,0,Prashant,prashant.khanna@startv.com,,,https://www.linkedin.com/in/khannaprashant/,2022-09-09,2022-09-09,1,1252.0,startv.com
+1149,0,HR-Team,hr@ekcs.co,,,,2022-09-13,2022-09-13,1,1248.0,ekcs.co
+1150,0,Kusha,kushar@eigroup.in,,,https://www.linkedin.com/in/kusha-r-4a321a103/,2022-09-13,2022-09-13,1,1248.0,eigroup.in
+1151,0,Neelesh,neelesh.chandana@cerebra-consulting.com,,,https://www.linkedin.com/in/neeleshisemployed/,2022-09-14,2022-09-14,1,1247.0,cerebra-consulting.com
+1152,0,Ashok,ashokv@dsmartsys.in,,,,2022-09-15,2022-09-15,1,1246.0,dsmartsys.in
+1153,1687,Siddharth Bajpai,siddharth.bajpai@3mindsdigital.com,,,https://www.linkedin.com/in/siddharthbajpai93/,2022-09-19,2022-09-19,1,1242.0,3mindsdigital.com
+1154,0,Priyanjali,priyanjali.kharbas@agrostar.in,,,,2022-09-26,2022-09-26,1,1235.0,agrostar.in
+1155,0,Naveen George,naveen.george@sagilityhealth.com,,,https://www.linkedin.com/in/naveen-george-aa3a1412/,2022-09-27,2022-09-27,1,1234.0,sagilityhealth.com
+1156,0,Dhiman,dhiman.rej@sagilityhealth.com,,,,2022-09-29,2022-09-29,1,1232.0,sagilityhealth.com
+1157,0,Jaheda,jaheda.shaik@moveinsync.com,,,https://www.linkedin.com/in/jaheda-shaik-0a573bb7/,2022-09-30,2022-09-30,1,1231.0,moveinsync.com
+1158,0,Himanshu,exploredesign@infra.market,,,https://www.linkedin.com/in/ACoAAAPyWUoBU2AUtyXeTVkMoFAcuvTd6bfRc4w/,2022-09-30,2022-09-30,1,1231.0,infra.market
+1159,0,Abhilasha,abhilasha.mishra@wakefit.co,9740491092,,,2022-09-30,2022-09-30,1,1231.0,wakefit.co
+1160,0,Silpa,silpa.moola@wisseninfotech.com,,,,2022-10-03,2022-10-03,1,1228.0,wisseninfotech.com
+1161,0,Ragapriya,ragapriya@zensciences.com,,,,2022-10-06,2022-10-06,1,1225.0,zensciences.com
+1162,0,Sonia,sonia.ahuja@spacewell.com,,,https://www.linkedin.com/in/ACoAAAF7gVIBn9rR2vAi1wg0lMZVWV13IdlWkew/,2022-10-06,2022-10-06,1,1225.0,spacewell.com
+1163,0,Maryam,maryam.kazi@hsbc.co.in,,,,2022-10-06,2022-10-06,1,1225.0,hsbc.co.in
+1164,0,Komal,komal@grappus.com,9999794750,,,2022-10-07,2022-10-07,1,1224.0,grappus.com
+1165,3911,Deekshith,deekshith@orangehealth.in,,,,2022-10-10,2022-10-10,1,1221.0,orangehealth.in
+1166,0,Geeta,geeta.goel@zoomedia.in,9871505942,,,2022-10-12,2022-10-12,1,1219.0,zoomedia.in
+1167,0,Mansi,mansis@pelican.ai,,,,2022-10-12,2022-10-12,1,1219.0,pelican.ai
+1168,3405,Toshiya,toshiya.navas@rephrase.ai,,,,2022-10-12,2022-10-12,1,1219.0,rephrase.ai
+1169,0,Kamalpreet,kamalpsingh@deloitte.com,8860376633,,,2022-10-14,2022-10-14,1,1217.0,deloitte.com
+1170,0,Harshitha,hpanduranga@instawork.com,9731089801,,,2022-10-14,2022-10-14,1,1217.0,instawork.com
+1171,0,Divye,divye.pallav@coindcx.com,,,,2022-10-19,2022-10-19,1,1212.0,coindcx.com
+1172,0,Parag,pvedpathak@mindagroup.com,9049226999,,,2022-10-21,2022-10-21,1,1210.0,mindagroup.com
+1173,0,Antony ,antony.praveen@kovai.co,,,"https://www.linkedin.com/sales/lead/ACwAABp9VRkBJEdo1LSC_lpbOGTVCMhzj403tso,ZAkI,NAME_SEARCH",2022-10-26,2022-10-26,1,1205.0,kovai.co
+1174,0,Apala,apala@humanfactors.com,,,,2022-10-28,2022-10-28,1,1203.0,humanfactors.com
+1175,0,Sahil,sahil@gmetri.com,,,,2022-10-28,2022-10-28,1,1203.0,gmetri.com
+1176,0,Manuel,manuel.pardhe@globalstep.com,,,,2022-10-28,2022-10-28,1,1203.0,globalstep.com
+1177,0,Kashish,kashish.hiranandani@nuawoman.com,,,,2022-10-28,2022-10-28,1,1203.0,nuawoman.com
+1178,0,Gayatri,gayatri.joshi@transformative.in,9606739413,,,2022-10-31,2022-10-31,1,1200.0,transformative.in
+1179,0,Mohan,mohanj@casio.co.in,,,"https://www.linkedin.com/sales/lead/ACwAAAVSlCYBKGKse7pWVeccTIDxOb3CO4G0eHo,yRl1,NAME_SEARCH",2022-11-02,2022-11-02,1,1198.0,casio.co.in
+1180,0,Vendhan,vendhan.m@happiestminds.com,,,,2022-11-02,2022-11-02,1,1198.0,happiestminds.com
+1181,0,Harsha,harsha.thota@dspim.com,,,"https://www.linkedin.com/sales/lead/ACwAAAxGMQMB2dbNEJ7flEl8HRrg7io-xwX2Ric,Gtt3,NAME_SEARCH",2022-11-02,2022-11-02,1,1198.0,dspim.com
+1182,0,Jui,jui.karandikar@solvezy.com,,,"https://www.linkedin.com/sales/lead/ACwAAAP0T8UBHzxeoZrNgI0ykSn-ODwv-h8RHho,clpg,NAME_SEARCH",2022-11-08,2022-11-08,1,1192.0,solvezy.com
+1183,0,Harshank,harshank.karia@dream11.com,,,,2022-11-10,2022-11-10,1,1190.0,dream11.com
+1184,0,Anil,anil.k@sharechat.co,,,,2022-11-14,2022-11-14,1,1186.0,sharechat.co
+1185,0,Kavi,kavi.ganapathy@gds.ey.com,9845062877,,https://www.linkedin.com/in/kavi-ganapathy/,2022-11-30,2022-11-30,1,1170.0,gds.ey.com
+1186,0,Shreya,shreya.sipani@youkraft.com,,,,2022-11-30,2022-11-30,1,1170.0,youkraft.com
+1187,3970,HR Team,hr@ezetap.com,,,,2022-12-06,2022-12-06,1,1164.0,ezetap.com
+1188,0,Shafi,mohamed.shafi@ideainfinityit.com,9900052868,,https://www.linkedin.com/in/mohamed-shafiulla-b897a913,2022-12-07,2022-12-07,1,1163.0,ideainfinityit.com
+1189,0,Jack,jack@m2p.in,,,"https://www.linkedin.com/sales/lead/ACwAAARCLLkBnYWl3OpSXw9d04ixkx30A5CBr0g,_3Ij,NAME_SEARCH",2022-12-13,2022-12-13,1,1157.0,m2p.in
+1190,0,Saloni,saloni.uppal@sourcefuse.com,,,https://www.linkedin.com/in/saloni-uppal-b65bb5185/,2022-12-13,2022-12-13,1,1157.0,sourcefuse.com
+1191,0,Jigyasa,jigyasa.arora@pokerbaazi.com,8447169041,,https://www.linkedin.com/in/jigyasaarora/,2022-12-13,2022-12-13,1,1157.0,pokerbaazi.com
+1192,0,Khushnuma,khushnuma.k@kult.app,,,,2022-12-15,2022-12-15,1,1155.0,kult.app
+1193,0,HR-Team,careers@kpoint.com,,,,2022-12-16,2022-12-16,1,1154.0,kpoint.com
+1194,0,Jyoti,jyoti.r@amberstudent.com,,,,2022-12-16,2022-12-16,1,1154.0,amberstudent.com
+1195,0,Gagana,gagana@brilyant.com,7618730629,,,2022-12-16,2022-12-16,1,1154.0,brilyant.com
+1196,2902,Biraja,biraja.biswal@rksv.in,,,"https://www.linkedin.com/sales/lead/ACwAAAYQUKgB0zWKsxOQQx3_0JXwDex8LVbNyiY,6Mhk,NAME_SEARCH",2022-12-21,2022-12-21,1,1149.0,rksv.in
+1197,0,Sharda,hr@fibre2fashion.com,,,"https://www.linkedin.com/sales/lead/ACwAAAN4MsIB3ZGqOckIV5MWiAe5zvdFNTMhvjI,KDEb,NAME_SEARCH?_ntb=lnAQIHo1Q%2FawcTifdcY8wg%3D%3D",2022-12-22,2022-12-22,1,1148.0,fibre2fashion.com
+1198,0,Apoorva,apoorva.m@amberstudent.com,,,,2022-12-23,2022-12-23,1,1147.0,amberstudent.com
+1199,0,Vinayak,vinayak.naik@infra.market,,,"https://www.linkedin.com/sales/lead/ACwAACdP5wYBEfI0MN6Lt2qCyWTXQ43mJE7eq3g,LJt-,NAME_SEARCH?_ntb=lnAQIHo1Q%2FawcTifdcY8wg%3D%3D",2022-12-27,2022-12-27,1,1143.0,infra.market
+1200,3386,Dhaval,dhaval.gandhi@walmart.com,,,https://www.linkedin.com/in/dhavalgandhiuxer/,2023-01-03,2023-01-03,1,1136.0,walmart.com
+1201,3664,Prashant,prashant.shetty@delhivery.com,,,"https://www.linkedin.com/sales/lead/ACwAAATWIIABAOT4amcI50OCFzYjWGFMLU3Ownc,N38l,NAME_SEARCH",2023-01-06,2023-01-06,1,1133.0,delhivery.com
+1202,0,Dinesh,dinesh.khanna@elastic.run,,,,2023-01-06,2023-01-06,1,1133.0,elastic.run
+1203,0,Gargi,gargi@careerninja.in,,,https://www.linkedin.com/in/gargi-ruparelia-85aa0153/,2023-01-09,2023-01-09,1,1130.0,careerninja.in
+1204,0,Drashti,drashti@talhive.com,,,https://www.linkedin.com/in/drashti-dawda-bba980166/,2023-01-10,2023-01-10,1,1129.0,talhive.com
+1205,0,Deepak,kumar.deepak@tarento.com,,,,2023-01-11,2023-01-11,1,1128.0,tarento.com
+1206,0,Kavita,hr@magnongroup.com,,,https://www.linkedin.com/in/kavitasiddiqui/,2023-01-12,2023-01-12,1,1127.0,magnongroup.com
+1207,0,Jitendra,jitendra@arrcus.com,,,https://www.linkedin.com/in/jitendra-kumar-maurya-31b56b68/,2023-01-13,2023-01-13,1,1126.0,arrcus.com
+1208,0,Shruti,shruti.pachauri@globallogic.com,,,https://www.linkedin.com/in/shruti-pachauri-16a0b2158/,2023-01-13,2023-01-13,1,1126.0,globallogic.com
+1209,1109,Nikita,nikita.bhalla@justdial.com,,,"https://www.linkedin.com/sales/lead/ACwAABdIk18BOLnxp-rmDl1yCYTEH32wAKgQ_PY,iS3b,NAME_SEARCH",2023-01-16,2023-01-16,1,1123.0,justdial.com
+1210,0,HR-Team,ncj@redefine.co,,,,2023-01-16,2023-01-16,1,1123.0,redefine.co
+1211,0,HR-Team,bpad@redefine.co,,,,2023-01-16,2023-01-16,1,1123.0,redefine.co
+1212,3949,Saroj,saroj@getphyllo.com,,,https://www.linkedin.com/in/sahoosaroj/,2023-01-17,2023-01-17,1,1122.0,getphyllo.com
+1213,0,Pritha,pritha.nandi@stanzaliving.com,,,https://www.linkedin.com/in/pritha-n-4431b3b8/,2023-01-17,2023-01-17,1,1122.0,stanzaliving.com
+1214,0,Anurag,anurag.sharma@servicenow.com,,,"https://www.linkedin.com/sales/lead/ACwAAAZbh-IBsa7J5Y0G9cluq3qq6tHLlw2Y4Bw,bMqu,NAME_SEARCH",2023-01-18,2023-01-18,1,1121.0,servicenow.com
+1215,4124,Shardul,shardul.verma@godigit.com,,,,2023-01-19,2023-01-19,1,1120.0,godigit.com
+1216,0,Rucha,rucha.raje@more.global,,,,2023-01-20,2023-01-20,1,1119.0,more.global
+1217,0,Arundhuti,arundhuti.ghosh@prozo.com,,,https://www.linkedin.com/in/arundhuti-g/,2023-01-24,2023-01-24,1,1115.0,prozo.com
+1218,1117,Team,contact@goodworklabs.com,,,,2023-01-24,2023-01-24,1,1115.0,goodworklabs.com
+1219,0,Team,talent@lambdatest.com,,,,2023-01-24,2023-01-24,1,1115.0,lambdatest.com
+1220,0,Supritha,supritha.gopal@leadsquared.com,,,"https://www.linkedin.com/sales/lead/ACoAACbLaosBGbxDbEZM0aRYeSTyfVuOm8Bkc3w,name,z82n",2023-01-24,2023-01-24,1,1115.0,leadsquared.com
+1221,62,Karthika,karthika.anbalagan@honeywell.com,,,https://www.linkedin.com/in/karthika-anbalagan-a62bbb88/,2023-01-24,2023-01-24,1,1115.0,honeywell.com
+1222,1063,Shivani,shivani.pachisia@groupm.com,,,https://www.linkedin.com/in/shivanipachisia/,2023-01-24,2023-01-24,1,1115.0,groupm.com
+1223,0,Bala ,balamurugan.k@rakuten.com,,,https://www.linkedin.com/in/baladeziner/,2023-01-30,2023-01-30,1,1109.0,rakuten.com
+1224,1730,Meenakshi,mthaploo@cisco.com,9972574344,,"https://www.linkedin.com/sales/lead/ACwAAADlrFIBjdrEB1vcesXoeqG57MqqyQgrsbg,dlxy,NAME_SEARCH",2023-01-30,2023-01-30,1,1109.0,cisco.com
+1225,1815,Somnath,somnathg@tesseractlearning.com,,,"https://www.linkedin.com/sales/lead/ACoAAAQplooB4dWwJsetO_lt9DjtbRjL2uvH5ss,name,0Eaq",2023-01-30,2023-01-30,1,1109.0,tesseractlearning.com
+1226,0,Team,india-ta@ptw.com,,,,2023-01-30,2023-01-30,1,1109.0,ptw.com
+1227,0,Team,careers@dt.ae,,,,2023-01-30,2023-01-30,1,1109.0,dt.ae
+1228,0,Kapil,kapildas.kalidasan@marlabs.com,,,"https://www.linkedin.com/sales/lead/ACoAAAlgIGEBaIkTawX1zeUgH4jd3VnXslMtv-Q,name,nNnI",2023-02-01,2023-02-01,1,1107.0,marlabs.com
+1229,0,Ganesh,ganesh.biradar@ltimindtree.com,,,"https://www.linkedin.com/sales/lead/ACoAABm-ZgEBJ5iy0q_KoeanFoSqjNKeKq5i1x0,name,YDOB",2023-02-01,2023-02-01,1,1107.0,ltimindtree.com
+1230,328,Bhamidipati,sripoojitha.bhamidipati@tcs.com,,,https://www.linkedin.com/in/bhamidipati-sri-poojitha-2021/,2023-02-01,2023-02-01,1,1107.0,tcs.com
+1231,1706,Rahul,rahul.rathor@timesinternet.in,,,https://www.linkedin.com/in/rahulrathor/,2023-02-03,2023-02-03,1,1105.0,timesinternet.in
+1232,0,Mahesha,mahesha.kn@exabeam.com,9741807732,,https://www.linkedin.com/in/maheekn/,2023-02-03,2023-02-03,1,1105.0,exabeam.com
+1233,837,Satish,satish.kumar12@ibm.com,,,"https://www.linkedin.com/sales/lead/ACoAAAcEKlEBz7f-ucD35-dlFUhGhwm79JviUJg,name,Y6Gk",2023-02-06,2023-02-06,1,1102.0,ibm.com
+1234,0,Ramesh,rameshs5@hexaware.com,9094281456,,"https://www.linkedin.com/sales/lead/ACoAAACZKsQBgZ7h8PA8m1cUU2UgfF8qgFtJxSs,name,rd4R",2023-02-06,2023-02-06,1,1102.0,hexaware.com
+1235,0,Madhurima,madhurima@vyaparapp.in,9958238608,,"https://www.linkedin.com/sales/lead/ACoAAAl46G4B5-WNA5ns9mcC3MbsEtn0RMEgAw4,name,ePGa",2023-02-06,2023-02-06,1,1102.0,vyaparapp.in
+1236,0,Rajiv,rajiv@spendflo.com,,,"https://www.linkedin.com/sales/lead/ACoAAAFU0PkBUwSvLztnfcHzloL82swXQLGRRa4,name,SEiL",2023-02-08,2023-02-08,1,1100.0,spendflo.com
+1237,1678,Ganesh,ganesh@hasura.io,,,"https://www.linkedin.com/sales/lead/ACoAAAHha-gBRokrQIt9TDDIgCNmL_H5d-aassw,name,Wxb2",2023-02-08,2023-02-08,1,1100.0,hasura.io
+1238,2428,Mubina,mubina.begum@melorra.com,,,,2023-02-10,2023-02-10,1,1098.0,melorra.com
+1239,0,Ajay,ajadhav@opentext.com,,,"https://www.linkedin.com/sales/lead/ACwAAAB4Q00BYWAN9CtFEo6lxC7aNR_2bt0H_Ug,X6M_,NAME_SEARCH?_ntb=lnAQIHo1Q%2FawcTifdcY8wg%3D%3D",2023-02-10,2023-02-10,1,1098.0,opentext.com
+1240,1197,Shalini,shalini.pal@ofbusiness.in,,,"https://www.linkedin.com/sales/lead/ACwAAANuEZMBbCuNKE1G9tnYsLXJjxUtAigR0j4,I2Zy,NAME_SEARCH",2023-02-10,2023-02-10,1,1098.0,ofbusiness.in
+1241,3416,Suraj,hr@shiprocket.com,,,"https://www.linkedin.com/sales/lead/ACoAADwqwNkBn7THOovWdhOKGCtyh5OLeEfzk5c,name,zebn",2023-02-14,2023-02-14,1,1094.0,shiprocket.com
+1242,0,Sneha,sneha.tarafdar@incred.com,,,https://www.linkedin.com/in/sneha-tarafdar/,2023-02-14,2023-02-14,1,1094.0,incred.com
+1243,0,Arpita,arpita.dutta@cohesity.com,,,"https://www.linkedin.com/sales/lead/ACoAAAgpXKABx7dtYN-Q4EIhcwrK13_pTy-eUIY,name,gKRH",2023-02-17,2023-02-17,1,1091.0,cohesity.com
+1244,0,Team,careers@licious.com,,,,2023-02-17,2023-02-17,1,1091.0,licious.com
+1245,0,Poppin,poppin@clevertap.com,,,"https://www.linkedin.com/sales/lead/ACoAAAFyRhQBhka1WVW7A5_R32mJtCFqczco5IY,name,Xbsd",2023-02-20,2023-02-20,1,1088.0,clevertap.com
+1246,0,Ashwarya,hr@sparxit.com,,,"https://www.linkedin.com/sales/lead/ACwAABYonYcBVs0cZ-iGDunS0tnaRfbZCpFP4WA,mqz9,NAME_SEARCH",2023-02-21,2023-02-21,1,1087.0,sparxit.com
+1247,0,Asif,asif@countrydelight.in,8390833112,,https://www.linkedin.com/in/asifzaidi01/,2023-02-27,2023-02-27,1,1081.0,countrydelight.in
+1248,0,Sandhya,sandhya.suresh@wisseninfotech.com,,,"https://www.linkedin.com/sales/lead/ACoAAA-6yR4ByHh1iWCVOapeo1ejHRimCfsWCJI,name,vK8R",2023-02-27,2023-02-27,1,1081.0,wisseninfotech.com
+1249,0,Venkata,venkat@futuringdesign.com,,,"https://www.linkedin.com/sales/lead/ACoAAA5tEwcBf-sZgQbm6lHAEFFYnHyWrYd73ts,name,qiGX",2023-02-27,2023-02-27,1,1081.0,futuringdesign.com
+1250,0,Kevin,kevin@eduonix.com,,,"https://www.linkedin.com/sales/lead/ACoAABsUDaoBDmMOhP9aMx6kCq9qhyYlh8d24AQ,name,SqJR",2023-02-27,2023-02-27,1,1081.0,eduonix.com
+1251,0,Parag,parag_y@hdfclife.com,,,"https://www.linkedin.com/sales/lead/ACwAAACSD18BOKM7G23EjCNHYp-8DIoeGKandb4,6Who,NAME_SEARCH",2023-02-27,2023-02-27,1,1081.0,hdfclife.com
+1252,0,Priyadarshini,priyadarshini.r@sharpsell.ai,,,"https://www.linkedin.com/sales/lead/ACoAAA7c3QABMR4T4OYnOJXMnv0TJFgPWu00Gcs,name,uscJ",2023-03-01,2023-03-01,1,1079.0,sharpsell.ai
+1253,0,Sai,sai.jenula@tide.co,,,"https://www.linkedin.com/sales/lead/ACwAABL8X3oBGHFtB1Gr1RYKHq4sbNoXpZgT1z8,otd5,NAME_SEARCH",2023-03-07,2023-03-07,1,1073.0,tide.co
+1254,0,Lekshmi,lekshmi.g@cred.club,,,,2023-03-16,2023-03-16,1,1064.0,cred.club
+1255,0,Arbaaz,arbaaz.k@foundationai.com,,,https://www.linkedin.com/in/arbazkhatri/,2023-03-17,2023-03-17,1,1063.0,foundationai.com
+1256,0,Simran,simran.k@basichomeloan.com,,,"https://www.linkedin.com/sales/lead/ACwAADU8ROgBcI95pVr6TRN7TYBL9IrvOQdyia0,obE3,NAME_SEARCH",2023-03-17,2023-03-17,1,1063.0,basichomeloan.com
+1257,0,Ramesh,ramesh.gopalkrishnan@clear.in,,,,2023-03-21,2023-03-21,1,1059.0,clear.in
+1258,0,Jayashree,jayashree.v@zetwerk.com,,,,2023-03-22,2023-03-22,1,1058.0,zetwerk.com
+1259,2464,Abinanth,abinanth.potri@inmobi.com,,,,2023-03-27,2023-03-27,1,1053.0,inmobi.com
+1260,3386,Vivek,vivek.kalyan@walmart.com,,,,2023-03-28,2023-03-28,1,1052.0,walmart.com
+1261,0,Shivangi,shivangi.raizada@interface.ai,,,,2023-03-28,2023-03-28,1,1052.0,interface.ai
+1262,0,Rajeswari,rajeswari.s@tallysolutions.com,,,,2023-03-29,2023-03-29,1,1051.0,tallysolutions.com
+1263,0,Mahesh,mahesh.kumar@ushur.com,,,,2023-03-29,2023-03-29,1,1051.0,ushur.com
+1264,0,Gaurav,midsrecruit@mahindra.com,,,,2023-03-31,2023-03-31,1,1049.0,mahindra.com
+1265,0,Bhavya,bhavya.verma@infra.market,,,,2023-03-31,2023-03-31,1,1049.0,infra.market
+1266,0,Hariom,hariom.verma@infra.market,,,,2023-03-31,2023-03-31,1,1049.0,infra.market
+1267,0,Kiran,kiran.bk@zvky.com,,,,2023-03-31,2023-03-31,1,1049.0,zvky.com
+1268,0,Raghavendra,raghavendra.kate@ziniosedge.com,,,,2023-03-31,2023-03-31,1,1049.0,ziniosedge.com
+1269,0,Rajesh,rajesh.m@position2.com,,,,2023-04-01,2023-04-01,1,1048.0,position2.com
+1270,0,Lebana,lebana.penkar@arrivae.com,,,,2023-04-01,2023-04-01,1,1048.0,arrivae.com
+1271,0,Ashish,ashish.s@sumerusolutions.com,,,,2023-04-01,2023-04-01,1,1048.0,sumerusolutions.com
+1272,0,Rohan,rohan.parekh@pineapple.design,,,,2023-04-01,2023-04-01,1,1048.0,pineapple.design
+1273,0,Noble,noble@windfallproductions.org,,,,2023-04-01,2023-04-01,1,1048.0,windfallproductions.org
+1274,0,Saurabh,saurabh.raut@jci.com,,,,2023-04-01,2023-04-01,1,1048.0,jci.com
+1275,0,Akshatha,akshatha@sen-sei.in,,,,2023-04-03,2023-04-03,1,1046.0,sen-sei.in
+1276,188,Azmina,azmina.poddar@accenture.com,,,,2023-04-04,2023-04-04,1,1045.0,accenture.com
+1277,0,Sandeep,sandeep.dinodiya@emizainc.com,,,,2023-04-07,2023-04-07,1,1042.0,emizainc.com
+1278,0,Geosley,geosley.andrades@accelq.com,,,,2023-04-07,2023-04-07,1,1042.0,accelq.com
+1279,0,Aseef,aseef.p@echidnainc.com,,,,2023-04-11,2023-04-11,1,1038.0,echidnainc.com
+1280,0,Nirvan,nirvan.biswas@nbhcindia.com,,,,2023-04-11,2023-04-11,1,1038.0,nbhcindia.com
+1281,0,Prasad,prasad@perfios.com,,,,2023-04-11,2023-04-11,1,1038.0,perfios.com
+1282,0,Ishank,igupta@kcoverseas.com,,,,2023-04-11,2023-04-11,1,1038.0,kcoverseas.com
+1283,0,Shilpa,shilpa.b@echidnainc.com,,,,2023-04-11,2023-04-11,1,1038.0,echidnainc.com
+1284,0,Manish,manish.singh@kutumbapp.com,,,,2023-04-12,2023-04-12,1,1037.0,kutumbapp.com
+1285,0,Braj,braj@parallelwireless.com,,,,2023-04-12,2023-04-12,1,1037.0,parallelwireless.com
+1286,0,Meghan,mranade@opengov.com,,,,2023-04-12,2023-04-12,1,1037.0,opengov.com
+1287,3738,Satyajit,satyajit.mittra@theporter.in,,,,2023-04-13,2023-04-13,1,1036.0,theporter.in
+1288,188,Sumit,sumit.passi@accenture.com,,,,2023-04-13,2023-04-13,1,1036.0,accenture.com
+1289,0,Bert,bertramd@proteantech.in,,,,2023-04-13,2023-04-13,1,1036.0,proteantech.in
+1290,0,Neha,neha.ghosal@blueyonder.com,,,,2023-04-17,2023-04-17,1,1032.0,blueyonder.com
+1291,0,Siddhartha,siddhartha.choudhary@frog.co,,,,2023-04-17,2023-04-17,1,1032.0,frog.co
+1292,0,Nauman,nauman@algoworks.com,,,,2023-04-20,2023-04-20,1,1029.0,algoworks.com
+1293,0,Bethany,bethany.plaza@innovatiotech.com,,,,2023-04-20,2023-04-20,1,1029.0,innovatiotech.com
+1294,0,Dr Nagendra,cto@eaglerobotlab.com,,,,2023-04-20,2023-04-20,1,1029.0,eaglerobotlab.com
+1295,0,Nikita,nikita@useteleport.com,,,,2023-04-20,2023-04-20,1,1029.0,useteleport.com
+1296,0,Vijay,vijay.kuppa@incredmoney.com,,,,2023-04-25,2023-04-25,1,1024.0,incredmoney.com
+1297,0,HR Team,hr@nodwin.com,,,,2023-04-25,2023-04-25,1,1024.0,nodwin.com
+1298,62,Abhimanyu,abhimanyu.nohwar@honeywell.com,,,,2023-04-25,2023-04-25,1,1024.0,honeywell.com
+1299,3911,Ajay,ajay@orangehealth.in,,,,2023-04-27,2023-04-27,1,1022.0,orangehealth.in
+1300,275,Prateek,prateek@creatomy.com,,,,2023-04-27,2023-04-27,1,1022.0,creatomy.com
+1301,0,Vatsal,vatsal.chaoji@zee.com,9663744330,,,2023-04-27,2023-04-27,1,1022.0,zee.com
+1302,0,Riti Jain,riti.jain@pocketfm.in,,,https://www.linkedin.com/in/riti-jain-2b37a6135/,2023-04-27,2023-04-27,1,1022.0,pocketfm.in
+1303,0,Ashima,ashima@quicktouch.co.in,9999908393,,,2023-04-27,2023-04-27,1,1022.0,quicktouch.co.in
+1304,0,Archana,archana.ashok@murf.ai,,,,2023-04-27,2023-04-27,1,1022.0,murf.ai
+1305,0,Apeksha,apeksha.khetan@webengage.com,,,,2023-04-27,2023-04-27,1,1022.0,webengage.com
+1306,0,Akshay,akshay.p@zvky.com,,,,2023-05-04,2023-05-04,1,1015.0,zvky.com
+1307,867,Pooja,pooja.katyal@xentrixstudios.com,,,,2023-05-04,2023-05-04,1,1015.0,xentrixstudios.com
+1308,0,TA Team,tateam@licious.com,,,,2023-05-04,2023-05-04,1,1015.0,licious.com
+1309,0,Bhavana,bkapalganti@egnyte.com,,,,2023-05-11,2023-05-11,1,1008.0,egnyte.com
+1310,0,Rakhi,rakhi.d@loginextsolutions.com,,,,2023-05-11,2023-05-11,1,1008.0,loginextsolutions.com
+1311,0,Prasad,prasad.tirodkar@hdfcsec.com,,,,2023-05-15,2023-05-15,1,1004.0,hdfcsec.com
+1312,0,Abhinav,abhinav.srivastava@leadsquared.com,,,,2023-05-15,2023-05-15,1,1004.0,leadsquared.com
+1313,0,Srihari,srihari.a@palcnetworks.com,,,,2023-05-16,2023-05-16,1,1003.0,palcnetworks.com
+1314,0,Rohit,rohit.nair@laerdal.com,,,,2023-05-16,2023-05-16,1,1003.0,laerdal.com
+1315,0,Pradyu,pradyu.ranganatha@sixt.com,,,,2023-05-19,2023-05-19,1,1000.0,sixt.com
+1316,0,Mukund,mukund.m@thedollarbusiness.com,,,,2023-05-19,2023-05-19,1,1000.0,thedollarbusiness.com
+1317,0,Vineeta,vineeta.talreja@impactguru.com,,,,2023-05-22,2023-05-22,1,997.0,impactguru.com
+1318,0,Mohamed,mohamed.aasim@scopely.com,,,,2023-05-22,2023-05-22,1,997.0,scopely.com
+1319,2030,Madhav,madhav.baliga@gaiansolutions.com,,,,2023-05-23,2023-05-23,1,996.0,gaiansolutions.com
+1320,0,Lakshmi,lakshmi.karna@allyis.com,,,,2023-05-23,2023-05-23,1,996.0,allyis.com
+1321,0,Alok,alok.ranjan@walkingtree.tech,,,,2023-05-23,2023-05-23,1,996.0,walkingtree.tech
+1322,0,Anindya,sen.anindya@arminus.in,,,,2023-05-23,2023-05-23,1,996.0,arminus.in
+1323,0,Amrit,amrit2.kumar@citi.com,,,,2023-05-24,2023-05-24,1,995.0,citi.com
+1324,0,Shanawaz,shanawaz.rafeeq@astratech.ae,,,,2023-05-24,2023-05-24,1,995.0,astratech.ae
+1325,0,Venkatesh,venkatesh.m@cloudcollab.co,,,,2023-05-24,2023-05-24,1,995.0,cloudcollab.co
+1326,0,Rohan,rohan.baruah@monsoonfish.com,,,,2023-06-01,2023-06-01,1,987.0,monsoonfish.com
+1327,0,Rama,rama.kondreddy@covalensedigital.com,,,,2023-06-01,2023-06-01,1,987.0,covalensedigital.com
+1328,0,Dayakar,bdm2@w3softech.com,,,,2023-06-05,2023-06-05,1,983.0,w3softech.com
+1329,0,Sachin,executive.hr@softtrust.com,,,,2023-06-05,2023-06-05,1,983.0,softtrust.com
+1330,0,Pinakin,pinakin.p@maxval.com,,,,2023-06-06,2023-06-06,1,982.0,maxval.com
+1331,0,Manisha,manisha.negi@centilytics.com,,,,2023-06-07,2023-06-07,1,981.0,centilytics.com
+1332,1063,Sachin,sachin.behra@groupm.com,,,,2023-06-07,2023-06-07,1,981.0,groupm.com
+1333,747,Minal,minal.sharma@africa.airtel.com,,,,2023-06-07,2023-06-07,1,981.0,africa.airtel.com
+1334,0,Sandeep,sandeep@qapita.com,,,,2023-06-07,2023-06-07,1,981.0,qapita.com
+1335,0,Puneet,puneet.g@zetwerk.com,,,,2023-06-08,2023-06-08,1,980.0,zetwerk.com
+1336,0,Gaurav,gaurav.kapil@p2epl.com,9619239879,,,2023-06-12,2023-06-12,1,976.0,p2epl.com
+1337,0,Shubham,shubham.saxena@infoprolearning.com,,,,2023-06-13,2023-06-13,1,975.0,infoprolearning.com
+1338,0,Nikunj,nikunj.barot@framestore.com,,,,2023-06-13,2023-06-13,1,975.0,framestore.com
+1339,0,Sathish,sathish.kumar@bankbazaar.com,,,,2023-06-13,2023-06-13,1,975.0,bankbazaar.com
+1340,0,Sekhar,sekhar.babu@creditvidya.com,,,,2023-06-14,2023-06-14,1,974.0,creditvidya.com
+1341,0,Advith,adhvith@alivenow.in,,,,2023-06-14,2023-06-14,1,974.0,alivenow.in
+1342,0,Kalyani,kalyani.gajarla@thakralone.in,,,,2023-06-20,2023-06-20,1,968.0,thakralone.in
+1343,0,Harish,harish.boya@deepintent.com,,,,2023-06-23,2023-06-23,1,965.0,deepintent.com
+1344,0,Kishore,kishore@goldcast.io,,,,2023-06-26,2023-06-26,1,962.0,goldcast.io
+1345,0,Zaurin,zaurin@goldcast.io,,,,2023-06-26,2023-06-26,1,962.0,goldcast.io
+1346,0,Kriti,kriti@goldcast.io,,,,2023-06-26,2023-06-26,1,962.0,goldcast.io
+1347,2417,Krishna,krishna.kanth@freshworks.com,,,,2023-06-27,2023-06-27,1,961.0,freshworks.com
+1348,1144,Siddhartha,k.siddhartha@samsung.com,,,,2023-06-29,2023-06-29,1,959.0,samsung.com
+1349,3861,Geetanjali,geetanjali@plumhq.com,,,,2023-06-29,2023-06-29,1,959.0,plumhq.com
+1350,3861,Rashi,rashi@plumhq.com,,,,2023-06-29,2023-06-29,1,959.0,plumhq.com
+1351,0,Sanjeev,sanjeev@idexmedia.in,,,,2023-07-03,2023-07-03,1,955.0,idexmedia.in
+1352,0,Pankaj,pankaj.kushwaha@kanini.com,,,,2023-07-10,2023-07-10,1,948.0,kanini.com
+1353,0,Pallavi,dhawanp@dnb.com,,,,2023-07-14,2023-07-14,1,944.0,dnb.com
+1354,0,Madhuri,recruitment@mkcl.org,,,,2023-07-17,2023-07-17,1,941.0,mkcl.org
+1355,4087,Pradeep,menon.pradeep@bcg.com,,,,2023-07-24,2023-07-24,1,934.0,bcg.com
+1356,3123,Mohit,mohit.kumar@gameskraft.com,,,,2023-07-24,2023-07-24,1,934.0,gameskraft.com
+1357,3123,Somay,somay.bhatnagar@gameskraft.com,,,,2023-07-24,2023-07-24,1,934.0,gameskraft.com
+1358,0,Adrija,adrija@kipi.bi,,,,2023-07-24,2023-07-24,1,934.0,kipi.bi
+1359,0,Shamma,syedshamma@incnut.com,,,,2023-07-26,2023-07-26,1,932.0,incnut.com
+1360,3355,Mukesh,mukesh@syfe.com,,,,2023-08-02,2023-08-02,1,925.0,syfe.com
+1361,0,Arnab,arnab.niyogi@deltacapita.com,,,,2023-08-02,2023-08-02,1,925.0,deltacapita.com
+1362,0,Naveen,naveen.kumar@uniphore.com,,,,2023-08-09,2023-08-09,1,918.0,uniphore.com
+1363,0,HR Team,hr@inbetween.com,,,,2023-08-16,2023-08-16,1,911.0,inbetween.com
+1364,3483,Karthik,karthik.ankam@tatadigital.com,,,https://www.linkedin.com/in/karthik-thaksha-ankam/,2023-08-16,2023-08-16,1,911.0,tatadigital.com
+1365,0,Nikhil,nikhil.thiyyar@ril.com,,,,2023-08-22,2023-08-22,1,905.0,ril.com
+1366,0,Vishwanath,vishwanath.kalavar@ivanti.com,,,,2023-08-30,2023-08-30,1,897.0,ivanti.com
+1367,0,Senthil,craft@birdeye.com,,,,2023-09-01,2023-09-01,1,895.0,birdeye.com
+1368,0,Senthil,senthil.shanmugam@birdeye.com,,,,2023-09-01,2023-09-01,1,895.0,birdeye.com
+1369,0,Nagesh,nagesh.is@healthplix.com,,,"https://www.linkedin.com/sales/lead/ACwAAAeUHP0B7_uEptjkAZq4NI6SvUhwUJ-DkMU,NAME_SEARCH,q6rg",2023-09-01,2023-09-01,1,895.0,healthplix.com
+1370,0,Richa,richa@91sqft.com,,,,2023-09-05,2023-09-05,1,891.0,91sqft.com
+1371,0,Jagath,jagath.l@solvezy.com,,,,2023-09-11,2023-09-11,1,885.0,solvezy.com
+1372,0,Rupesh,rupesh.c@bahwancybertek.com,,,,2023-09-13,2023-09-13,1,883.0,bahwancybertek.com
+1373,0,Amandeep,amandeep.kaur@antiersolutions.com,,,,2023-09-18,2023-09-18,1,878.0,antiersolutions.com
+1374,0,Shabana,shabanaa@winsoftech.com,,,,2023-09-18,2023-09-18,1,878.0,winsoftech.com
+1375,0,Ritu,ritu.khosla@kritikalvision.ai,,,,2023-09-19,2023-09-19,1,877.0,kritikalvision.ai
+1376,0,Rupali,rupali.rane@hdfcbank.com,,,,2023-09-20,2023-09-20,1,876.0,hdfcbank.com
+1377,0,Kanika,kanika.nagpal@kukufm.com,,,"https://www.linkedin.com/sales/lead/ACwAAAekLxkBWg8_Ilj_fBxHmyaqSrcpkYl_qzA,NAME_SEARCH,GXAH",2023-09-22,2023-09-22,1,874.0,kukufm.com
+1378,3644,Abhijit,abhijit@tatvic.com,,,,2023-09-22,2023-09-22,1,874.0,tatvic.com
+1379,0,Nishant,nishant.das@viacom18.com,,,,2023-09-22,2023-09-22,1,874.0,viacom18.com
+1380,0,Siddhartha,siddhartha.moondra@hexagon.com,,,,2023-09-25,2023-09-25,1,871.0,hexagon.com
+1381,3664,Sanjana,sanjana.suresh@delhivery.com,,,,2023-09-25,2023-09-25,1,871.0,delhivery.com
+1382,0,Muzaffar,muzaffar.shaik@saffronic.com,,,,2023-09-25,2023-09-25,1,871.0,saffronic.com
+1383,0,Ranjita Mandal,ranjitamandal@mirafra.com,,,https://www.linkedin.com/in/ranjita-mandal-6851a714,2023-09-28,2023-09-28,1,868.0,mirafra.com
+1384,0,Parul Singh,singh.parul@orangemantra.in,,,https://www.linkedin.com/in/parul-singh-73500b168,2023-09-28,2023-09-28,1,868.0,orangemantra.in
+1385,3133,Shivani Saini,shivani.saini@htdigital.in,,,https://www.linkedin.com/in/shivani-saini-57b145120,2023-09-28,2023-09-28,1,868.0,htdigital.in
+1386,2824,Akshat Ajeya,akshat.ajeya@cars24.com,,,https://www.linkedin.com/in/akshatajeya,2023-09-28,2023-09-28,1,868.0,cars24.com
+1387,0,Deepak,talent@galaxyweblinks.com,,,,2023-09-28,2023-09-28,1,868.0,galaxyweblinks.com
+1388,0,Vikas,vikas.v@tyroo.com,,,,2023-10-05,2023-10-05,1,861.0,tyroo.com
+1389,0,HR Team,hr@10times.com,,,,2023-10-05,2023-10-05,1,861.0,10times.com
+1390,0,Tushar,tushar.patil@zaggle.in,,,,2023-10-05,2023-10-05,1,861.0,zaggle.in
+1391,0,Aditya,aditya.salunke@truemeds.in,,,,2023-10-05,2023-10-05,1,861.0,truemeds.in
+1392,0,Karishma Mohanty,karishmamohanty@pattemdigital.com,,,https://www.linkedin.com/in/karishma-mohanty-2b8967102,2023-10-05,2023-10-05,1,861.0,pattemdigital.com
+1393,0,Shivya Saxena,shivya.saxena@opalforce.com,,,https://www.linkedin.com/in/shivya-saxena-a28161b8,2023-10-05,2023-10-05,1,861.0,opalforce.com
+1394,0,Prajakta Ghumare,prajakta.ghumare@ncircletech.com,,,https://www.linkedin.com/in/prajakta-ghumare-a3a86517a,2023-10-05,2023-10-05,1,861.0,ncircletech.com
+1395,0,Thirunarayan,thirunarayan.sharma@smallcase.com,,,,2023-10-05,2023-10-05,1,861.0,smallcase.com
+1396,0,Padmanabhan,pk@expevo.com,9847970605,,,2023-10-10,2023-10-10,1,856.0,expevo.com
+1397,0,Sudipta,sudipta.sen@ingreens.in,,,,2023-10-10,2023-10-10,1,856.0,ingreens.in
+1398,0,Yogesh,yogesh.b@splashgain.com,,,,2023-10-10,2023-10-10,1,856.0,splashgain.com
+1399,0,Ajay,ajaykumar.g@matrimony.com,,,,2023-10-10,2023-10-10,1,856.0,matrimony.com
+1400,0,Shreya S.,hr@exprto.com,,,https://www.linkedin.com/in/shreya-s-9b66b7152?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACTEV9oBazBDa5ka5tmXkCimu40aF2Xyn7M&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BqMUrPXAvRqax9cQJWf60xg%3D%3D,2023-10-10,2023-10-10,1,856.0,exprto.com
+1401,0,Tejas Kapadia,careers@tirabeauty.com,,,https://www.linkedin.com/in/ACoAAAG8fPIBDkKlolx-z6xo4Ur6Cu9ImsPvBII/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BK5IQjPgoQzSTPH%2BSe5sZaA%3D%3D,2023-10-10,2023-10-10,1,856.0,tirabeauty.com
+1402,3329,Sreenu Nair,sreenu.nair@sliceit.com,,,https://www.linkedin.com/in/sreenu-nair-884a2910b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABu9C6QBI1MIIliWgn7JfvGstgHugeglqeE&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuEEF8CRtRU6HyLGroD%2BhdQ%3D%3D,2023-10-10,2023-10-10,1,856.0,sliceit.com
+1403,0,Shweta Gaganwane,shweta.gangawane@pegasusinfocorp.com,,,https://www.linkedin.com/in/shweta-gangawane-426964179?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACpSf14B4CTG0DSuXvV8gtekobkmoNWDJUg&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3WjBjz7OQQG%2Bc5GJl617HA%3D%3D,2023-10-10,2023-10-10,1,856.0,pegasusinfocorp.com
+1404,0,Heena Lalwani,heenal@aditiconsulting.com,,,https://www.linkedin.com/in/heena-lalwani-b247a2176?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACnDccwBxabHzVydjLvA6StaN2ZXJAcitNU&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3WjBjz7OQQG%2Bc5GJl617HA%3D%3D,2023-10-10,2023-10-10,1,856.0,aditiconsulting.com
+1405,0,Vidushi Sharma,vidushis@aditiconsulting.com,,,https://www.linkedin.com/in/vidushi-sharma-999835196?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAC4KmkUBTZmiddVftplalP9uUP655jn-SQ4&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3WjBjz7OQQG%2Bc5GJl617HA%3D%3D,2023-10-10,2023-10-10,1,856.0,aditiconsulting.com
+1406,0,Kamlesh,kamlesh.harchandani@capitaland.com,,,,2023-10-16,2023-10-16,1,850.0,capitaland.com
+1407,0,Pratyusha,prathyusha@5cnetwork.com,,,,2023-10-16,2023-10-16,1,850.0,5cnetwork.com
+1408,0,Rehana,rehana.inamdar@smarteinc.com,,,"https://www.linkedin.com/sales/lead/ACwAAAaw16cBfib0kjmf7IlOGfPhuX0Pl1xvPSc,NAME_SEARCH,UDsJ",2023-10-16,2023-10-16,1,850.0,smarteinc.com
+1409,4258,Muthamma,muthamma.karumbaiah@idsnext.com,,,,2023-10-17,2023-10-17,1,849.0,idsnext.com
+1410,0,HR Team,contactus@genexa.ai,,,,2023-10-20,2023-10-20,1,846.0,genexa.ai
+1411,0,Arpita,arpita.koli@zaggle.in,,,,2023-10-20,2023-10-20,1,846.0,zaggle.in
+1412,0,Manisha Y.,manisha.yadav@bizmetric.com,,,https://www.linkedin.com/in/manisha-y-a31840106?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABrSCcUBJITNes9jtaxBhr6pLnuKbSBvvs8&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvFJ1TLXyQC%2B0ottUaKX0tA%3D%3D,2023-10-20,2023-10-20,1,846.0,bizmetric.com
+1413,0,Shiwani Gautam,shiwani.g@optivaluetek.com,,,https://www.linkedin.com/in/shiwani-gautam-030a091ab?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADEX5OQBR41ZVegioi5Wnc6kW5nG2BHhH9g&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bwj2b95gBSXC3RhOSPebSNw%3D%3D,2023-10-20,2023-10-20,1,846.0,optivaluetek.com
+1414,0,Arpit Pandey,arpit.pandey@magicpin.in,,,https://www.linkedin.com/in/arpit-pandey?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAVZAtcBPCGHdTZVN_k1i9YkefAeB68f5fU&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BZpcXcFD%2BQWCThfFtCh0kGw%3D%3D,2023-10-20,2023-10-20,1,846.0,magicpin.in
+1415,0,Manasi Lokre,manasi.lokre@ddbmudragroup.com,,,https://www.linkedin.com/in/manasi-lokre-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACUS5ckBdacwgS1M9VgMiNLQxTxne2HFkkE&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BOsaFCwtjTc67xy8P1qWdjg%3D%3D,2023-10-20,2023-10-20,1,846.0,ddbmudragroup.com
+1416,0,Neema Pawar,jobs@appventurez.com,,,https://www.linkedin.com/in/neema-pawar-96b492107?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABryC-MBgT-cW-zfQQ3_4qNeCnyakGLmv_4&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bj6DqepRTQFuM0cIKGUSJvw%3D%3D,2023-10-20,2023-10-20,1,846.0,appventurez.com
+1417,0,Artee Parkar,artee@sportzinteractive.net,,,https://www.linkedin.com/in/arteeparkar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAUjO_oBDdIfreZiFS18Pp69ViOZ0oMHrkg&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BB5rsxFDdRr2qZk4uQWeQ9Q%3D%3D,2023-10-20,2023-10-20,1,846.0,sportzinteractive.net
+1418,4134,Twinkle Gandhi,twinkle.gandhi@pocketfm.com,,,https://www.linkedin.com/in/twinkle-gandhi-b006a7123?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB6JV3ABuVQOYnWD7Ka6RxapPWqA-rd0nok&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BVY1N7nYlTmyEN1lWHtFuYg%3D%3D,2023-10-20,2023-10-20,1,846.0,pocketfm.com
+1419,0,Ankita Dubey,ankita.dubey@avanse.com,,,https://www.linkedin.com/in/ankita-dubey-6b803756?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAvARiwBdtkGVqYIHkBDN1BG_Z6OPXBSLWs&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZOrlqH9UScyydS5VKGJ3%2Bw%3D%3D,2023-10-20,2023-10-20,1,846.0,avanse.com
+1420,0,Shebuel,shebuel.s@zucisystems.com,,,https://www.linkedin.com/in/punitha-nagarajan-b24a4b2a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAY0rIwBlpZ_8AEBd27secWNeeEc2gEh0_o&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8WWL4ph9QMSkPCdGrSd18Q%3D%3D,2023-10-20,2023-10-20,1,846.0,zucisystems.com
+1421,0,JPA Suresh,tech@sportstech.de,,,"https://www.linkedin.com/sales/lead/ACwAAAO6_REBQUBYgWaeWPO5YY1IhuJrLJLs3G8,NAME_SEARCH,iKhx?lipi=urn%3Ali%3Apage%3Ad_sales2_lead_list_detail%3BRXMm0LToTRaJx7TWZXDIvw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_lead_list_detail-view_profile&snfl=PpggdKlcQJCtSw6Kmzr8%2FA%3D%3D",2023-10-20,2023-10-20,1,846.0,sportstech.de
+1422,0,Suman,hr@sblcorp.com,,,,2023-10-23,2023-10-23,1,843.0,sblcorp.com
+1423,0,Sateesh,sateesh@sapioglobal.com,,,,2023-10-30,2023-10-30,1,836.0,sapioglobal.com
+1424,0,Deepika Singh Rajput,deepika.rajput@globalemedia.net,,,,2023-10-30,2023-10-30,1,836.0,globalemedia.net
+1425,0,Sathis,sathis.k@sblcorp.com,,,,2023-10-30,2023-10-30,1,836.0,sblcorp.com
+1426,0,Sharon Nicholas,snic@dneg.com,,,https://www.linkedin.com/in/sharon-nicholas-805368a9?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABcDFIUBa6JDTyhQluO8hE537uBOhgfmmaQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4iv0XNqaSwuYuoD1hbKQvg%3D%3D,2023-10-30,2023-10-30,1,836.0,dneg.com
+1427,0,Bhaul Arora,bahul@changejar.in,,,https://www.linkedin.com/in/bahularora?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAALML60BzzgycfsZzcrrRks0ZGeFjOCSD0M&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEoveBzwxQVCBzORAndC9xw%3D%3D,2023-10-30,2023-10-30,1,836.0,changejar.in
+1428,0,Chethan Mysore,chethankumar.mk@happiestminds.com,,,https://www.linkedin.com/in/chethan-mysore-7a2bb013?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAALYs2oBjxsuWBOgtK0Ya4KptyiMPRHdxt4&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEoveBzwxQVCBzORAndC9xw%3D%3D,2023-10-30,2023-10-30,1,836.0,happiestminds.com
+1429,0,Prineel Bandellu,careers@dapplooker.com,,,"https://www.linkedin.com/sales/lead/ACwAAAY01h0BJy-5NaEDp--hK_lBLsWpsPW_HUo,NAME_SEARCH,0Kd1?lipi=urn%3Ali%3Apage%3Ad_sales2_lead_list_detail%3B5XTeP55tQ8Gm4hB4NhmEDA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_lead_list_detail-view_profile",2023-10-30,2023-10-30,1,836.0,dapplooker.com
+1430,0,Srikanth Meenakshi,jobs@primeinvestor.in,,,https://www.linkedin.com/in/srikanthmeenakshi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAUaM8B7Ia03ipgLpnZ_YqRK4eUpvye6Xc&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B8ucFWZ8zQmGDyknZIABRKw%3D%3D,2023-10-30,2023-10-30,1,836.0,primeinvestor.in
+1431,4134,Kunal Wadhwani,work@pocketfm.com,,,"https://www.linkedin.com/sales/lead/ACwAAAYz3mEBZUuE2bWMAUY1bLvOOMhlVPvFvwY,NAME_SEARCH,cWY0?lipi=urn%3Ali%3Apage%3Ad_sales2_lead_list_detail%3Bhi%2FMVua0SWqkqEe5fTV4cQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_lead_list_detail-view_profile",2023-10-30,2023-10-30,1,836.0,pocketfm.com
+1432,1457,Priangsi Bhattacharyya,pb00692361@techmahindra.com,,,"https://www.linkedin.com/sales/lead/ACwAAAFTD-wBe23kGmsyNrnmSbcrXdxTp8q_3Jw,NAME_SEARCH,CfJ3?lipi=urn%3Ali%3Apage%3Ad_sales2_lead_list_detail%3Bhi%2FMVua0SWqkqEe5fTV4cQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_lead_list_detail-view_profile",2023-10-30,2023-10-30,1,836.0,techmahindra.com
+1433,0,Sushant,sushant@changejar.in,,,https://www.linkedin.com/in/vikas-johiya?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAUxNEQB-bQj-i3dkUlVAqUB39AbEC-o1wI&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0fyEOW8ISsKpM33Iw5h4%2Bg%3D%3D,2023-10-30,2023-10-30,1,836.0,changejar.in
+1434,0,Rama Krishna Varanasi,ramakrishna.varanasi@innovapptive.com,,,https://www.linkedin.com/in/rama-krishna-varanasi-36156426?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAVr3vkBmUgo64gSN7K1_a7bWCBhVrkKpI8&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwVdWGpJqTJ%2BUr%2FatdNl24A%3D%3D,2023-10-30,2023-10-30,1,836.0,innovapptive.com
+1435,0,Ganesh,ganesh.negi@lionbridge.com,,,https://www.linkedin.com/in/vrijeshsingh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAhSZ_YBS4bmdiHLqOlyfaKWBOCSiPtx9Wc&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwVdWGpJqTJ%2BUr%2FatdNl24A%3D%3D,2023-10-30,2023-10-30,1,836.0,lionbridge.com
+1436,3664,Dalima Gupta,dalima.gupta@delhivery.com,,,,2023-10-30,2023-10-30,1,836.0,delhivery.com
+1437,0,Prachi Bhatt,hr@iottive.com,,,https://www.linkedin.com/in/prachi-bhatt-1b6517116?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABzonVoB669DvsSCq6e0szYIWq4ZNL-R_XE&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwVdWGpJqTJ%2BUr%2FatdNl24A%3D%3D,2023-10-30,2023-10-30,1,836.0,iottive.com
+1438,0,Yashwanth,yashwanthk@blubirch.com,,,,2023-11-02,2023-11-02,1,833.0,blubirch.com
+1439,0,Ritika Punjabi,ritika.punjabi@liqvd.asia,,,https://www.linkedin.com/in/punjabiritika?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADCBO-sBRLRGStHUuGWoc0wzoJ_2z_YALRw&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_sales_nav_update%3Bx%2FSTvtYjRRyePLuzzKFYQw%3D%3D,2023-11-02,2023-11-02,1,833.0,liqvd.asia
+1440,0,Akshay Anand,akshay@idexmedia.in,,,https://www.linkedin.com/in/akshay-anand-750a8313a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACH5eGwBdy89AE5i3TAuKwucsVL2PwEvLUU&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_sales_nav_update%3BpmtS6jPIRlSWCVBELzUR4A%3D%3D,2023-11-02,2023-11-02,1,833.0,idexmedia.in
+1441,0,Mayue B.,mayur.b@red.health,,,https://www.linkedin.com/in/mayur-b-92b8055a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAyT5vMBdZwgCBgrA_pJyOj6xXvmEKopv_4&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_sales_nav_update%3Bc4jvZnW9T8K6bZGzK%2FTgoQ%3D%3D,2023-11-02,2023-11-02,1,833.0,red.health
+1442,3538,Kiran,kiran.kalid@nykaa.com,,,https://www.linkedin.com/in/himanshi-bhardwaj-23633667?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAA4b8MoBfE9i3UDR87vALSb-YxI60BjW-ko&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_sales_nav_update%3BNvS7ZlHRR8Oy2oreIWXiWA%3D%3D,2023-11-02,2023-11-02,1,833.0,nykaa.com
+1443,0,Mona B.,mona.bhandarkawthe@satincorp.com,,,https://www.linkedin.com/in/mona-b-37a35697?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABSE044BICmPcYTHJVye__A5QxNjND8fK6g&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BC3dYExn2T7CZayicYF1aWA%3D%3D,2023-11-02,2023-11-02,1,833.0,satincorp.com
+1444,0,Deepika Kumar,deepika.kumar@satincorp.com,,,https://www.linkedin.com/in/deepika1603sinha?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAc8kUMBl2mGJrCGM06H1e_33WFNF0zusJA&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BC3dYExn2T7CZayicYF1aWA%3D%3D,2023-11-02,2023-11-02,1,833.0,satincorp.com
+1445,3666,Sayali Bhakurlekar,sayali@fynd.com,,,https://www.linkedin.com/in/sayali-bhakurlekar-a53a30106?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABrZUN8BkJ_QuCLLY9poOZ6_87zYQPNGfdw&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BC3dYExn2T7CZayicYF1aWA%3D%3D,2023-11-02,2023-11-02,1,833.0,fynd.com
+1446,0,Shakuntla Das,shakuntla@mymoneykarma.com,,,https://www.linkedin.com/in/shakuntladas?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAttmm4Buqwy_qakKb7X-yUvs02I1pbpm64&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BvCT70EXnQUWuVFc5V44sLA%3D%3D,2023-11-02,2023-11-02,1,833.0,mymoneykarma.com
+1447,0,Mahima Taloskar,mahima.taloskar@schbang.com,,,https://www.linkedin.com/in/mahimataloskar07?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACFVYOEBGemx35zBUcpgrQvPxBqIi4vpDVs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BCch2gUZaT2OwWyYuyuLy3g%3D%3D,2023-11-03,2023-11-03,1,832.0,schbang.com
+1448,0,Rohit Dhamnekar,rohit.dhamnekar@schbang.com,,,https://www.linkedin.com/in/rohit-dhamnekar-7964b7112?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwxvqIBfutGAr2ys4PyvOcuva2N-f2OrEA&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5qMVfvOPSrGYhk%2FvSw7S6A%3D%3D,2023-11-03,2023-11-03,1,832.0,schbang.com
+1449,0,Kirti Patel,hr@avionicconsulting.com,,,https://www.linkedin.com/in/kirti-patel-abab89153/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKJK3eoalQyqUUQgkNff7YQ%3D%3D,2023-11-03,2023-11-03,1,832.0,avionicconsulting.com
+1450,0,HR Team,hr@kissflow.com,,,,2023-11-13,2023-11-13,1,822.0,kissflow.com
+1451,1601,Sundar,sundar.arumugham@oracle.com,,,"https://www.linkedin.com/sales/lead/ACwAACX7NoYBvX2New3CTexJUfVAiczvwpV3VMo,NAME_SEARCH,ntlE",2023-11-14,2023-11-14,1,821.0,oracle.com
+1452,0,Sandip,sandip@vnsoft.in,,,,2023-11-29,2023-11-29,1,806.0,vnsoft.in
+1453,0,Harsha,harsha@kissflow.com,,,,2023-11-29,2023-11-29,1,806.0,kissflow.com
+1454,0,Bikash,bikash@cadence.com,,,,2023-12-06,2023-12-06,1,799.0,cadence.com
+1455,0,Sivarama,bsk@netcarbonvision.com,,,,2023-12-19,2023-12-19,1,786.0,netcarbonvision.com
+1456,0,Sandip,sandip.narayan@joinditto.in,,,,2023-12-19,2023-12-19,1,786.0,joinditto.in
+1457,0,Manish,manishbhandari@nexgeniots.com,,,,2023-12-20,2023-12-20,1,785.0,nexgeniots.com
+1458,0,Vishal,vishal@imocha.io,,,,2023-12-22,2023-12-22,1,783.0,imocha.io
+1459,0,Himanshu,himanshu.dubey@trellix.com,8888829858,,"https://www.linkedin.com/sales/lead/ACwAAAGkmjwBokMCgVXGpVtmAk3QgwWR9yyzDtw,NAME_SEARCH,s28T",2023-12-26,2023-12-26,1,779.0,trellix.com
+1460,0,Bhavesh,bpatel@alpha-sense.com,,,,2023-12-29,2023-12-29,1,776.0,alpha-sense.com
+1461,0,Nandita,nandita.das@knolskape.com,,,,2024-01-02,2024-01-02,1,772.0,knolskape.com
+1462,0,Kalpana,kalpana@scrut.io,,,,2024-01-02,2024-01-02,1,772.0,scrut.io
+1463,715,Vijay,vijay.jamwal@happay.in,,,,2024-01-02,2024-01-02,1,772.0,happay.in
+1464,0,Gayathri,hr@brilyant.com,,,,2024-01-02,2024-01-02,1,772.0,brilyant.com
+1465,0,Ashish,ashish.gayakwar@pristyncare.com,,,,2024-01-02,2024-01-02,1,772.0,pristyncare.com
+1466,3519,Anuradha,anuradha@thebetterindia.com,,,,2024-01-02,2024-01-02,1,772.0,thebetterindia.com
+1467,0,Utpal,utpal.kirodian@toasttab.com,,,,2024-01-02,2024-01-02,1,772.0,toasttab.com
+1468,0,Christina,christina.sapna@laerdal.com,,,,2024-01-04,2024-01-04,1,770.0,laerdal.com
+1469,0,Ishan,ishan@penonpaper.in,,,,2024-01-05,2024-01-05,1,769.0,penonpaper.in
+1470,0,Poorva,poorva@penonpaper.in,,,,2024-01-05,2024-01-05,1,769.0,penonpaper.in
+1471,0,Prince,prince.jain@go-mmt.com,,,,2024-01-06,2024-01-06,1,768.0,go-mmt.com
+1472,0,HR Team,hr@vernasoft.com,9059396921,,,2024-01-06,2024-01-06,1,768.0,vernasoft.com
+1473,3400,Divakar,divakar.ha@xseededucation.com,,,,2024-01-11,2024-01-11,1,763.0,xseededucation.com
+1474,2577,Mahesh,mahesh.jha@powerweave.com,,,,2024-01-11,2024-01-11,1,763.0,powerweave.com
+1475,413,Amit,amit.devale@capgemini.com,,,,2024-01-11,2024-01-11,1,763.0,capgemini.com
+1476,0,Ranjan,ranjanm@wekan.company,,,,2024-01-16,2024-01-16,1,758.0,wekan.company
+1477,837,Sunil,sunil.gopal1@ibm.com,,,,2024-01-16,2024-01-16,1,758.0,ibm.com
+1478,0,Chirantan,chirantan.chandran@justmyroots.com,,,,2024-01-16,2024-01-16,1,758.0,justmyroots.com
+1479,0,Pushpa,pushpa@convertcart.com,,,,2024-01-18,2024-01-18,1,756.0,convertcart.com
+1480,0,Indranil,indro@dezyit.com,,,,2024-01-22,2024-01-22,1,752.0,dezyit.com
+1481,0,Haris,mohammedharis@dezyit.com,,,,2024-01-22,2024-01-22,1,752.0,dezyit.com
+1482,0,Hema,hema.chandwani@technoforte.co.in,,,,2024-01-22,2024-01-22,1,752.0,technoforte.co.in
+1483,0,Piyush,piyush.malhotra@shreemaruti.com,,,"https://www.linkedin.com/sales/lead/ACwAABX2KLYBDc58cJOIgDCHKsbvpstJsNNZLHc,NAME_SEARCH,4kP7",2024-01-22,2024-01-22,1,752.0,shreemaruti.com
+1484,0,Pankaj,pankajc@mindfiresolutions.com,,,,2024-01-22,2024-01-22,1,752.0,mindfiresolutions.com
+1485,0,Kushal,kushal.mt@healthplix.com,,,,2024-01-24,2024-01-24,1,750.0,healthplix.com
+1486,0,Sravanth,sravanth@adonmo.com,,,,2024-01-29,2024-01-29,1,745.0,adonmo.com
+1487,0,Manila,hr@wefast.in,,,,2024-01-31,2024-01-31,1,743.0,wefast.in
+1488,0,HR Team,hr@nesl.co.in,,,,2024-02-06,2024-02-06,1,737.0,nesl.co.in
+1489,0,Shreya,shreya@spotdraft.com,,,,2024-02-06,2024-02-06,1,737.0,spotdraft.com
+1490,0,Aafreen,aafreen.shaikh@shemaroo.com,,,,2024-02-06,2024-02-06,1,737.0,shemaroo.com
+1491,0,Ishita,ishita.udeshi@wtwco.com,,,,2024-02-09,2024-02-09,1,734.0,wtwco.com
+1492,0,Ajith,ajith@stellarisvp.com,,,,2024-02-09,2024-02-09,1,734.0,stellarisvp.com
+1493,0,HR Team,hr@bighaat.com,,,,2024-02-09,2024-02-09,1,734.0,bighaat.com
+1494,0,HR Team,careers@myberrybox.com,,,,2024-02-09,2024-02-09,1,734.0,myberrybox.com
+1495,0,Tanushree,tanushree.bhattacharya@batterysmart.in,,,,2024-02-09,2024-02-09,1,734.0,batterysmart.in
+1496,3245,Preksha,preksha.khona@pivotroots.com,,,,2024-02-12,2024-02-12,1,731.0,pivotroots.com
+1497,0,Sainu,sainudheen_k22@optum.com,,,,2024-02-12,2024-02-12,1,731.0,optum.com
+1498,0,Rajib,rajib.majhi@batterysmart.in,,,,2024-02-12,2024-02-12,1,731.0,batterysmart.in
+1499,0,Amit,ab@propellence.com,,,,2024-02-14,2024-02-14,1,729.0,propellence.com
+1500,0,Paresh,pm@propellence.com,,,,2024-02-14,2024-02-14,1,729.0,propellence.com
+1501,0,Archana,archana@adya.ai,,,,2024-02-14,2024-02-14,1,729.0,adya.ai
+1502,3455,Salaka,salaka.singh2@udaan.com,,,,2024-02-14,2024-02-14,1,729.0,udaan.com
+1503,0,Jyestha,j.tripathy@potentiam.co.uk,,,,2024-02-14,2024-02-14,1,729.0,potentiam.co.uk
+1504,0,Akash,akash.rai@scitara.com,,,,2024-02-19,2024-02-19,1,724.0,scitara.com
+1505,0,Neel,neel.rao@serole.com,,,,2024-02-19,2024-02-19,1,724.0,serole.com
+1506,0,Pradep,pradep.s@zuper.co,,,,2024-02-20,2024-02-20,1,723.0,zuper.co
+1507,0,Bikash,bikash.jena@delta.com,,,,2024-02-20,2024-02-20,1,723.0,delta.com
+1508,1132,Sai,saishiva.prasad@flipkart.com,,,,2024-02-22,2024-02-22,1,721.0,flipkart.com
+1509,0,Mayank,mayankbindal@snapecabs.com,,,,2024-02-22,2024-02-22,1,721.0,snapecabs.com
+1510,0,Raksh,raksh@alt-mobility.com,,,,2024-02-22,2024-02-22,1,721.0,alt-mobility.com
+1511,0,Harsh,harsh@alt-mobility.com,,,,2024-02-22,2024-02-22,1,721.0,alt-mobility.com
+1512,0,Sanjay,sanjay@spyne.ai,,,,2024-02-27,2024-02-27,1,716.0,spyne.ai
+1513,0,Suchoritha,suchoritha.chatterjee@smartcoin.co.in,,,,2024-02-27,2024-02-27,1,716.0,smartcoin.co.in
+1514,0,Sheetal,sheetal.d@getstan.app,,,,2024-02-28,2024-02-28,1,715.0,getstan.app
+1515,0,Vijaya,vijaya@quizizz.com,,,,2024-02-28,2024-02-28,1,715.0,quizizz.com
+1516,0,Sonal,sonal.somani@theluminantmedia.com,,,,2024-02-29,2024-02-29,1,714.0,theluminantmedia.com
+1517,0,Ruchika,rbisare@kognivera.com,,,,2024-02-29,2024-02-29,1,714.0,kognivera.com
+1518,0,Sri,srivathsan.santhanam@serole.com,,,,2024-03-03,2024-03-03,1,711.0,serole.com
+1519,0,Supriya,supriya.ramani@serole.com,,,,2024-03-03,2024-03-03,1,711.0,serole.com
+1520,0,Usha,usha.kiran@serole.com,,,,2024-03-03,2024-03-03,1,711.0,serole.com
+1521,0,Biplab,bb@calsibsoftware.com,,,,2024-03-03,2024-03-03,1,711.0,calsibsoftware.com
+1522,0,Stuti,stuti@filatex.com,,,,2024-03-05,2024-03-05,1,709.0,filatex.com
+1523,0,Ruben,ruben.babu@bt.com,,,,2024-03-06,2024-03-06,1,708.0,bt.com
+1524,0,Farhana,farhana.uddin@bt.com,,,,2024-03-06,2024-03-06,1,708.0,bt.com
+1525,0,Sai Ram,sairam.neelam@servicenow.com,,,,2024-03-07,2024-03-07,1,707.0,servicenow.com
+1526,0,Suresh,suresh.halarneker@servicenow.com,,,,2024-03-07,2024-03-07,1,707.0,servicenow.com
+1527,0,Vaishnavi,vaishnavi.gudimani@zopsmart.com,9060809927,,,2024-03-08,2024-03-08,1,706.0,zopsmart.com
+1528,0,Sumita,sumita@gomassive.org,,,,2024-03-08,2024-03-08,1,706.0,gomassive.org
+1529,0,Parthiban,parthiban.p@xerago.com,,,,2024-03-08,2024-03-08,1,706.0,xerago.com
+1530,83,Dhirender,dhmishra@deloitte.com,,,,2024-03-08,2024-03-08,1,706.0,deloitte.com
+1531,0,Rajnee,rajnee@nasscom.in,,,,2024-03-11,2024-03-11,1,703.0,nasscom.in
+1532,0,Manoj,manoj@kofluence.com,,,,2024-03-12,2024-03-12,1,702.0,kofluence.com
+1533,0,Poornima,poornima@testvagrant.com,,,,2024-03-12,2024-03-12,1,702.0,testvagrant.com
+1534,0,Priyanka,priyanka.ghodke@ada-asia.com,,,,2024-03-13,2024-03-13,1,701.0,ada-asia.com
+1535,0,Rajesh,rajesh.soundararajan@katha.org,,,,2024-03-13,2024-03-13,1,701.0,katha.org
+1536,0,Akanksha,akanksha.s@wildnettechnologies.com,9311068746,,,2024-03-13,2024-03-13,1,701.0,wildnettechnologies.com
+1537,1458,Bhaskar,bhaskar.agarwal@adp.com,,,,2024-03-15,2024-03-15,1,699.0,adp.com
+1538,0,Vikas,vikas.setty@leadsquared.com,,,,2024-03-15,2024-03-15,1,699.0,leadsquared.com
+1539,0,Manjeet,manjeet.walia@harbingergroup.com,,,,2024-03-15,2024-03-15,1,699.0,harbingergroup.com
+1540,3618,Ramesh,ramesh.raghavan@eclerx.com,,,,2024-03-18,2024-03-18,1,696.0,eclerx.com
+1541,0,Drashti,drashti.shah@schbang.com,,,,2024-03-18,2024-03-18,1,696.0,schbang.com
+1542,0,Haseeb,haseeb.syed@signpostindia.com,,,,2024-03-26,2024-03-26,1,688.0,signpostindia.com
+1543,0,Partha,partha.borah@moreretail.in,,,,2024-03-26,2024-03-26,1,688.0,moreretail.in
+1544,0,Ananya,akarmarkar@quinstreet.com,,,,2024-03-26,2024-03-26,1,688.0,quinstreet.com
+1545,0,HR Team,hr@idfy.com,,,,2024-03-26,2024-03-26,1,688.0,idfy.com
+1546,0,Rajat,rajat.khanna@mindtickle.com,,,,2024-03-26,2024-03-26,1,688.0,mindtickle.com
+1547,0,Shubham,shubham.kumar@wati.io,,,,2024-03-26,2024-03-26,1,688.0,wati.io
+1548,0,Taruna,taruna.vatsa@scitara.com,,,,2024-03-27,2024-03-27,1,687.0,scitara.com
+1549,0,Robert,robert.jackson@agcapps.com,,,,2024-03-27,2024-03-27,1,687.0,agcapps.com
+1550,0,Jayalakshmi,jayalakshmi.murugesan@agcapps.com,,,,2024-03-27,2024-03-27,1,687.0,agcapps.com
+1551,0,Vaibhav,vaibhav.goel@ril.com,,,,2024-03-27,2024-03-27,1,687.0,ril.com
+1552,0,Dinesh,dineshj@ndtv.com,,,,2024-03-27,2024-03-27,1,687.0,ndtv.com
+1553,3818,Manasa,manasa.deshpande@glance.com,,,,2024-03-27,2024-03-27,1,687.0,glance.com
+1554,187,Raghavender,raghavender.j@cognizant.com,,,,2024-03-29,2024-03-29,1,685.0,cognizant.com
+1555,0,Nidhi,nidhi@wishlink.com,,,,2024-03-29,2024-03-29,1,685.0,wishlink.com
+1556,0,Amit,amit.shukla@spacematrix.com,,,,2024-03-29,2024-03-29,1,685.0,spacematrix.com
+1557,0,Varsha,vrchowdhary@cermati.com,,,,2024-04-02,2024-04-02,1,681.0,cermati.com
+1558,0,Vinay,vinay.trivedi@terrapay.com,,,,2024-04-08,2024-04-08,1,675.0,terrapay.com
+1559,0,Himanshu,himanshu.pant@thriwe.com,,,,2024-04-08,2024-04-08,1,675.0,thriwe.com
+1560,0,Pinki,pinki.rani@qtsolv.com,,,,2024-04-08,2024-04-08,1,675.0,qtsolv.com
+1561,0,Kiran,kiran.nair@qodenext.com,,,,2024-04-08,2024-04-08,1,675.0,qodenext.com
+1562,0,Viral,viral.gandhi@qodenext.com,,,,2024-04-08,2024-04-08,1,675.0,qodenext.com
+1563,0,Shruti,shrutichandrashekar@popclub.co,,,,2024-04-08,2024-04-08,1,675.0,popclub.co
+1564,992,Abhishek,abhishek@coolbootsmedia.com,9650919633,,"https://www.linkedin.com/sales/lead/ACwAAAEh0KQBeiNuZmKR7rS6xTLg3D8fi433dlw,NPCh,NAME_SEARCH",2024-04-09,2024-04-09,1,674.0,coolbootsmedia.com
+1565,0,Deepika,deepika.dhand@rockstarindia.com,,,,2024-04-11,2024-04-11,1,672.0,rockstarindia.com
+1566,2463,Vaishnavi,vaishnavi.d@swiggy.in,,,,2024-04-11,2024-04-11,1,672.0,swiggy.in
+1567,0,Abhineet,abhineet.uppal@revv.co.in,,,,2024-04-11,2024-04-11,1,672.0,revv.co.in
+1568,0,Saumya,saumyamishra@rightpoint.com,,,,2024-04-11,2024-04-11,1,672.0,rightpoint.com
+1569,0,Naveta,naveta@limeroad.com,,,,2024-04-11,2024-04-11,1,672.0,limeroad.com
+1570,0,Ronak,careers@sifthub.io,,,,2024-04-11,2024-04-11,1,672.0,sifthub.io
+1571,0,Apurva,apurva@sifthub.io,,,,2024-04-11,2024-04-11,1,672.0,sifthub.io
+1572,0,Deepti,deepti.dwivedi@shemaroo.com,,,,2024-04-22,2024-04-22,1,661.0,shemaroo.com
+1573,0,Anuja,anuja@eazydiner.com,,,,2024-04-22,2024-04-22,1,661.0,eazydiner.com
+1574,0,Amit,amit.rana@vellvette.com,,,,2024-04-22,2024-04-22,1,661.0,vellvette.com
+1575,0,Pratik,pratik.sharma@yournest.in,,,,2024-04-22,2024-04-22,1,661.0,yournest.in
+1576,0,Richa,richa@yourdost.com,,,,2024-04-22,2024-04-22,1,661.0,yourdost.com
+1577,0,Revilla,revilla.m@purplle.com,,,,2024-04-22,2024-04-22,1,661.0,purplle.com
+1578,0,Ayush,ta3@nxtwave.tech,,,,2024-04-22,2024-04-22,1,661.0,nxtwave.tech
+1579,0,Charitha,ta@nxtwave.tech,,,,2024-04-22,2024-04-22,1,661.0,nxtwave.tech
+1580,0,Arifulla,arifulla.mohammad@nxtwave.co.in,,,,2024-04-22,2024-04-22,1,661.0,nxtwave.co.in
+1581,0,Tanushree,tanushree.p@hunchventures.com,,,,2024-04-22,2024-04-22,1,661.0,hunchventures.com
+1582,4270,Jo,jo@wysa.com,,,,2024-04-22,2024-04-22,1,661.0,wysa.com
+1583,0,Neha,neha.yadav@zs.com,,,,2024-04-27,2024-04-27,1,656.0,zs.com
+1584,0,Shelton,shelton.crasta@maersk.com,,,,2024-04-29,2024-04-29,1,654.0,maersk.com
+1585,0,Paras,paras@abcoffee.in,,,,2024-04-29,2024-04-29,1,654.0,abcoffee.in
+1586,1197,Nitin,nitin@ofbusiness.in,8375049723,,,2024-05-06,2024-05-06,1,647.0,ofbusiness.in
+1587,0,Ashiq,ashiq.rahim@workindia.in,,,,2024-05-06,2024-05-06,1,647.0,workindia.in
+1588,0,Atul,atul@pay10.com,,,,2024-05-06,2024-05-06,1,647.0,pay10.com
+1589,0,Chinmay,chinmay@zeni.ai,,,,2024-05-06,2024-05-06,1,647.0,zeni.ai
+1590,0,Srinivas,srinivas.seshadri@sokrati.com,,,https://www.linkedin.com/in/srinivas-seshadri/,2024-05-06,2024-05-06,1,647.0,sokrati.com
+1591,0,Hitika Shah,hshah@rdglobalinc.com,,,https://www.linkedin.com/in/hitika-shah-290890226?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADi6GowBnD1OK0pAcuI7vqRCRysSSLjVveM&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsaniePrgT1mjKvDPMDS4uA%3D%3D,2024-05-09,2024-05-09,1,644.0,rdglobalinc.com
+1592,0,Manoj Sunkara,manoj.sunkara@mobileum.com,,,https://www.linkedin.com/in/manoj-kumar-sunkara-b08b2448?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAoiBzgBNMUljPOTkNA01h03rXVpwEzGT4A&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_sales_nav_update%3BUz%2Ft7%2BXIS7W5IZcSbbFsOA%3D%3D,2024-05-09,2024-05-09,1,644.0,mobileum.com
+1593,0,Kiran,kiran.singam@bighaat.com,,,,2024-05-15,2024-05-15,1,638.0,bighaat.com
+1594,0,Ashima,ashima@jamboreeindia.com,,,,2024-05-15,2024-05-15,1,638.0,jamboreeindia.com
+1595,0,Vijay,vijay.gehani1@rangtech.com,,,,2024-05-15,2024-05-15,1,638.0,rangtech.com
+1596,0,Vani,vani.kokila@realvariable.com,,,,2024-05-15,2024-05-15,1,638.0,realvariable.com
+1597,0,Sreenivas,sreenivas.vadaguru@zeptonow.com,,,,2024-05-15,2024-05-15,1,638.0,zeptonow.com
+1598,3825,Sudhi,sudhi@acceldata.io,,,,2024-05-15,2024-05-15,1,638.0,acceldata.io
+1599,3825,Pradeep,pradeep@acceldata.io,,,,2024-05-15,2024-05-15,1,638.0,acceldata.io
+1600,3063,Prateek,prateek.agarwal@plivo.com,,,,2024-05-17,2024-05-17,1,636.0,plivo.com
+1601,0,Shavetta,shavetta.mehra@singleinterface.com,,,,2024-05-22,2024-05-22,1,631.0,singleinterface.com
+1602,0,Denit,kh.denit@i-exceed.com,,,,2024-05-23,2024-05-23,1,630.0,i-exceed.com
+1603,0,Chandana,chandana.naveen@bighaat.com,,,,2024-05-28,2024-05-28,1,625.0,bighaat.com
+1604,0,Rini,rini@gohighlevel.com,,,"https://www.linkedin.com/sales/lead/ACwAABcU1B8B3i5W4R0X6rcNO-9ltQSpnI9UwV4,NAME_SEARCH,Op5b?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3B15I0yZZcRDeYsPPtzcDKxg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=a6kkHIRrRqK3axgBa3TeQA%3D%3D",2024-05-30,2024-05-30,1,623.0,gohighlevel.com
+1605,188,Radhika,radhika.bs@accenture.com,,,"https://www.linkedin.com/sales/lead/ACwAAALDIDsBkY3kTaYevDjCQmRGL8uNO2Bor5A,NAME_SEARCH,pOPa?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BNDUcESlYSsKmfgQ9Ib1z9g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=H6NXuFvdT0yFsBg38cAmTQ%3D%3D",2024-06-03,2024-06-03,1,619.0,accenture.com
+1606,0,Rajasekhar,rajasekharreddy.sanae@algoleap.com,,,"https://www.linkedin.com/sales/lead/ACwAADx7yZwBSU6xfUJ9YLzCrpymHO7-TgPtYtU,NAME_SEARCH,wSGD?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BP7SmboY6SkK9wpzrHSXBLw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=YUk3iyLoTn6PJREJfwv1Ww%3D%3D",2024-06-04,2024-06-04,1,618.0,algoleap.com
+1607,0,Meenu,meenu.gupta@qtsolv.com,,,"https://www.linkedin.com/sales/lead/ACwAABohWKcBLRX-_qxvryCircUW9lOCd_ckNlQ,NAME_SEARCH,_Sw5?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BoxyrsdzCRlejYXd91k0o%2Fw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=zuVEfzlLQKeru2XCQu1pMg%3D%3D",2024-06-06,2024-06-06,1,616.0,qtsolv.com
+1608,0,Ankit,ankit.patni@qtsolv.com,,,"https://www.linkedin.com/sales/lead/ACwAABohWKcBLRX-_qxvryCircUW9lOCd_ckNlQ,NAME_SEARCH,_Sw5?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BoxyrsdzCRlejYXd91k0o%2Fw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=zuVEfzlLQKeru2XCQu1pMg%3D%3D",2024-06-06,2024-06-06,1,616.0,qtsolv.com
+1609,0,Ankur,ankur.mathur@sahibandhu.com,9311271091,,https://www.linkedin.com/in/ACoAAAJJaY4BXiQPlao-8t3bKmgf-g15I0nSf1M?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BWUoVNcQKTPyYiiA6oNJW1g%3D%3D,2024-06-07,2024-06-07,1,615.0,sahibandhu.com
+1610,3713,Kushagra,kushagra.pande@jungleegames.com,,,"https://www.linkedin.com/sales/lead/ACwAAALIpY8BkjJ_JqXKGuQJqzyou6T6_PdLtwI,NAME_SEARCH,7j_4?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BUoTh4BEXTNSRQUd48R2bxQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=CLJis5cjQLW5I%2FibHmDtew%3D%3D",2024-06-10,2024-06-10,1,612.0,jungleegames.com
+1611,0,Anchal,anchal.tripathi@bigbasket.com,,,https://www.linkedin.com/in/anchal-tripathi-113351161?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACasEF8BRkXjGaH-_T7XeCrU_eDxVG-6FxU&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BSQk4qWpqS3qUNVlrZu3wDw%3D%3D,2024-06-10,2024-06-10,1,612.0,bigbasket.com
+1612,0,Meena,hr@keypoint-tech.com,,,https://www.linkedin.com/in/meena-b-5a8aab11b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB3iX5ABiAaPTg9-s8cfFqkQWUtpmNkEyJU&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BInRKV8GtSQyexSv26OrRUw%3D%3D,2024-06-10,2024-06-10,1,612.0,keypoint-tech.com
+1613,0,Sunil,sunil@technosport.in,,,"https://www.linkedin.com/sales/lead/ACwAAC4QnyEBWJvnoIG6vgKXjveQsl1caVbZVf8,NAME_SEARCH,w5BL?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3Bj0sY5bRqSqKa39DFwziY8g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=A0IKW3%2B4TAmXqCbhIzBeUw%3D%3D",2024-06-11,2024-06-11,1,611.0,technosport.in
+1614,0,Anvi,anvi.mehta@mnclgroup.com,,,,2024-06-11,2024-06-11,1,611.0,mnclgroup.com
+1615,0,Awani,hr@kapture.cx,,,"https://www.linkedin.com/sales/lead/ACwAABxBB1YBhLuSZyXi7jX-h2kura_K8qGSz74,NAME_SEARCH,ggqb?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BReCNSRY1RVuFgq%2FfSBHppg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=q6FNLBjOQXSMHrtd2TBA1w%3D%3D",2024-06-12,2024-06-12,1,610.0,kapture.cx
+1616,0,Ashish,ashish.p@godesi.in,,,,2024-06-12,2024-06-12,1,610.0,godesi.in
+1617,0,Bavani,brbavani@miratechgroup.com,,,https://www.linkedin.com/in/bavani-t-81450056/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByCsCeVD5TGe0zkPPTjmq3A%3D%3D,2024-06-14,2024-06-14,1,608.0,miratechgroup.com
+1618,0,Kanderp,kanderp.goel@farmart.co,,,,2024-06-14,2024-06-14,1,608.0,farmart.co
+1619,3713,Manoj,manoj.thakral@jungleegames.com,,,,2024-06-19,2024-06-19,1,603.0,jungleegames.com
+1620,0,Ekta,ektaghanshyam@pando.ai,,,,2024-06-24,2024-06-24,1,598.0,pando.ai
+1621,0,Kartikey,kartikey.hariyani@tecsoglobal.com,,,"https://www.linkedin.com/sales/lead/ACwAAAEY0wsBviA69SnFa7WXDDC3xW2QOwT2CE4,NAME_SEARCH,Ae_1?lipi=urn%3Ali%3Apage%3Ad_sales2_inbox_thread%3BkVJ3uG8NTeCs0DTfhJhChw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_sales2_inbox_thread-view_profile&snfl=Ewy2zAn8SJakOnnR1n3gOw%3D%3D",2024-06-24,2024-06-24,1,598.0,tecsoglobal.com
+1622,0,Gowtham,gowtham@poshmark.com,,,"https://www.linkedin.com/sales/lead/ACwAAATZiRwBDd2TmnGvQfouqleIzPgsNHOBlaU,NAME_SEARCH,Erob",2024-06-27,2024-06-27,1,595.0,poshmark.com
+1623,0,Srikanth,parsa.srikanth@guseducationindia.com,,,"https://www.linkedin.com/sales/lead/ACwAAED3DmwBv7yp9C0M3fUAItfg1S9W-Hg6ntw,NAME_SEARCH,a2wr",2024-06-27,2024-06-27,1,595.0,guseducationindia.com
+1624,0,Rajat,rajat.kanodia@verticurl.com,,,https://www.linkedin.com/in/rajatkanodia/,2024-06-27,2024-06-27,1,595.0,verticurl.com
+1625,2277,Pragati,pragati@curefit.com,,,"https://www.linkedin.com/sales/lead/ACwAAAt5mxsBUK0GB6uhqPxSMVQGyR7PoGdW1NE,NAME_SEARCH,nffa",2024-06-27,2024-06-27,1,595.0,curefit.com
+1626,0,Nitin,nitin.goplani@nielseniq.com,,,,2024-07-16,2024-07-16,1,576.0,nielseniq.com
+1627,0,Rudra,rudraprasadmaisur@countrydelight.in,,,"https://www.linkedin.com/sales/lead/ACwAAAtJf3IBUC5xzcvtBLX1-njg_6_DD3iUHGk,NAME_SEARCH,nPx9",2024-07-16,2024-07-16,1,576.0,countrydelight.in
+1628,0,Shrawan,shrawan.kumar@olacabs.com,,,,2024-08-05,2024-08-05,1,556.0,olacabs.com
+1629,314,Komal,komal.sharma2@phonepe.com,,,,2024-09-06,2024-09-06,1,524.0,phonepe.com
+1630,3570,Ilyas,ilyas.akhter@rupeek.com,,,,2024-09-06,2024-09-06,1,524.0,rupeek.com
+1631,0,Anuja,anuja.pawar@druva.com,,,,2024-09-06,2024-09-06,1,524.0,druva.com
+1632,0,Rohan,rohankapoor@vyaparapp.in,,,,2024-09-18,2024-09-18,1,512.0,vyaparapp.in
+1633,4152,Roohi,roohi.biswas@jsw.in,,,,2024-09-24,2024-09-24,1,506.0,jsw.in
+1634,0,Sachin,sachin.desai@dentsu.com,,,,2024-09-24,2024-09-24,1,506.0,dentsu.com
+1635,0,Neha,neha.gupta1@blackline.com,,,,2024-09-26,2024-09-26,1,504.0,blackline.com
+1636,0,Lakshya,lakshya.thakur@cashkaro.com,8178812282,,"https://www.linkedin.com/sales/lead/ACwAACN8iawBl2LluetBOHCDMfeYzaXLTAPyL-8,NAME_SEARCH,AFtS",2024-10-08,2024-10-08,1,492.0,cashkaro.com
+1637,0,Rohit,rohit.123.soni@gmail.com,9160009574,,https://www.linkedin.com/in/rohit-soni-4b493422,2024-10-09,2024-10-09,1,491.0,gmail.com
+1638,0,Prashant,prashant.sinha@7-11.com,,,,2024-10-14,2024-10-14,1,486.0,7-11.com
+1639,3254,Ramchand,ramchand.matta@fractal.ai,,,,2024-10-14,2024-10-14,1,486.0,fractal.ai
+1640,0,Renny,rennys@propertyguru.tech,9158103358,,"https://www.linkedin.com/sales/lead/ACwAABBNdg0BvegaaSe7g42ODfvZKy3eEryDgH0,NAME_SEARCH,ZhUW",2024-10-14,2024-10-14,1,486.0,propertyguru.tech
+1641,0,Megha,megha@emversity.com,,,,2024-10-15,2024-10-15,1,485.0,emversity.com
+1642,0,Raxit,raxit.ajmera@eisneramper.com,,,,2024-10-15,2024-10-15,1,485.0,eisneramper.com
+1643,3570,Rohina,rohina.nayak@rupeek.com,,,,2024-10-15,2024-10-15,1,485.0,rupeek.com
+1644,0,Darshan,darshan.bd@7-11.com,,,,2024-10-16,2024-10-16,1,484.0,7-11.com
+1645,0,Pragati,hr@volofincorp.com,,,,2024-10-18,2024-10-18,1,482.0,volofincorp.com
+1646,0,Shobhit,shobhit.jain@magicbricks.com,9643307980,,"https://www.linkedin.com/sales/lead/ACwAAAIGIcoBPzujKCNZ5saaxyQBOYPYCQKcT-Y,NAME_SEARCH,qP3E",2024-10-24,2024-10-24,1,476.0,magicbricks.com
+1647,0,Mukesh,mukeshux@gmail.com,,,https://www.linkedin.com/in/mukeshux,2024-10-24,2024-10-24,1,476.0,gmail.com
+1648,0,Pradeep,uxbypk@gmail.com,,,"https://www.linkedin.com/sales/lead/ACwAAAE-hYEBQtFRjvPgU8sdcE7wt7J-zsOYkJE,NAME_SEARCH,d3u-",2024-10-28,2024-10-28,1,472.0,gmail.com
+1649,0,Milan,milansingh.3@gmail.com,,,"https://www.linkedin.com/sales/lead/ACwAAAQGjc4BTkLvzYCvORZh0l30891PQDfVg_Y,NAME_SEARCH,Fh-E",2024-10-28,2024-10-28,1,472.0,gmail.com
+1650,0,Saquib,saquibjawed13@gmail.com,,,"https://www.linkedin.com/sales/lead/ACwAAAkbaVQBkvwmOeBrDjvao2inVKZPncLLymM,NAME_SEARCH,p7V_",2024-10-28,2024-10-28,1,472.0,gmail.com
+1651,0,Vaibhav,vaibhav.g@moreretail.in,,,,2024-11-04,2024-11-04,1,465.0,moreretail.in
+1652,0,Vanshika,vanshika.srivastava@1mg.com,,,,2024-11-07,2024-11-07,1,462.0,1mg.com
+1653,3276,Yuvarani,ayuvarani@innominds.com,,,,2024-11-08,2024-11-08,1,461.0,innominds.com
+1654,0,Konark,konark.ashara@ust.com,,,,2024-11-11,2024-11-11,1,458.0,ust.com
+1655,0,Madhura,madhuradharmaraj@gmail.com,,,,2024-11-11,2024-11-11,1,458.0,gmail.com
+1656,3725,Sai,sai.prasad@cashfree.com,,,,2024-11-14,2024-11-14,1,455.0,cashfree.com
+1657,0,Pronami,pronami.borah@travclan.com,,,,2024-11-18,2024-11-18,1,451.0,travclan.com
+1658,0,Anisha,anisha.jaiswal@travclan.com,,,,2024-11-18,2024-11-18,1,451.0,travclan.com
+1659,0,Chandana,arockiachandana.kumar@ecanarys.com,,,"https://www.linkedin.com/sales/lead/ACwAAAvyMAABf9UvjTgPKaB2tJ8Gf8ymFdwZHHA,NAME_SEARCH,r_oI",2024-11-19,2024-11-19,1,450.0,ecanarys.com
+1660,0,Ashrith,ashrith.s@keka.com,,,"https://www.linkedin.com/sales/lead/ACwAAAmf7NcB2xLzTNp6S0rnJW9-EpmcoC7LEGA,NAME_SEARCH,p_WH",2024-11-19,2024-11-19,1,450.0,keka.com
+1661,200,Niket,niket.gupta@myntra.com,,,"https://www.linkedin.com/sales/lead/ACwAAAGuldkBnJqKXAQXVf4st0Ywk33EgxCrmho,NAME_SEARCH,P8EA",2024-11-20,2024-11-20,1,449.0,myntra.com
+1662,0,Hari,hariprasath.moorthy@finsurge.tech,,,"https://www.linkedin.com/sales/lead/ACwAAB2pbOEBk1WTO7wWyUWhLpd-R8V3tTSc3O8,NAME_SEARCH,8FPn",2024-11-26,2024-11-26,1,443.0,finsurge.tech
+1663,0,Ashok,ashok.putsala@storable.com,,,,2024-11-28,2024-11-28,1,441.0,storable.com
+1664,0,Vaishnavi,vaishnavi@neokred.tech,9873522440,,"https://www.linkedin.com/sales/lead/ACwAAC2QD_EBvDEO9qwRPUKx0148f5iR0WEJEo0,NAME_SEARCH,w6-2",2024-11-28,2024-11-28,1,441.0,neokred.tech
+1665,3142,Hussain,sadi.hussain@simpplr.com,,,,2024-12-01,2024-12-01,1,438.0,simpplr.com
+1666,3395,Damayanti,damayanti.ghosh@observe.ai,9108193009,,"https://www.linkedin.com/sales/lead/ACwAAAG6hQ0BMnU57GwutOktbYmNFUcch2tzehM,NAME_SEARCH,8hkX",2024-12-01,2024-12-01,1,438.0,observe.ai
+1667,0,Roshan,roshan@tripfactory.com,,,"https://www.linkedin.com/sales/lead/ACwAACUAZX0B7SKquCj1LRptDUfS3H8ElLkUttM,NAME_SEARCH,Q6-B",2024-12-01,2024-12-01,1,438.0,tripfactory.com
+1668,0,Vimmy,vimmy.takuli@enboarder.com,,,"https://www.linkedin.com/sales/lead/ACwAABcd5YoBa7OQqVg0c1WKl6qlf6kl6KjMMt4,NAME_SEARCH,s32n",2024-12-01,2024-12-01,1,438.0,enboarder.com
+1669,0,Chanakya,chanakya.veladi@feuji.com,,,"https://www.linkedin.com/sales/lead/ACwAAARRBQQBRwIxBK6tgulIRhCmvrKKJcd6Rv4,NAME_SEARCH,CJlA",2024-12-05,2024-12-05,1,434.0,feuji.com
+1670,0,Manish,manish.kujur@hogarth.com,,,"https://www.linkedin.com/sales/lead/ACwAAAOBjaYB91vhqVcnolA2LzOMegzxlPGw5nU,NAME_SEARCH,6tj-",2024-12-05,2024-12-05,1,434.0,hogarth.com
+1671,0,Srishty,srishty.sharma@hogarth.com,9557964523,,,2024-12-05,2024-12-05,1,434.0,hogarth.com
+1672,0,Mayank,mayank.girdhar@ofbusiness.in,,,,2024-12-09,2024-12-09,1,430.0,ofbusiness.in
+1673,0,Anand,lastmansurfing@gmail.com,9810130775,,"https://www.linkedin.com/sales/lead/ACwAAAAkcAgB95ntdwcc0RjVizS2KbD1S9COv-w,NAME_SEARCH,LokO",2024-12-09,2024-12-09,1,430.0,gmail.com
+1674,0,Ravi,yravi@chotu.com,,,,2024-12-12,2024-12-12,1,427.0,chotu.com
+1675,0,Sahana,sahana.bv@mresult.com,,,"https://www.linkedin.com/sales/lead/ACwAABA9sf0BSoZFBDdeVBYnS-rbBOjYjyzbxbU,NAME_SEARCH,g6Gv",2024-12-12,2024-12-12,1,427.0,mresult.com
+1676,0,Abhay,abhay.kumar@wsp.com,,,https://www.linkedin.com/in/abhay-kumar-wsp-pb/,2024-12-12,2024-12-12,1,427.0,wsp.com
+1677,0,Santosh,santosh.shaastry@alation.com,9901544022,,"https://www.linkedin.com/sales/lead/ACwAAAFojy4BG7WzxUy_D9HaopMz1cXgOqnfDpU,NAME_SEARCH,apux",2024-12-16,2024-12-16,1,423.0,alation.com
+1678,0,Vijay,dasi.babu@valuelabs.com,,,,2024-12-20,2024-12-20,1,419.0,valuelabs.com
+1679,0,Sruthi,sruthi.nalla@valuelabs.com,,,,2024-12-27,2024-12-27,1,412.0,valuelabs.com
+1680,3355,Rohit,rohit.kumar@syfe.com,7291812474,,https://www.linkedin.com/in/followrohit,2025-01-01,2025-01-01,1,407.0,syfe.com
+1681,0,Sasank,sasank.pandey@anakin.company,,,,2025-01-01,2025-01-01,1,407.0,anakin.company
+1682,0,Murugan,murugan.a@championsmail.com,,,https://www.linkedin.com/in/muruganmga/,2025-01-01,2025-01-01,1,407.0,championsmail.com
+1683,0,Pravin,pravin.rai@allieddigital.net,,,https://www.linkedin.com/in/pravin-rai-0375b78/,2025-01-01,2025-01-01,1,407.0,allieddigital.net
+1684,0,Saurabh,saurabh@progrowthpeople.com,,,https://www.linkedin.com/in/saurabhnigam/,2025-01-01,2025-01-01,1,407.0,progrowthpeople.com
+1685,3769,Parnika,parnika.kumar@furlenco.com,,,,2025-01-09,2025-01-09,1,399.0,furlenco.com
+1686,747,Rishabh,rishabh.chaturvedi@airtel.com,,,,2025-01-09,2025-01-09,1,399.0,airtel.com
+1687,0,Khushboo,kdattani@symplr.com,,,,2025-01-15,2025-01-15,1,393.0,symplr.com
+1688,2417,Vignesh,vignesh.vijayakumar@freshworks.com,,,,2025-01-15,2025-01-15,1,393.0,freshworks.com
+1689,3015,Sumit,sumit.premi@razorpay.com,,,,2025-01-20,2025-01-20,1,388.0,razorpay.com
+1690,0,Barkha,barkha@trellissoft.ai,,,,2025-01-20,2025-01-20,1,388.0,trellissoft.ai
+1691,0,Nitya,nbhatnagar@sumologic.com,,,,2025-01-20,2025-01-20,1,388.0,sumologic.com
+1692,3738,Aniket,aniket.nanjee@theporter.in,,,,2025-01-20,2025-01-20,1,388.0,theporter.in
+1693,0,Alok,alok.kumar@rsystems.com,9677170955,,,2025-01-20,2025-01-20,1,388.0,rsystems.com
+1694,3015,Carol,carol.lucas@razorpay.com,,,,2025-01-20,2025-01-20,1,388.0,razorpay.com
+1695,0,Tanvir,tanviralam.ansari@angelbroking.com,,,,2025-01-20,2025-01-20,1,388.0,angelbroking.com
+1696,0,Shreyas,shreyas.mirji@digantara.co.in,,,,2025-01-31,2025-01-31,1,377.0,digantara.co.in
+1697,0,Adwait,adwait.samant@digantara.co.in,9890325318,,,2025-01-31,2025-01-31,1,377.0,digantara.co.in
+1698,0,Rahul,rahul.rawat@digantara.co.in,,,,2025-01-31,2025-01-31,1,377.0,digantara.co.in
+1699,0,Madhu,madhu.tiwary@publicisgroupe.com,,,,2025-02-03,2025-02-03,1,374.0,publicisgroupe.com
+1700,0,Prafulla,prafulla.savarkar@luminadc.com,,,,2025-02-03,2025-02-03,1,374.0,luminadc.com
+1701,3884,Vikash,vikash.kumar08@pinelabs.com,,,https://www.linkedin.com/in/vikash-kumar-b2268bbb/,2025-02-03,2025-02-03,1,374.0,pinelabs.com
+1702,3643,Faiz,faiz.kidwai@winjit.com,,,,2025-02-03,2025-02-03,1,374.0,winjit.com
+1703,0,Harshita,harshita.puri@asper.ai,,,,2025-02-04,2025-02-04,1,373.0,asper.ai
+1704,2417,Senthil,senthilnathan.shanmugam@freshworks.com,,,,2025-02-04,2025-02-04,1,373.0,freshworks.com
+1705,424,Bikash,bikash@atherenergy.com,,,,2025-02-04,2025-02-04,1,373.0,atherenergy.com
+1706,0,Priti,pritinanda.panda@gohighlevel.com,8884089421,,,2025-02-04,2025-02-04,1,373.0,gohighlevel.com
+1707,0,Manoj,manoj.joshi@quickheal.com,,,,2025-02-10,2025-02-10,1,367.0,quickheal.com
+1708,2463,Vipul,vipul.mehrotra@swiggy.in,,,,2025-02-10,2025-02-10,1,367.0,swiggy.in
+1709,0,Suvarna,srapaka@conga.com,,,,2025-02-10,2025-02-10,1,367.0,conga.com
+1710,0,Varun,varun.kishore@zinnia.com,,,,2025-02-10,2025-02-10,1,367.0,zinnia.com
+1711,3884,Archana,archana.doon@pinelabs.com,,,,2025-02-10,2025-02-10,1,367.0,pinelabs.com
+1712,0,Ram,ram.bisht@stl.tech,,,,2025-02-10,2025-02-10,1,367.0,stl.tech
+1713,0,Bharath,bharath@everstage.com,,,,2025-02-17,2025-02-17,1,360.0,everstage.com
+1714,0,HR Team,hr@decentro.tech,,,,2025-02-17,2025-02-17,1,360.0,decentro.tech
+1715,1108,Veena,veena.sonwalkar@frog.co,,,,2025-02-17,2025-02-17,1,360.0,frog.co
+1716,0,Nivedita,nivedita.nayak@codeandtheory.com,,,,2025-02-17,2025-02-17,1,360.0,codeandtheory.com
+1717,0,Monika,monika.kasinathan@pagarbook.com,,,,2025-02-26,2025-02-26,1,351.0,pagarbook.com
+1718,0,Vittal,vittal.iyer@indegene.com,,,,2025-02-26,2025-02-26,1,351.0,indegene.com
+1719,0,Arijit,ardeb@manh.com,,,,2025-02-26,2025-02-26,1,351.0,manh.com
+1720,0,Murtuza,murtuza.kutub@f22labs.com,,,,2025-02-17,2025-02-17,1,360.0,f22labs.com
+1721,0,Ankur,ankur.singh3@axismaxlife.com,,,,2025-02-26,2025-02-26,1,351.0,axismaxlife.com
+1722,3133,Abhishek,abhishek.sharma1@htdigital.in,,,,2025-02-26,2025-02-26,1,351.0,htdigital.in
+1723,4245,Suresh,svelayudham@forbesadvisor.com,,,,2025-02-26,2025-02-26,1,351.0,forbesadvisor.com
+1724,0,Suchin,suchin@bhiveworkspace.com,,,,2025-02-26,2025-02-26,1,351.0,bhiveworkspace.com
+1725,0,Nilay,nilay.dembi@olaelectric.com,,,,2025-03-03,2025-03-03,1,346.0,olaelectric.com
+1726,851,Sumit,sumitplall@gmail.com,,,,2025-03-03,2025-03-03,1,346.0,gmail.com
+1727,0,Govind,govind@allsportsfit.com,,,,2025-03-03,2025-03-03,1,346.0,allsportsfit.com
+1728,0,Ratnadeep,ratnadeep.ray@druva.com,,,,2025-03-03,2025-03-03,1,346.0,druva.com
+1729,2037,Bhaskar,bhaskar.sharma@tracxn.com,,,,2025-03-08,2025-03-08,1,341.0,tracxn.com
+1730,2037,Barsilona,barsilona.dikshit@tracxn.com,,,,2025-03-12,2025-03-12,1,337.0,tracxn.com
+1731,3570,Tanveer,mohammed.tanveer@rupeek.com,,,,2025-03-12,2025-03-12,1,337.0,rupeek.com
+1732,3570,Tanisha,tanisha.sharma.cn@rupeek.com,,,,2025-03-12,2025-03-12,1,337.0,rupeek.com
+1733,0,Gautam,gautam.mahesh@voltmoney.in,,,,2025-03-12,2025-03-12,1,337.0,voltmoney.in
+1734,0,Prayank,prayank@accel.com,,,,2025-03-12,2025-03-12,1,337.0,accel.com
+1735,0,Syed,ssultan@livekeeping.com,,,,2025-03-12,2025-03-12,1,337.0,livekeeping.com
+1736,0,Tanima,tanima.c@logicplanet.com,,,,2025-03-12,2025-03-12,1,337.0,logicplanet.com
+1737,0,Rapunki,rapunki.sikdar@voltmoney.in,,,,2025-03-12,2025-03-12,1,337.0,voltmoney.in
+1738,0,Harshita,harshita.srivastava@signeasy.com,,,,2025-03-18,2025-03-18,1,331.0,signeasy.com
+1739,0,Sarath,sarath.mg@truecaller.com,,,,2025-03-18,2025-03-18,1,331.0,truecaller.com
+1740,0,Alwyn,alwyn.dsouza@allieddigital.net,,,,2025-03-18,2025-03-18,1,331.0,allieddigital.net
+1741,0,Karthick,karthick.jk@telusinternational.com,,,,2025-03-18,2025-03-18,1,331.0,telusinternational.com
+1742,0,Sushanth,sushanth.d@kushals.com,,,,2025-03-21,2025-03-21,1,328.0,kushals.com
+1743,0,Pinku,pinku.kumar@travclan.com,9667793240,,,2025-03-23,2025-03-23,1,326.0,travclan.com
+1744,0,Prisha,prisha.shrestha@travclan.com,,,,2025-03-23,2025-03-23,1,326.0,travclan.com
+1745,0,HR Team,grow@travclan.com,,,,2025-03-23,2025-03-23,1,326.0,travclan.com
+1746,0,Shripad,hr.admin@gcganalyst.com,,,,2025-03-23,2025-03-23,1,326.0,gcganalyst.com
+1747,0,Rashmi,rashmi@finoit.com,,,,2025-03-23,2025-03-23,1,326.0,finoit.com
+1748,0,Priyadarshini,priyadarshini@indee.tv,,,,2025-03-23,2025-03-23,1,326.0,indee.tv
+1749,0,Abraham,abraham.jacob@thesouledstore.com,,,,2025-03-23,2025-03-23,1,326.0,thesouledstore.com
+1750,0,Bhavana,bhavana.garg@91springboard.com,,,,2025-03-23,2025-03-23,1,326.0,91springboard.com
+1751,0,Karthiga,careers@pickyourtrail.com,,,,2025-03-23,2025-03-23,1,326.0,pickyourtrail.com
+1752,0,Navendu,navendu.saxena@1lattice.com,,,,2025-03-26,2025-03-26,1,323.0,1lattice.com
+1753,0,Manish,manish.h@bloomvalue.com,8277734714,,https://www.linkedin.com/in/manishhans/,2025-03-26,2025-03-26,1,323.0,bloomvalue.com
+1754,0,Suresh,suresh.ln@qodenext.com,,,,2025-03-26,2025-03-26,1,323.0,qodenext.com
+1755,0,Vibhu,vibhu.aggarwal@naukri.com,,,,2025-04-02,2025-04-02,1,316.0,naukri.com
+1756,0,Diana,diana@cloudq.net,,,,2025-04-02,2025-04-02,1,316.0,cloudq.net
+1757,0,Sahil,sahil.paruthi@intellectsolutions.com,,,,2025-04-02,2025-04-02,1,316.0,intellectsolutions.com
+1758,0,Nithya,nithya.chandar@unitedlex.com,,,,2025-04-02,2025-04-02,1,316.0,unitedlex.com
+1759,0,Shilpi,shilpi.banerjee@stl.tech,,,,2025-04-02,2025-04-02,1,316.0,stl.tech
+1760,0,Chetan,chetan.patil@apexon.com,,,,2025-04-02,2025-04-02,1,316.0,apexon.com
+1761,0,Shilpa,shilpa.chhabra@spinny.com,7015092052,,"https://www.linkedin.com/sales/lead/ACwAACpc7NABD3HHl5vE958dKzjN9XwwNiDAfmE,NAME_SEARCH,5kQd",2025-04-02,2025-04-02,1,316.0,spinny.com
+1762,0,Mukesh,mukesh.mishra@qodenext.com,,,,2025-04-03,2025-04-03,1,315.0,qodenext.com
+1763,0,Rajshree,rajshree@wishlink.com,,,,2025-04-07,2025-04-07,1,311.0,wishlink.com
+1764,0,Santoshi,santoshi.sarang@amuratech.com,7893646842,,,2025-04-07,2025-04-07,1,311.0,amuratech.com
+1765,0,Saravanababu,info@dbizsolution.com,,,,2025-04-07,2025-04-07,1,311.0,dbizsolution.com
+1766,3551,Sandeep,sandeep.p@navi.com,,,,2025-04-07,2025-04-07,1,311.0,navi.com
+1767,0,HR Team,hr@plantix.net,,,,2025-04-24,2025-04-24,1,294.0,plantix.net
+1768,0,Sonam,sonam.kushwah@mercer.com,,,,2025-04-24,2025-04-24,1,294.0,mercer.com
+1769,0,Vijay,vijay.jamwal@biz2x.com,,,,2025-04-24,2025-04-24,1,294.0,biz2x.com
+1770,0,Srijith,srijith.n@ecosmossolutions.com,,,,2025-04-24,2025-04-24,1,294.0,ecosmossolutions.com
+1771,0,Ankur,ankur.jhaveri@idfy.com,,,,2025-04-24,2025-04-24,1,294.0,idfy.com
+1772,0,Sanjeev,sanjeev.varthya@icrisat.org,,,,2025-04-24,2025-04-24,1,294.0,icrisat.org
+1773,0,Ankit,ankit.saxena@stage.in,,,,2025-04-24,2025-04-24,1,294.0,stage.in
+1774,0,Jyothi,jyothi.rajagopal@coffeebeans.io,8310349323,,,2025-04-25,2025-04-25,1,293.0,coffeebeans.io
+1775,0,Bhaumik,bhaumik2@amnex.com,,,,2025-04-28,2025-04-28,1,290.0,amnex.com
+1776,3911,Gayathri,gayathri.k@orangehealth.in,,,,2025-04-28,2025-04-28,1,290.0,orangehealth.in
+1777,0,Farooq,farooq@mystifly.com,,,,2025-04-28,2025-04-28,1,290.0,mystifly.com
+1778,0,Bhawna,bhawnachugh@urbancompany.com,,,,2025-04-28,2025-04-28,1,290.0,urbancompany.com
+1779,0,Shalini,shalinisingh@urbancompany.com,,,Singh,2025-04-28,2025-04-28,1,290.0,urbancompany.com
+1780,0,Akanksha,akansha.parveen@clear.in,,,,2025-04-28,2025-04-28,1,290.0,clear.in
+1781,0,Arun,aruntm@carestack.com,,,,2025-04-28,2025-04-28,1,290.0,carestack.com
+1782,0,Smitha,smitha@carestack.com,,,,2025-04-28,2025-04-28,1,290.0,carestack.com
+1783,0,Purnendu,purnendu.shakunt@go-mmt.com,,,,2025-04-28,2025-04-28,1,290.0,go-mmt.com
+1784,715,Purnendu,purnendu.shakunt@happay.com,,,,2025-04-28,2025-04-28,1,290.0,happay.com
+1785,0,Divya,divyaraj@carestack.com,,,,2025-04-28,2025-04-28,1,290.0,carestack.com
+1786,0,Bharath,bharathk@carestack.com,,,,2025-04-28,2025-04-28,1,290.0,carestack.com
+1787,0,Manish,manishsharma@rightpoint.com,,,,2025-04-28,2025-04-28,1,290.0,rightpoint.com
+1788,0,Nitisha,nbhargava@rightpoint.com,,,,2025-04-28,2025-04-28,1,290.0,rightpoint.com
+1789,0,Nitisha,nitisha.bhargava@genpact.com,,,,2025-04-28,2025-04-28,1,290.0,genpact.com
+1790,0,Muthu,muthumakesh.r@sagilityhealth.com,,,,2025-05-05,2025-05-05,1,283.0,sagilityhealth.com
+1791,0,Madhurima,madhurima@montycloud.com,,,,2025-05-05,2025-05-05,1,283.0,montycloud.com
+1792,2157,Saili,saili.kulkarni@coditas.com,,,,2025-05-05,2025-05-05,1,283.0,coditas.com
+1793,3713,Deepika,deepika.goel@jungleegames.com,,,,2025-05-05,2025-05-05,1,283.0,jungleegames.com
+1794,0,Alam,shah.alam@losung360.com,,,,2025-05-05,2025-05-05,1,283.0,losung360.com
+1795,0,Apurv,apurv@losung360.com,,,,2025-05-05,2025-05-05,1,283.0,losung360.com
+1796,0,Ragavendhran,ragavendhranp@acldigital.com,,,,2025-05-05,2025-05-05,1,283.0,acldigital.com
+1797,0,Ishaan,ishaan@hike.in,,,,2025-05-12,2025-05-12,1,276.0,hike.in
+1798,0,Madhuparna,madhuparna.chakraborty@barclays.com,,,https://www.linkedin.com/in/madhuparna-chakraborty-454052199/,2025-05-12,2025-05-12,1,276.0,barclays.com
+1799,0,Prathyusha,prathyusha.k@gardencity.games,,,,2025-05-13,2025-05-13,1,275.0,gardencity.games
+1800,0,Rini,rini.dsouza@groupbayport.com,,,https://www.linkedin.com/in/rini-d%E2%80%99souza-9b0554233/,2025-05-15,2025-05-15,1,273.0,groupbayport.com
+1801,0,Shreyas,shreyassehgal@google.com,,,,2025-05-15,2025-05-15,1,273.0,google.com
+1802,0,Sameeksha,hr@lemnisk.co,,,,2025-05-15,2025-05-15,1,273.0,lemnisk.co
+1803,0,Disha,disha.mona@groupbayport.com,,,,2025-05-16,2025-05-16,1,272.0,groupbayport.com
+1804,0,Manushree,hr@ysecit.com,,,,2025-05-17,2025-05-17,1,271.0,ysecit.com
+1805,0,Likhitha,likhithak@nesl.co.in,,,,2025-05-17,2025-05-17,1,271.0,nesl.co.in
+1806,0,Vinanthi,vinanthi@onsurity.com,,,,2025-05-21,2025-05-21,1,267.0,onsurity.com
+1807,1457,Swaraj,swarajkumar.mitra@techmahindra.com,,,,2025-05-21,2025-05-21,1,267.0,techmahindra.com
+1808,0,Shruti,shruti.bharadia@axismaxlife.com,,,,2025-05-21,2025-05-21,1,267.0,axismaxlife.com
+1809,0,Amrit,amrit.bedi@axismaxlife.com,,,,2025-05-21,2025-05-21,1,267.0,axismaxlife.com
+1810,3245,Nidhi,nidhi.bagwale@pivotroots.com,,,,2025-05-21,2025-05-21,1,267.0,pivotroots.com
+1811,0,Jayesh,jayesh.shinde@acc.ltd,,,,2025-05-26,2025-05-26,1,262.0,acc.ltd
+1812,0,Dilip,dilipt@centumtns.com,,,,2025-05-28,2025-05-28,1,260.0,centumtns.com
+1813,0,Shadruthi,shadhruthi.s@moengage.com,,,,2025-06-01,2025-06-01,1,256.0,moengage.com
+1814,0,Sripad,sripad.raj@happiestminds.com,,,,2025-06-01,2025-06-01,1,256.0,happiestminds.com
+1815,0,Ila,ila.tandon@affordplan.com,9871634446,,,2025-06-10,2025-06-10,1,247.0,affordplan.com
+1816,0,Divyalakshmi,divyalakshmi.kumar@sensiple.com,,,,2025-06-10,2025-06-10,1,247.0,sensiple.com
+1817,0,Ishita,ishita@onebanc.ai,,,,2025-06-10,2025-06-10,1,247.0,onebanc.ai
+1818,0,HR Team,hr@fundly.ai,,,,2025-06-10,2025-06-10,1,247.0,fundly.ai
+1819,0,Chitra,chitra.yadav@mamaearth.in,,,,2025-06-11,2025-06-11,1,246.0,mamaearth.in
+1820,2804,Shalini,shalini.c@hiverhq.com,,,,2025-06-16,2025-06-16,1,241.0,hiverhq.com
+1821,0,Dipti,dipti@lovelocal.in,,,,2025-06-16,2025-06-16,1,241.0,lovelocal.in
+1822,83,Rebeka,rebghosh@deloitte.com,,,(20) Rebeka Ghosh | LinkedIn,2025-06-12,2025-06-12,1,245.0,deloitte.com
+1823,3051,Suresh,suresh.sakthivel@rrd.com,,,,2025-06-12,2025-06-12,1,245.0,rrd.com
+1824,0,Bhavana,bhavana.gm@kloctechnologies.com,,,,2025-06-25,2025-06-25,1,232.0,kloctechnologies.com
+1825,0,HR Team,hr@trikatechnologies.com,,,,2025-06-25,2025-06-25,1,232.0,trikatechnologies.com
+1826,0,Bhaskar,bhaskar@thesmartq.com,,,,2025-07-01,2025-07-01,1,226.0,thesmartq.com
+1827,0,Sabrina,sabrina@thesmartq.com,,,,2025-07-01,2025-07-01,1,226.0,thesmartq.com
+1828,0,Subhashini,subreddy@altimetrik.com,,,,2025-07-04,2025-07-04,1,223.0,altimetrik.com
+1829,0,Sharon,sharon.nicholas@dneg.com,,,,2025-07-04,2025-07-04,1,223.0,dneg.com
+1830,3348,Neeva,neeva.rathod@publicissapient.com,,,,2025-07-04,2025-07-04,1,223.0,publicissapient.com
+1831,0,Vishal,vishal18.kumar@nttdata.com,,,,2025-07-04,2025-07-04,1,223.0,nttdata.com
+1832,0,Dipin,dipin.krishnan@7hub.it,,,,2025-07-08,2025-07-08,1,219.0,7hub.it
+1833,0,Bharath,bharath.c@ultraviolette.com,,,,2025-07-08,2025-07-08,1,219.0,ultraviolette.com
+1834,0,Priya,priya@infoglen.com,8077925823,,(21) Priya Varshney | LinkedIn,2025-06-26,2025-06-26,1,231.0,infoglen.com
+1835,0,Bhawna,hr@bravurapackers.com,,,(47) Bhawna Chugh | LinkedIn,2025-07-03,2025-07-03,1,224.0,bravurapackers.com
+1836,0,Rebekah,hrteam@datagrokr.co,,,,2025-07-14,2025-07-14,1,213.0,datagrokr.co
+1837,0,Prajwal,prajwal@z47.com,,,,2025-07-14,2025-07-14,1,213.0,z47.com
+1838,0,Arshia,arshia.manoj@beyondid.com,,,,2025-07-14,2025-07-14,1,213.0,beyondid.com
+1839,568,Niteesha,niteesha@peepaldesign.com,,,,2025-07-14,2025-07-14,1,213.0,peepaldesign.com
+1840,0,Saakshi,saakshi@fyllo.in,,,,2025-07-17,2025-07-17,1,210.0,fyllo.in
+1841,837,Unknown,smanepan@in.ibm.com,,,,2025-07-22,2025-07-22,1,205.0,in.ibm.com
+1842,0,Premananda,premananda.patro@expinfi.com,,,,2025-07-22,2025-07-22,1,205.0,expinfi.com
+1843,0,Omkar,omkar.patwardhan@expinfi.com,,,,2025-07-22,2025-07-22,1,205.0,expinfi.com
+1844,0,Shruti,shruti.rathi@greedygame.com,,,(59) Shruti R. | LinkedIn,2025-07-23,2025-07-23,1,204.0,greedygame.com
+1845,0,Andrea,recruitment@qodenext.com,,,,2025-07-23,2025-07-23,1,204.0,qodenext.com
+1846,0,Siddharth,sid.varman@exponent.energy,,,,2025-07-23,2025-07-23,1,204.0,exponent.energy
+1847,0,Manogna,mgottipati@bvp.com,,,,2025-07-23,2025-07-23,1,204.0,bvp.com
+1848,0,Karthik,karthik@hashed.com,,,,2025-07-23,2025-07-23,1,204.0,hashed.com
+1849,0,Anita,anita.tiwari@hdfcbank.com,,,,2025-07-23,2025-07-23,1,204.0,hdfcbank.com
+1850,0,Anindita,anindita.gupta@infoprolearning.com,,,,2025-07-24,2025-07-24,1,203.0,infoprolearning.com
+1851,0,Alageshwaran,alageshwaran.t@qbrainx.com,,,,2025-07-25,2025-07-25,1,202.0,qbrainx.com
+1852,4112,Romil,romil.lodaya@kapiva.in,,,,2025-07-25,2025-07-25,1,202.0,kapiva.in
+1853,4112,Aniket,aniket.patil@kapiva.in,,,,2025-07-28,2025-07-28,1,199.0,kapiva.in
+1854,0,Babita,babita.badlani@techment.com,,,,2025-07-29,2025-07-29,1,198.0,techment.com
+1855,370,Riyaz,ryyame@amazon.com,,,,2025-07-29,2025-07-29,1,198.0,amazon.com
+1856,0,Dhara,dhara.vyas@easyrewardz.com,,,,2025-08-05,2025-08-05,1,191.0,easyrewardz.com
+1857,0,Anshu,anshu@easyrewardz.com,,,,2025-08-05,2025-08-05,1,191.0,easyrewardz.com
+1858,0,Syed,syed.zubairudeen@sagility.com,,,,2025-08-05,2025-08-05,1,191.0,sagility.com
+1859,0,Raj,raj@justswish.in,,,,2025-08-05,2025-08-05,1,191.0,justswish.in
+1860,3521,Vedika,vedika@onething.design,,,,2025-08-11,2025-08-11,1,185.0,onething.design
+1861,0,TA Team,ta@rategain.com,,,,2025-08-11,2025-08-11,1,185.0,rategain.com
+1862,0,Surya,surya.prabha@programming.com,,,,2025-08-11,2025-08-11,1,185.0,programming.com
+1863,0,Augustine,augustine.joseph@alten-india.com,,,,2025-08-11,2025-08-11,1,185.0,alten-india.com
+1864,0,Sreerag,sreerag.nath@deptagency.com,,,,2025-08-17,2025-08-17,1,179.0,deptagency.com
+1865,1602,Mahnaz,mahnazk@kpmg.com,,,,2025-08-17,2025-08-17,1,179.0,kpmg.com
+1866,0,Fouzia,fouzia.faruk@leadsquared.com,,,,2025-08-18,2025-08-18,1,178.0,leadsquared.com
+1867,0,Pradnya,pradnya.a@ly.design,,,,2025-08-18,2025-08-18,1,178.0,ly.design
+1868,0,Gaurav,gaurav.joshi@hotstar.com,,,,2025-08-19,2025-08-19,1,177.0,hotstar.com
+1869,0,Roshan,rthomas@vieu.com,7795255781,,,2025-08-19,2025-08-19,1,177.0,vieu.com
+1870,0,HR Team,hr@desmania.com,,,,2025-08-25,2025-08-25,1,171.0,desmania.com
+1871,0,Aarti,aarti@emergent.sh,,,,2025-08-25,2025-08-25,1,171.0,emergent.sh
+1872,0,Shailesh,shailesh.zarkar@luminadc.com,,,,2025-08-25,2025-08-25,1,171.0,luminadc.com
+1873,0,Archana,archana.l1407@techstargroup.com,,,,2025-08-25,2025-08-25,1,171.0,techstargroup.com
+1874,0,Zal,zal.doctor@learningmate.com,,,,2025-08-25,2025-08-25,1,171.0,learningmate.com
+1875,0,Rizvi,rizvi@dotsod.in,,,,2025-08-25,2025-08-25,1,171.0,dotsod.in
+1876,2065,Rahul,rahul.saini@paytm.com,,,,2025-08-27,2025-08-27,1,169.0,paytm.com
+1877,0,Dinesha,dinesha@esper.io,,,,2025-08-27,2025-08-27,1,169.0,esper.io
+1878,2464,Balaji,balaji.m@inmobi.com,,,,2025-08-27,2025-08-27,1,169.0,inmobi.com
+1879,0,Shraddha,shraddha.srivastava@natwest.com,,,,2025-08-28,2025-08-28,1,168.0,natwest.com
+1880,0,Vasu,vasu.b@colortokens.com,,,,2025-08-28,2025-08-28,1,168.0,colortokens.com
+1881,0,HR Team,itcreferrals@ups.com,,,,2025-09-02,2025-09-02,1,163.0,ups.com
+1882,0,Bakul,bakul@cheq.one,,,,2025-09-02,2025-09-02,1,163.0,cheq.one
+1883,4207,Himanshu,himanshu@sigmoidanalytics.com,,,,2025-08-02,2025-08-02,1,194.0,sigmoidanalytics.com
+1884,0,Suhas,suhasb.bendre@ltimindtree.com,,,,2025-09-03,2025-09-03,1,162.0,ltimindtree.com
+1885,0,Girish,girish.shinde@atlascopco.com,,,,2025-08-04,2025-08-04,1,192.0,atlascopco.com
+1886,0,Varsha,varsha@inkers.ai,,,,2025-09-05,2025-09-05,1,160.0,inkers.ai
+1887,0,Meenakshi,meenakshi.j@enliteresearch.com,,,,2025-09-05,2025-09-05,1,160.0,enliteresearch.com
+1888,0,Bharat,bharat@gopluto.ai,8879570965,,,2025-09-08,2025-09-08,1,157.0,gopluto.ai
+1889,0,Ankita,ankita.ghosh@fugro.com,,,,2025-09-11,2025-09-11,1,154.0,fugro.com
+1890,0,Vinay,vinay.kumar@fugro.com,,,,2025-09-11,2025-09-11,1,154.0,fugro.com
+1891,0,Siddharth,s.pashte@fugro.com,,,,2025-09-11,2025-09-11,1,154.0,fugro.com
+1892,0,Kirti,kirti.singh@impactanalytics.co,,,,2025-09-11,2025-09-11,1,154.0,impactanalytics.co
+1893,0,Sandhya,sandhya@liminalcustody.com,,,,2025-09-11,2025-09-11,1,154.0,liminalcustody.com
+1894,0,Adarsh,adarsh@primuslife.in,,,,2025-09-12,2025-09-12,1,153.0,primuslife.in
+1895,0,HR Team,hr@lmnl.app,,,,2025-09-12,2025-09-12,1,153.0,lmnl.app
+1896,0,Amir,mohd1.khan@upgrad.com,,,,2025-09-15,2025-09-15,1,150.0,upgrad.com
+1897,0,Sameep,sameep@stayoften.com,,,,2025-09-15,2025-09-15,1,150.0,stayoften.com
+1898,0,Geetanjali,geetanjali.yedke@impactanalytics.co,,,,2025-09-17,2025-09-17,1,148.0,impactanalytics.co
+1899,0,Bhavesh,bhavesh.bhansali@techademy.com,,,,2025-09-17,2025-09-17,1,148.0,techademy.com
+1900,0,HR Team,hre@idexmedia.in,,,,2025-09-17,2025-09-17,1,148.0,idexmedia.in
+1901,0,Ankit,ankit.khare@trademo.com,,,,2025-09-17,2025-09-17,1,148.0,trademo.com
+1902,805,Joms,joms.jose@infosys.com,,,,2025-09-18,2025-09-18,1,147.0,infosys.com
+1903,805,Seema,seema_gulati@infosys.com,,,,2025-09-18,2025-09-18,1,147.0,infosys.com
+1904,0,Srijith,srijitvel@dotsod.in,,,,2025-09-19,2025-09-19,1,146.0,dotsod.in
+1905,0,Annie,annie.napolean@campusshoes.com,9717275574,,https://www.linkedin.com/in/annie-napoleon-54504910/,2025-09-19,2025-09-19,1,146.0,campusshoes.com
+1906,0,Jagan,jagan.m@bonvaero.com,,,,2025-09-22,2025-09-22,1,143.0,bonvaero.com
+1907,0,Sonal,sonal@zingg.ai,,,,2025-09-23,2025-09-23,1,142.0,zingg.ai
+1908,0,Nilanjan,nilanjan@zingg.ai,,,,2025-09-23,2025-09-23,1,142.0,zingg.ai
+1909,0,Deepa,dpapanna@bvp.com,,,,2025-09-25,2025-09-25,1,140.0,bvp.com
+1910,3643,Swetank,swetankg@winjit.com,,,,2025-09-25,2025-09-25,1,140.0,winjit.com
+1911,0,Karan,karan@intellicar.in,,,,2025-09-29,2025-09-29,1,136.0,intellicar.in
+1912,0,Nipun,na@ritualistic.in,,,,2025-09-29,2025-09-29,1,136.0,ritualistic.in
+1913,0,Veerendhar,veerendhar.j@aarvee.net,,,,2025-10-10,2025-10-10,1,125.0,aarvee.net
+1914,3009,Yash,yash.deshpande@phonepe.com,,,,2025-10-13,2025-10-13,1,122.0,phonepe.com
+1915,0,Shilpi,shilpi.minocha@idreamcareer.com,,,,2025-10-22,2025-10-22,1,113.0,idreamcareer.com
+1916,0,Rama,raama.krishna@quadranttechnologies.com,,,,2025-10-22,2025-10-22,1,113.0,quadranttechnologies.com
+1917,0,Preetham,preetham@blogvault.net,,,,2025-10-22,2025-10-22,1,113.0,blogvault.net
+1918,0,Poorva,poorva.gokhale@incedoinc.com,,,,2025-10-22,2025-10-22,1,113.0,incedoinc.com
+1919,0,Soni,soni@wizcommerce.com,,,,2025-10-23,2025-10-23,1,112.0,wizcommerce.com
+1920,0,Neha,neha.patharkar@mecstudio.com,,,,2025-11-04,2025-11-04,1,100.0,mecstudio.com
+1921,0,Awnish,ak@aeria.world,,,,2025-11-04,2025-11-04,1,100.0,aeria.world
+1922,0,Manu,manu@robinhome.ai,,,,2025-11-26,2025-11-26,1,78.0,robinhome.ai
+1923,0,Akshatha,akshatha.kumar@ceresenv.com,,,,2025-11-26,2025-11-26,1,78.0,ceresenv.com
+1924,0,Joel,joel@amuratech.com,,,,2025-12-03,2025-12-03,1,71.0,amuratech.com
+1925,0,Reancy,reancy@bidgely.com,,,,2025-12-15,2025-12-15,1,59.0,bidgely.com
+1926,0,HR Team,apply@bidgely.com,,,,2025-12-15,2025-12-15,1,59.0,bidgely.com
+1927,0,Yash,yash@hrsnavigation.com,,,,2025-12-29,2025-12-29,1,45.0,hrsnavigation.com
+1928,0,Ramees,ramees@waterscience.in,,,,2025-12-29,2025-12-29,1,45.0,waterscience.in
+1929,3254,Namita,namita.haibat@fractal.ai,,,,2026-01-03,2026-01-03,1,40.0,fractal.ai
+1930,3254,Gagan,gagan.kr@fractal.ai,,,,2026-01-03,2026-01-03,1,40.0,fractal.ai
+1931,3254,Payal,payal.singh@fractal.ai,,,,2026-01-03,2026-01-03,1,40.0,fractal.ai
+1932,3254,Rachna,rachna.patel@fractal.ai,,,,2026-01-03,2026-01-03,1,40.0,fractal.ai
+1933,3254,Rashna,rashna.engineer@fractal.ai,,,,2026-01-03,2026-01-03,1,40.0,fractal.ai
+1934,3913,Ali,ali.i.ahmed@ril.com,,,,2026-01-03,2026-01-03,1,40.0,ril.com
+1935,3913,Apurva,apurva1.patel@ril.com,,,,2026-01-03,2026-01-03,1,40.0,ril.com
+1936,0,Prabhul,prabhul.s@datazymes.com,9656823636,,,2026-01-08,2026-01-08,1,35.0,datazymes.com
+1937,0,Tirath,tirath.shah@apraava.com,,,,2026-01-08,2026-01-08,1,35.0,apraava.com
+1938,0,Ayush,agupta@skillz.com,,,,2026-01-08,2026-01-08,1,35.0,skillz.com
+1939,0,Rashi,rashi.bhatia@applydigital.com,7062422257,,,2026-01-12,2026-01-12,1,31.0,applydigital.com
+1940,2332,Suhasni,suhasni.hangloo@rapido.bike,,,,2026-01-14,2026-01-14,1,29.0,rapido.bike
+1941,2332,Sonal,sonal@rapido.bike,,,,2026-01-14,2026-01-14,1,29.0,rapido.bike
+1942,0,HR Team,hr@zoomedia.in,,,,2026-01-14,2026-01-14,1,29.0,zoomedia.in
+1943,3051,HR Team,recruitmentot@rrd.com,,,,2026-01-14,2026-01-14,1,29.0,rrd.com
+1944,0,Rushda,rushda.n@geekyants.com,,,,2026-01-14,2026-01-14,1,29.0,geekyants.com
+1945,0,Priya,hr@nomi.co.uk,,,,2026-01-14,2026-01-14,1,29.0,nomi.co.uk
+1946,0,Saloni,saloni.dagly@onsurity.com,,,,2026-01-19,2026-01-19,1,24.0,onsurity.com
+1947,0,Siddharth,sid.kakkad@datasutram.com,,,,2026-01-19,2026-01-19,1,24.0,datasutram.com
+1948,0,Kaushik,kaushik.vedpathak@datasutram.com,,,,2026-01-19,2026-01-19,1,24.0,datasutram.com
+1949,0,Darpan,darpan.parsekar@datasutram.com,,,,2026-01-19,2026-01-19,1,24.0,datasutram.com
+1950,0,Divya,divya.s@kshemapower.com,,,,2026-01-20,2026-01-20,1,23.0,kshemapower.com
+1951,0,Pratham,hr@recircle.in,,,,2026-01-20,2026-01-20,1,23.0,recircle.in
+1952,0,Anubhav ,anubhav@xobot.co,9873447847,,,2026-01-20,2026-01-20,1,23.0,xobot.co
+1953,0,HR Team,hr@we360.ai,,,,2026-01-20,2026-01-20,1,23.0,we360.ai
+1954,0,Ram,ram.n@machint.com,,,,2026-01-21,2026-01-21,1,22.0,machint.com
+1955,3051,Steffy,steffy.jewellaa@rrd.com,,,,2026-01-22,2026-01-22,1,21.0,rrd.com
+1956,0,Prakruthi,prakruthi@rokkun.io,,,,2026-01-22,2026-01-22,1,21.0,rokkun.io
+1957,0,Sujitha ,hr@freshbus.com,,,,2026-01-22,2026-01-22,1,21.0,freshbus.com
+1958,0,Jyoti,jyoti.n@stochastinc.com,,,,2026-01-22,2026-01-22,1,21.0,stochastinc.com
+1959,0,Recruitment Team,recruitment@redcompass.com,,,,2026-01-22,2026-01-22,1,21.0,redcompass.com
+1960,0,Apoorv ,apoorv@atomiccapital.in,,,,2026-01-23,2026-01-23,1,20.0,atomiccapital.in
+1961,0,Kapil,hr@kneexpert.in,,,,2026-01-26,2026-01-26,1,17.0,kneexpert.in
+1962,0,Priyanka,priyanka@appinessworld.com,,,,2026-01-27,2026-01-27,1,16.0,appinessworld.com
+1963,0, Georgiana,georgiana@smartworking.io,,,,2026-01-28,2026-01-28,1,15.0,smartworking.io
+1964,0,Jobin,jobin@satsure.co,,,,2026-01-28,2026-01-28,1,15.0,satsure.co
+1965,0,Chhavi,chhavi.srivastava@atidan.com,,,,2026-01-28,2026-01-28,1,15.0,atidan.com
+1966,0,Dikshita,dikshita.phutane@atidan.com,,,,2026-01-28,2026-01-28,1,15.0,atidan.com
+1967,0,Rashmit,rashmit@satsure.co,,,,2026-01-29,2026-01-29,1,14.0,satsure.co
+1968,0,Vishu,vgudepu@oteemo.com,,,,2026-01-29,2026-01-29,1,14.0,oteemo.com
+1969,0,Nida,nida.ahmed@vcommission.com,,,,2026-01-30,2026-01-30,1,13.0,vcommission.com
+1970,0,Prabhakaran,prabakharan@neokred.tech,,,,2026-01-30,2026-01-30,1,13.0,neokred.tech
+1971,0,Rakesh,rakesh@sidanaventures.com,,,,2026-02-02,2026-02-02,1,10.0,sidanaventures.com
+1972,2246,Abhilasha,abhilasha.t@codilar.com,,,,2026-02-02,2026-02-02,1,10.0,codilar.com
+1973,0,Cynthia,hr@zuppa.io,,,,2026-02-02,2026-02-02,1,10.0,zuppa.io
+1974,0,Athar,athar.a@veehealthtek.com,,,,2026-02-03,2026-02-03,1,9.0,veehealthtek.com
+1975,0,Ranjith,ranjith.tp@volvo.com,,,,2026-02-03,2026-02-03,1,9.0,volvo.com
+1976,0,Preethi,recruitment@blackstraw.ai,,,,2026-02-03,2026-02-03,1,9.0,blackstraw.ai
+1977,0,Shilpa,shilpa.khisty@we360.ai,,,,2026-02-04,2026-02-04,1,8.0,we360.ai
+1978,0,Nikhil,nikhil@vlccgroup.com,,,,2026-02-04,2026-02-04,1,8.0,vlccgroup.com
+1979,0,Sankalp,sankalp.t@loopie.in,,,,2026-02-05,2026-02-05,1,7.0,loopie.in
+1980,0,HR Team,hr@loopie.in,,,,2026-02-05,2026-02-05,1,7.0,loopie.in
+1981,0,Abhilash,abhilashpulupula1505@gmail.com,,,,2026-02-05,2026-02-05,1,7.0,gmail.com
+1982,0,Harish,cv@sarvm.ai,,,,2026-02-06,2026-02-06,1,6.0,sarvm.ai
+1983,2928,Sumita,sumita@adaan.com,,,,2026-02-09,2026-02-09,1,3.0,adaan.com
+1984,0,Sakshi,sakshi.naik@sprint-co.com,9372189473,,,2026-02-11,2026-02-11,1,1.0,sprint-co.com
+1985,0,Snehal,snehal.pawar@alstomgroup.com,,,,2026-02-11,2026-02-11,1,1.0,alstomgroup.com
+1986,3279,HR Team,humanresources@intugine.com,,,,2026-02-11,2026-02-11,1,1.0,intugine.com

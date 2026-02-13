@@ -1,0 +1,171 @@
+# Recruitment Sales Intelligence Configuration
+
+# Data Source Paths
+data_sources:
+  mysql_csv:
+    clients: "data/raw/clients.csv"
+    roles: "data/raw/roles.csv"
+    spocs: "data/raw/spocs.csv"
+    interactions: "data/raw/interactions.csv"
+  email:
+    mbox_file: "data/raw/emails.mbox"
+  linkedin:
+    exports: "data/raw/linkedin_conversations.csv"
+  whatsapp:
+    exports: "data/raw/whatsapp_chats.txt"
+  inbound:
+    form_leads: "data/raw/inbound_leads.csv"
+
+# Funnel Classification Rules
+classification:
+  bottom_funnel:
+    # Active clients (worked with in last X months)
+    active_threshold_days: 180
+    # Dormant but warm (worked with between X and Y months ago)
+    dormant_min_days: 180
+    dormant_max_days: 730
+    # Minimum interaction quality score (1-10)
+    min_quality_score: 6
+
+  middle_funnel:
+    keywords:
+      stalled: ["let me get back", "will check", "circle back", "busy right now", "not the right time"]
+      jd_shared: ["job description", "jd attached", "requirement attached", "position details"]
+      proposal_sent: ["proposal attached", "our offer", "pricing", "terms", "contract"]
+      negotiation: ["budget", "rate", "discount", "negotiate", "discuss terms"]
+      reconnect_later: ["next quarter", "few months", "touch base later", "future opportunities"]
+
+  hidden_opportunities:
+    inbound_signals: ["form submission", "website inquiry", "demo request", "interested in"]
+    referral_signals: ["recommend you to", "someone you should talk to", "may be interested", "pass along your info"]
+    job_change_signals: ["new role", "joined", "starting at", "moved to", "position at"]
+    keep_in_touch: ["stay connected", "keep in touch", "let's connect", "catch up"]
+
+# LinkedIn Enrichment Settings
+linkedin:
+  scraping:
+    enabled: true
+    rate_limit_seconds: 5  # Delay between requests to avoid detection
+    max_retries: 3
+    timeout_seconds: 30
+  search:
+    # Use Sales Navigator if available
+    use_sales_nav: false
+    # Search strategies
+    search_by_email: true
+    search_by_name_company: true
+  output:
+    include_current_company: true
+    include_past_companies: true
+    include_job_changes_last_n_years: 3
+
+# Referral Strategy Settings
+referral_strategies:
+  # Strategy 1: Same company, different SPOC
+  cross_spoc:
+    enabled: true
+    priority: "HIGH"
+    template: "templates/cross_spoc_outreach.txt"
+
+  # Strategy 2: SPOC changed companies
+  spoc_new_company:
+    enabled: true
+    priority: "HIGH"
+    template: "templates/spoc_new_company.txt"
+
+  # Strategy 3: Reverse referral to old company
+  reverse_referral:
+    enabled: true
+    priority: "MEDIUM"
+    template: "templates/reverse_referral.txt"
+
+  # Strategy 4: Re-engage middle funnel
+  middle_funnel_reactivation:
+    enabled: true
+    priority: "MEDIUM"
+    template: "templates/middle_funnel_bump.txt"
+
+# Data Deduplication
+deduplication:
+  # Fields to use for matching
+  match_on:
+    - email
+    - linkedin_url
+    - phone
+  # Fuzzy matching threshold for names (0-100)
+  name_similarity_threshold: 85
+  # Company name matching threshold
+  company_similarity_threshold: 80
+
+# Scoring & Prioritization
+scoring:
+  weights:
+    recency: 0.30          # How recently did we interact?
+    relationship_depth: 0.25  # Number of successful placements
+    engagement_level: 0.20    # Email opens, replies, meeting attendance
+    seniority: 0.15           # Decision-making authority
+    company_size: 0.10        # Larger companies = more roles
+
+  # Engagement signals (positive)
+  positive_signals:
+    - "replied to email"
+    - "attended meeting"
+    - "provided referral"
+    - "hired our candidate"
+    - "renewed contract"
+
+  # Disengagement signals (negative)
+  negative_signals:
+    - "unsubscribed"
+    - "bounced email"
+    - "marked as spam"
+    - "explicitly declined"
+    - "asked not to contact"
+
+# Output Formats
+output:
+  leads:
+    format: "csv"  # csv, xlsx, json
+    include_scores: true
+    include_templates: true
+    segment_by_funnel: true
+
+  crm_integration:
+    format: "csv"  # Format for CRM import
+    include_custom_fields: true
+    # Map internal fields to CRM fields
+    field_mapping:
+      email: "Email"
+      full_name: "Full Name"
+      company: "Company"
+      title: "Job Title"
+      linkedin_url: "LinkedIn URL"
+      funnel_stage: "Lead Stage"
+      priority_score: "Lead Score"
+      last_contact_date: "Last Activity"
+      next_action: "Next Step"
+      outreach_template: "Email Template"
+
+# Email Template Personalization
+templates:
+  variables:
+    - company_name
+    - spoc_name
+    - spoc_title
+    - past_spoc_name
+    - past_company
+    - roles_worked
+    - last_interaction_date
+    - mutual_connections
+    - recent_growth_metric
+
+# Processing Settings
+processing:
+  # Number of parallel workers for LinkedIn scraping
+  workers: 3
+  # Batch size for processing
+  batch_size: 100
+  # Enable verbose logging
+  verbose: true
+  # Log file path
+  log_file: "outputs/reports/processing.log"

@@ -1,0 +1,18 @@
+Subject: Great to see you at {new_company_name}!
+
+Hi {spoc_name},
+
+I hope you're doing well! I saw that you've recently joined {new_company_name} as {new_title} - congratulations!
+
+We had a great working relationship when you were at {old_company_name}, and I'd love to see if we could support your hiring needs at {new_company_name}.
+
+Since we last worked together, we've:
+- Grown our team to {team_size}
+- Expanded into {new_domains}
+- Filled {number}+ positions across {industries}
+
+Would you be open to reconnecting? I'd love to hear about your goals at {new_company_name} and explore how we can help.
+
+Best regards,
+[Your Name]
+TalentXO
