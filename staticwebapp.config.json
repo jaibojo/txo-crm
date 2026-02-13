@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "/crm_standalone.html"
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/crm_standalone.html"
+  },
+  "mimeTypes": {
+    ".json": "application/json",
+    ".html": "text/html"
+  }
+}
